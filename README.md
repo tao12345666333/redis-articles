@@ -11,3 +11,5 @@ redis相关文章每日精选~ 欢迎一起参与
 * [Redis压缩列表原理与应用分析](https://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342814&idx=1&sn=aba5c247a8c726cea3a86bac64d4a339&scene=1&srcid=0727YNxfwO2zzZlW7AVplGMN&key=8dcebf9e179c9f3a7a34a51b0f07d506dbdf1c1ae28cc0442d989767a2f2950aa11e97ab9520b605645d5c50300a9a04&ascene=0&uin=MzM4Njg2NDU1)
 
 * [Apache Mesos runs Redis](https://github.com/mesos/mr-redis)
+
+* [codis，codis3.0和其他](https://mp.weixin.qq.com/s?__biz=MjM5NDMzMDE5NQ==&mid=402357641&idx=1&sn=7a00695620185ed57d09e5c591ebed0a&scene=1&srcid=0729ywJCIxWbnjJKBW1BaXYM&key=8dcebf9e179c9f3aebbcd0aded38c73549c899bab23ed9b05417ceb46e764c80dbf25c96f10cf8ce020110f03bcb2aec&ascene=0&uin=MzM4Njg2NDU1)
