@@ -6,7 +6,7 @@
 
 请扫描下面二维码, 回复 **申请加入Redis交流群** 即可.
 
-![入群二维码](http://moelove.qiniudn.com/my_qrcode.jpg)
+![入群二维码](qrcode.jpg)
 
 # 文章列表
 
