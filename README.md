@@ -13,3 +13,5 @@ redis相关文章每日精选~ 欢迎一起参与
 * [Apache Mesos runs Redis](https://github.com/mesos/mr-redis)
 
 * [codis，codis3.0和其他](https://mp.weixin.qq.com/s?__biz=MjM5NDMzMDE5NQ==&mid=402357641&idx=1&sn=7a00695620185ed57d09e5c591ebed0a&scene=1&srcid=0729ywJCIxWbnjJKBW1BaXYM&key=8dcebf9e179c9f3aebbcd0aded38c73549c899bab23ed9b05417ceb46e764c80dbf25c96f10cf8ce020110f03bcb2aec&ascene=0&uin=MzM4Njg2NDU1)
+
+* [优酷蓝鲸近千节点的Redis集群运维经验总结](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653160253&idx=1&sn=52576dd6e5acfd7ba140efe67bc0fa6e&scene=1&srcid=0730MWmZSIgzaEhuJjt2ZJn2&pass_ticket=4nMfla%2BECFYqmXGvENtmJG9l7dThjwOasoT8r2q8h8tbHJgiyxfMA6v1jHqXAr7A#rd)
