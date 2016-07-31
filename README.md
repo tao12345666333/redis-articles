@@ -22,3 +22,5 @@
 
 * [优酷蓝鲸近千节点的Redis集群运维经验总结](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653160253&idx=1&sn=52576dd6e5acfd7ba140efe67bc0fa6e&scene=1&srcid=0730MWmZSIgzaEhuJjt2ZJn2&pass_ticket=4nMfla%2BECFYqmXGvENtmJG9l7dThjwOasoT8r2q8h8tbHJgiyxfMA6v1jHqXAr7A#rd)
 
+* [【干货】Docker化高可用redis集群](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658351573&idx=2&sn=fb194491852b84b793233b2bebc456dc&scene=1&srcid=0731HDDs6lEuh8q2wMpmViy3&pass_ticket=JiiNCOOLwCNJRHCGqmKYIgl9nnA0YZMert1gbyFdNh5ojmB5oqvqi0LgW0GSOSY%2F#rd)
+
