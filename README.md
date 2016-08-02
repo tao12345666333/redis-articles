@@ -26,3 +26,5 @@
 
 * [小记weblogic_ssrf入侵redis测试](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651865017&idx=1&sn=4d5c3279d477f8cdeb4af6210a029920&scene=1&srcid=0801n81ssMgASY8HQSKQM4gv&key=8dcebf9e179c9f3ad7b2ddb96e317c558e09c18380715f901187719f98e72942b6173458d1d9d639d91b7eb54865ab25&ascene=0)
 
+* [Java Multimaps With Redis](https://dzone.com/articles/multimaps-with-redis)
+
