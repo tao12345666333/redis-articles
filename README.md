@@ -28,3 +28,5 @@
 
 * [Java Multimaps With Redis](https://dzone.com/articles/multimaps-with-redis)
 
+* [Redis学习系列之八：Redis事务玩法](https://mp.weixin.qq.com/s?__biz=MzI1MjExMDMzNQ==&mid=2651113608&idx=1&sn=0d1ec5f7e1201c2fdea72ab2df091cec&scene=1&srcid=0711PZXDU2AiKpxyYRHgj5i7&key=8dcebf9e179c9f3afe92530dd11458e69e5be406155baaac4921deaa441453a57f2cb9cc24f692e02ab4faf978774123&ascene=0&uin=MzM4Njg2NDU1)
+
