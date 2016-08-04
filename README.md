@@ -30,3 +30,5 @@
 
 * [Redis学习系列之八：Redis事务玩法](https://mp.weixin.qq.com/s?__biz=MzI1MjExMDMzNQ==&mid=2651113608&idx=1&sn=0d1ec5f7e1201c2fdea72ab2df091cec&scene=1&srcid=0711PZXDU2AiKpxyYRHgj5i7&key=8dcebf9e179c9f3afe92530dd11458e69e5be406155baaac4921deaa441453a57f2cb9cc24f692e02ab4faf978774123&ascene=0&uin=MzM4Njg2NDU1)
 
+* [redis缓存队列+mysql 批量入库+php离线整合](https://mp.weixin.qq.com/s?__biz=MjM5NTg5NTI2Ng==&mid=2651946936&idx=1&sn=f28487303d9035d02a3e1da94378f57d&scene=1&srcid=0804NrrkEixHFyS0zATLcny7&key=8dcebf9e179c9f3aedb45141ac10dd042b6e842b32270fec6527a2110020e40f3080d89768e066adf20bf150aa00dc3a&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=g%2BjoTC2uMVq6%2B%2BuQCacVG6YirocqCXlUEmsN%2BJfy2RaSxVsHtTU5LHWjYuShZTZs)
+
