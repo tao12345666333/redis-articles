@@ -34,3 +34,5 @@
 
 * [同程旅游缓存系统设计:如何打造Redis时代的完美体系](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547622&idx=1&sn=199cd6d8e3dff7c839935a7613d43e76&scene=1&srcid=0804tsKGencJ4tgQ1dRTPTWv&key=8dcebf9e179c9f3a22931fa3e89afc7716f6b2856a0c3b8ba8b45a231efc32534ad777a071b036b8816939a2caad640d&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=g%2BjoTC2uMVq6%2B%2BuQCacVG6YirocqCXlUEmsN%2BJfy2RaSxVsHtTU5LHWjYuShZTZs_)
 
+* [源码分析--redis的sentinel在master宕机时是如何选择新的master的](https://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=2650967934&idx=1&sn=1abd598b740ec3b42f76d59a14e4b788&scene=1&srcid=0805flFZkfLCs3YcuMDubGIy&key=8dcebf9e179c9f3a4ec3a4df0b50bfc14a3ce61207dca241750ab5897cd4771ba2395d3cd36a4be650ce2ded3bf464ee&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=%2B%2Bs%2BprcYPxXIB3liYYVjzMYEZvUIiLgSmxnB0nfN1VfinOwU%2BwXfHPE0549xYTzh)
+
