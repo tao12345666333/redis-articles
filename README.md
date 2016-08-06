@@ -36,3 +36,5 @@
 
 * [源码分析--redis的sentinel在master宕机时是如何选择新的master的](https://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=2650967934&idx=1&sn=1abd598b740ec3b42f76d59a14e4b788&scene=1&srcid=0805flFZkfLCs3YcuMDubGIy&key=8dcebf9e179c9f3a4ec3a4df0b50bfc14a3ce61207dca241750ab5897cd4771ba2395d3cd36a4be650ce2ded3bf464ee&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=%2B%2Bs%2BprcYPxXIB3liYYVjzMYEZvUIiLgSmxnB0nfN1VfinOwU%2BwXfHPE0549xYTzh)
 
+* [浅谈redis超时](https://mp.weixin.qq.com/s?__biz=MzAwODg3MDk0OQ==&mid=2247483695&idx=1&sn=9d002f52228c1fb7091797d279002b47&scene=1&srcid=0806ND1GVfHrZQRRcuWel8nC&pass_ticket=XwhQTzzmS9u%2BdKLAfn4b0Uu1xWKfpUS18bKfv5mSrTyLowReDXHTZxeGbdroTN62#rd)
+
