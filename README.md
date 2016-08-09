@@ -72,3 +72,5 @@
 
 * [Redis主从同步失败案例的步步深入](https://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=400500895&idx=1&sn=b27d22914d6b3cedc2fe16ccd02a1a01&scene=1&srcid=0503t2iZolqaQEyOyCiQHPhp&key=8dcebf9e179c9f3ae43910a5db8eba5e48a1f3086e9eba0189f47a5b8429762afaa207f681b01d31cd063702660b8a9b&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
 
+* [Redis实战：如何构建类微博的亿级社交平台](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547053&idx=1&sn=833fddbc83379d9cac8d7f757343412e&scene=1&srcid=0503IjY7mTn1pVdhwekclPqN&key=8dcebf9e179c9f3af67749d417e51058313ddbf84bb346e862bacf92fb8f89b1a38311de28845368112616fae1bb5705&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
