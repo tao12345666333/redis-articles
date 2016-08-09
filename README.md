@@ -54,3 +54,21 @@
 
 * [用&nbsp;Redis 轻松实现秒杀系统](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=403080667&idx=1&sn=a30bb5f1ec64ca3df79f07af4cc8ba8f&scene=1&srcid=0424L11sdRKoCxxJWl59MZrG&key=8dcebf9e179c9f3aff934ad40610de13529a3858d56604d45131d47bcebfb0c97cfa04eb745c48e4b512a9b17a1f18b4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=cs2Scfzxu3oGvnskOaAaejsudbTsJa9RNNNMqcdnB7RJSykchxlKqzo3sDkEFLd1)
 
+* [【转载】Spring下Redis的两个典型应用场景](https://mp.weixin.qq.com/s?__biz=MzA3OTIxNTA0MA==&mid=2650802694&idx=1&sn=67cab940b3743ac54ab7544a813d1bce&scene=1&srcid=0711a8xiYDRZ4ofCOo9mFdZW&key=8dcebf9e179c9f3a1690633e6ad4f35bc074e1aaa14d76b531ee94b5565c819cece8cde15ab5255f185c1c0f8e210cf3&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
+* [redis-migration：独创的redis在线数据迁移工具](https://mp.weixin.qq.com/s?__biz=MzAxNjc1MTk5Nw==&mid=401404354&idx=1&sn=36225e1e72aa1402d2fb79928addadd9&scene=1&srcid=0304rSI42ziy0Qfb9wvNDzBi&key=8dcebf9e179c9f3a6f34ddb7f5de1b77fe12f5078f6a2ac7bf9f7c0d8485989ab2d848694250dec6c20a3f96f42c0e09&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
+* [缓存框架Redis集群的方案和实现](https://mp.weixin.qq.com/s?__biz=MzAwODg1MjQ2NA==&mid=2649912021&idx=1&sn=bc0046853c1ea3957b4618dd729f77f5&scene=1&srcid=04264ssNw0mLoH7uNyWx6Run&key=8dcebf9e179c9f3a30bd91d14304700d713c45894e1700a363e1dab8fe5fc73ad2cb95b8582f793a25615dc9f8c614e4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
+* [利用redis + lua解决抢红包高并发的问题  - ImportNew](http://www.importnew.com/19117.html)
+
+* [微信、陌陌查找附近的xxx球面距离架构方案分析--番薯沙龙](https://mp.weixin.qq.com/s?__biz=MzA4NDEzMDk4OA==&mid=203041316&idx=1&sn=84b7acdf100e883e175f9865eee0b367&scene=1&srcid=0428xFvGBxZmdIhdyum8YCpy&key=8dcebf9e179c9f3a0da2922dff6afb0301a338095cbc99069a00bd8cc13004d995903a806c89792e34a946fba91cb762&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
+* [GitHub - huacnlee/redis-search: High performance real-time prefix search, indexes store in Redis for Rails application](https://github.com/huacnlee/redis-search)
+
+* [Redis GEO 特性简介](https://mp.weixin.qq.com/s?__biz=MzA4NTkxNzg0Nw==&mid=2650184778&idx=1&sn=297f3d98cea48a9326e03d7c2702bcf9&scene=1&srcid=0429aLrzf4XM31YbABmLVODh&key=8dcebf9e179c9f3ac66cc01ca6b40a1154033eb5fe152ddd4bb77ba9a2b152596d0445d292b2f3beee2c5ade7bcd94e0&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
+* [Redis集群网络闪断后如何保证数据一致性 - 今日头条(TouTiao.com)](http://toutiao.com/a6278266166587179266/?tt_from=weixin&utm_campaign=client_share&app=news_article&utm_source=weixin&iid=4137466456&utm_medium=toutiao_android&wxshare_count=1)
+
+* [Redis主从同步失败案例的步步深入](https://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=400500895&idx=1&sn=b27d22914d6b3cedc2fe16ccd02a1a01&scene=1&srcid=0503t2iZolqaQEyOyCiQHPhp&key=8dcebf9e179c9f3ae43910a5db8eba5e48a1f3086e9eba0189f47a5b8429762afaa207f681b01d31cd063702660b8a9b&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
+
