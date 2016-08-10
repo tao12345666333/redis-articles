@@ -152,8 +152,6 @@
 
 * 2016-08-10[面向GC的Java编程](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=200134007&idx=1&sn=733b9d5cc420c7ffdcaa887c17ce5d6e&scene=1&srcid=0429MkjiXrGXHUYRuuSNGFC4#rd)
 
-* 2016-08-10[【JiaGouS】Redis集群网络闪断后如何保证数据一致性](http://toutiao.com/group/6278266166587179266/?iid=4137466456&app=news_article&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share)
-
 * 2016-08-10[Software error doomed Japanese Hitomi spacecraft : Nature News & Comment](http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835?from=timeline&isappinstalled=0)
 
 
@@ -161,18 +159,11 @@
 
 * 2016-08-10[redis pdf](http://pan.baidu.com/share/link?shareid=3001852208&uk=285584457)
 
-
-* 2016-08-10[用 Redis 轻松实现秒杀系统](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=403080667&idx=1&sn=a30bb5f1ec64ca3df79f07af4cc8ba8f&scene=1&srcid=0424L11sdRKoCxxJWl59MZrG#rd)
-
 * 2016-08-10[Top Redis Headaches for Devops – Replication Buffer](https://redislabs.com/blog/top-redis-headaches-for-devops-replication-buffer#.VxzASUC3PqB)
-
-* 2016-08-10[【 附Q&A】服务化分布式Redis架构设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5NDE0MjI4MA==&mid=2656298481&idx=1&sn=4d4a8eafab91de229b427ccfc5d910cc&scene=1&srcid=0422e0IHSvMFa81sGulF0Gbc#rd)
 
 * 2016-08-10[QCon北京2016幻灯片下载合集](http://ppt.geekbang.org/qconbj2016?amp;amp;isappinstalled=0&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0)
 
 * 2016-08-10[JedisConnectionException: It seems like server has closed the connection-IT技术精华网](http://www.chepoo.com/jedis-connection-exception-it-seems-like-server-has-closed-the-connection.html)
-
-* 2016-08-10[老司机使用 Redis 缓存复杂查询](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861566&idx=1&sn=783f55ef90a772289734554cf6c1bd43&scene=1&srcid=0421o8RttkmEPq0G2CqSOp2p#rd)
 
 * [redis应用场景与最佳实践](http://www.huyanping.cn/redis%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
 
