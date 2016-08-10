@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[module.md · GitHub](https://gist.github.com/dvirsky/83fc32366d5ad82fc3dca47ed2704377)
+
 * 2016-08-10[Redis Loadable Modules System - <antirez>](http://www.antirez.com/news/106)
 
 
