@@ -10,6 +10,14 @@
 
 # 文章列表
 
+* 2016-08-10[这可能是最全的 Redis 集群方案介绍了](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296671&idx=1&sn=366de50a6787963517ff6e096c9d1643&scene=1&srcid=0601j5sEtcRyw9TtehhXW0Ix#rd)
+
+* 2016-08-10[Redis-live监控多主机redis实例信息状态-运维监控-我叫Lx](http://lx.wxqrcode.com/index.php/post/114.html)
+
+* 2016-08-10[6月23日直播：《NoSQL、RDS、BigData实现异构融合实战分享》-云栖社区](https://yq.aliyun.com/articles/53760)
+
+* 2016-08-10[Redis需特别注意的场景 - 5ibc.net](http://blog.5ibc.net/p/76706.html)
+
 * 2016-08-10[Redis 3.2 GEO功能支持](http://mp.weixin.qq.com/s?__biz=MjM5MjIxNDA4NA==&mid=2649737629&idx=1&sn=e612a3126abdb612d0a4249468b621ba&scene=1&srcid=0526TgbYdRfQYpYqz5dgzuTN#rd)
 
 * 2016-08-10[LedisDB: A High-Performance, Redis-Like NoSQL DB Built in Go - DZone Java](https://dzone.com/articles/ledisdb-high-performance-redis)
