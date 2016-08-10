@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Redis 3.2 GEO功能支持](http://mp.weixin.qq.com/s?__biz=MjM5MjIxNDA4NA==&mid=2649737629&idx=1&sn=e612a3126abdb612d0a4249468b621ba&scene=1&srcid=0526TgbYdRfQYpYqz5dgzuTN#rd)
+
 * 2016-08-10[LedisDB: A High-Performance, Redis-Like NoSQL DB Built in Go - DZone Java](https://dzone.com/articles/ledisdb-high-performance-redis)
 
 
