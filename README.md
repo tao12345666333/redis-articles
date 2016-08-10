@@ -10,6 +10,10 @@
 
 # 文章列表
 
+* 2016-08-10[raw.githubusercontent.com](https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES)
+
+* 2016-08-10[Redis Cluster 实现 | CatKang的博客](http://catkang.github.io/2016/05/08/redis-cluster-source.html)
+
 
 * 2016-08-10[优酷土豆集团-李航-Redis-Cluster分享](http://ts.whytouch.com/pdf/g8af3976b4e40c98eb4c70b6be004a36/index.html)
 
