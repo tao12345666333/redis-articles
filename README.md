@@ -10,6 +10,12 @@
 
 # 文章列表
 
+* 2016-08-10[Storm Redis Integration](http://storm.apache.org/releases/1.0.0/storm-redis.html?from=singlemessage&isappinstalled=1)
+
+* 2016-08-10[麻雀虽小五脏具全－基于 Redis 的极简服务发现框架 Captain - Golang中国](http://golangtc.com/t/574fe7d5b09ecc02f7000014?from=singlemessage&isappinstalled=1)
+
+* 2016-08-10[巧用redis的有序集合实现一个高效订单排队后台 | 狮子牛](http://www.leoox.com/?p=343)
+
 * 2016-08-10[【Redis源码剖析】 - Redis持久化之RDB](http://sc.qq.com/fx/u?r=kcKfvoA)
 
 * 2016-08-10[Working With Node.js and Redis - DZone Java](https://dzone.com/articles/working-nodejs-and-redis)
