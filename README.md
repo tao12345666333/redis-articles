@@ -74,3 +74,5 @@
 
 * [Redis实战：如何构建类微博的亿级社交平台](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547053&idx=1&sn=833fddbc83379d9cac8d7f757343412e&scene=1&srcid=0503IjY7mTn1pVdhwekclPqN&key=8dcebf9e179c9f3af67749d417e51058313ddbf84bb346e862bacf92fb8f89b1a38311de28845368112616fae1bb5705&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=MGWnMZAOg9KlbJTWgO9ARaZA3po2c%2BLDVDHD6Xtt9cZYpjpc9ygP%2BpjWQz3D6NBE)
 
+* [设计高并发下的读服务？一个电商老兵的10条经验](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597710&idx=1&sn=e8801d7aba68485489cfcac9ac2fd2ba&scene=1&srcid=0715Yahnr2GPxUQp98dkBpSo&key=305bc10ec50ec19b477b9ee65087dafcc6e3c3d2168bcfefccd8c2d9083b94cbd90c3ec2ff4866c82059551d6dd16c12&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
+
