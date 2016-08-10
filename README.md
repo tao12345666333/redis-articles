@@ -76,3 +76,5 @@
 
 * [设计高并发下的读服务？一个电商老兵的10条经验](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597710&idx=1&sn=e8801d7aba68485489cfcac9ac2fd2ba&scene=1&srcid=0715Yahnr2GPxUQp98dkBpSo&key=305bc10ec50ec19b477b9ee65087dafcc6e3c3d2168bcfefccd8c2d9083b94cbd90c3ec2ff4866c82059551d6dd16c12&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
 
+* [深入浅出 Redis Cluster 原理，来自一次干货分享](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296996&idx=2&sn=5f4811d73e74e2a63b1cb0d3d532862a&scene=1&srcid=08093FVw9nBy03Mw6q8cQ2ve&key=305bc10ec50ec19b181b6479be2fe231b9a856f8340733ac56e3be07b30620799c45272a9f52e6c215f0868e122e2517&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
+
