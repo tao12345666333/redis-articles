@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[redis-tdigest: an accurate quantiles estimator Redis Module](https://m.reddit.com/r/redis/comments/4p17lx/redistdigest_an_accurate_quantiles_estimator/?utm_source=mweb_redirect&compact=true&from=singlemessage&isappinstalled=1)
+
 
 * 2016-08-10[cachecloud开源视频](http://pan.baidu.com/share/link?shareid=797477556&uk=285584457)
 
