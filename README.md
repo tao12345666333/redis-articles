@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[集群部署Session共享Redis解决方案 | Beautiful Code](http://zuimeidaima.com/2016/05/26/tomcat7-redis-%E5%AD%98%E5%82%A8session/)
+
 * 2016-08-10[这可能是最全的 Redis 集群方案介绍了](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296671&idx=1&sn=366de50a6787963517ff6e096c9d1643&scene=1&srcid=0601j5sEtcRyw9TtehhXW0Ix#rd)
 
 * 2016-08-10[Redis-live监控多主机redis实例信息状态-运维监控-我叫Lx](http://lx.wxqrcode.com/index.php/post/114.html)
