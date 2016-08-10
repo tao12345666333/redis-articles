@@ -10,6 +10,10 @@
 
 # 文章列表
 
+* 2016-08-10[Redis在什么时候会超越MongoDB?](http://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650486613&idx=1&sn=e81bde5c9a3bb5d97238510072c8a1de&scene=1&srcid=0602xk2Xunn11G7hPKCKEqMh#rd)
+
+* 2016-08-10[刘宁个人博客 | 分享编程知识及经验](http://www.36nu.com/m/?s=Home/Index/post/id/176)
+
 * 2016-08-10[如何快速实现高并发短文检索](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959451&idx=1&sn=991d9c3737d7db50a8351d50cdf6419d&scene=1&srcid=0602IJHda6sR00y9a2IjSfx5#rd)
 
 * 2016-08-10[唯品会大规模 Redis Cluster 的生产实践](http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651660079&idx=1&sn=bca50ad39792deadf167077308120264&scene=1&srcid=0603iCu4IwhNzrNSM7GFUgEK#rd)
