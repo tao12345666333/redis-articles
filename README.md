@@ -10,6 +10,10 @@
 
 # 文章列表
 
+* 2016-08-10[Redis时延问题分析及应对](http://mp.weixin.qq.com/s?__biz=MzA5NzA0ODA1Nw==&mid=2650513422&idx=1&sn=846550678e98d0ea1adb444579ba558f&scene=1&srcid=05203w77jdGxgKoeDMxJ6s8V#rd)
+
+* 2016-08-10[Introduction to Redis Data Structures: Bitmaps - DZone Database](https://dzone.com/articles/introduction-to-redis-data-structures-bitmaps?from=singlemessage&isappinstalled=1)
+
 
 * 2016-08-10[干货来袭！Redis技术盛宴——阿里云Redis交流会火热召开-云栖社区](https://yq.aliyun.com/articles/46636#index_section)
 
