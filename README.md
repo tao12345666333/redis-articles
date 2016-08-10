@@ -10,6 +10,10 @@
 
 # 文章列表
 
+* 2016-08-10[为了部落 - 如何通过PostgreSQL基因配对，产生优良下一代-云栖社区](https://yq.aliyun.com/articles/55869)
+
+* 2016-08-10[Redis Sentinel 高可用实现说明](http://sc.qq.com/fx/u?r=uzadcBA)
+
 * 2016-08-10[raw.githubusercontent.com](https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES)
 
 * 2016-08-10[Redis Cluster 实现 | CatKang的博客](http://catkang.github.io/2016/05/08/redis-cluster-source.html)
