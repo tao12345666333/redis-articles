@@ -11,6 +11,15 @@
 # 文章列表
 
 
+* 2016-08-10[Docker 安装 Redis | 菜鸟教程](http://www.runoob.com/docker/docker-install-redis.html?from=singlemessage&isappinstalled=1)
+
+* 2016-08-10[【干货来了】技术领创未来 － 云原生环球路演您怎能错过！](http://mp.weixin.qq.com/s?__biz=MzA4NzE4MjIyNA==&mid=2651104550&idx=1&sn=2ac5a39250c18fa59866703133de92fc&scene=1&srcid=0707Vx5GhAij1xEZIsCu6pO0#rd)
+
+* 2016-08-10[Python的Flask框架使用Redis做数据缓存的配置方法-爱编程](http://m.w2bc.com/article/152359)
+
+* 2016-08-10[Shanghai BigData Streaming 3rd Meetup-活动-CSDN.NET](http://huiyi.csdn.net/activity/product/goods_list?project_id=3007&from=timeline&isappinstalled=0)
+
+
 * 2016-08-10[Troubleshooting Redis -- DaeMyung Kang, Kakao - YouTube](https://m.youtube.com/watch?v=7ydU97NOZb4)
 
 * 2016-08-10[Redis应用实践：小红书海量Redis存储之道](http://www.infoq.com/cn/news/2016/06/redis-storage-practise)
