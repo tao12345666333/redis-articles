@@ -10,6 +10,12 @@
 
 # 文章列表
 
+* 2016-08-10[五月直播季：《云数据库RDS for PostgreSQL最佳实践》（火热报名）-云栖社区](https://yq.aliyun.com/articles/8059?from=timeline&isappinstalled=0)
+
+* 2016-08-10[Lightning fast NoSQL with Spring Data Redis | JavaWorld](http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spring-data-redis.html)
+
+* 2016-08-10[程序员为何难以管理？](http://mp.weixin.qq.com/s?__biz=MzA3NTIzMzIxNQ==&mid=2652793683&idx=1&sn=5485f0dc61ef9bca7843ce3e4ed33bf6&scene=1&srcid=0524SbLOG11mVF24JtcYUsO4#rd)
+
 
 
 * 2016-08-10[Redis应用：大型互联网应用Session服务器](http://mp.weixin.qq.com/s?__biz=MzAxNzk2MzgyNg==&mid=2247483651&idx=1&sn=5427b064ed06d857772d1b645512b135&scene=1&srcid=0523wcTjiynuvAXodgjjk9BZ#rd)
