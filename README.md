@@ -10,6 +10,12 @@
 
 # 文章列表
 
+* 2016-08-10[Redis应用实践：小红书海量Redis存储之道](http://www.infoq.com/cn/news/2016/06/redis-storage-practise)
+
+* 2016-08-10[PingCAP Meetup 第13期——《百度 redis3 生产环境实践》《TiKV Auto Balance》](http://www.huodongxing.com/event/2340765832400)
+
+* 2016-08-10[redis未授权访问总结 - 华盟网 - http://www.77169.com](http://www.77169.com/hack/201606/227218.shtm)
+
 * 2016-08-10[Redis protected-mode - 码农阿瑞自留地](http://arui.me/index.php/archives/151/)
 
 * 2016-08-10[redis-tdigest: an accurate quantiles estimator Redis Module](https://m.reddit.com/r/redis/comments/4p17lx/redistdigest_an_accurate_quantiles_estimator/?utm_source=mweb_redirect&compact=true&from=singlemessage&isappinstalled=1)
