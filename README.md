@@ -10,6 +10,9 @@
 
 # 文章列表
 
+* 2016-08-10[redis设置超时失效key的监听触发 | 小银运维站](http://www.typ520.cn/?p=499&from=singlemessage&isappinstalled=1)
+
+* 2016-08-10[Redis 学习路线](http://www.liuhaihua.cn/archives/338580.html)
 
 * 2016-08-10[Docker 安装 Redis | 菜鸟教程](http://www.runoob.com/docker/docker-install-redis.html?from=singlemessage&isappinstalled=1)
 
