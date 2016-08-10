@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Redis protected-mode - 码农阿瑞自留地](http://arui.me/index.php/archives/151/)
+
 * 2016-08-10[redis-tdigest: an accurate quantiles estimator Redis Module](https://m.reddit.com/r/redis/comments/4p17lx/redistdigest_an_accurate_quantiles_estimator/?utm_source=mweb_redirect&compact=true&from=singlemessage&isappinstalled=1)
 
 
