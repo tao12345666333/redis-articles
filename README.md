@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[GitHub - brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark](https://github.com/brianfrankcooper/YCSB)
+
 * 2016-08-10[c/c++(hiredis)异步调用redis | 狮子牛](http://www.leoox.com/?p=304)
 
 * 2016-08-10[Storm Redis Integration](http://storm.apache.org/releases/1.0.0/storm-redis.html?from=singlemessage&isappinstalled=1)
