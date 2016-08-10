@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Working With Node.js and Redis - DZone Java](https://dzone.com/articles/working-nodejs-and-redis)
+
 * 2016-08-10[Redis 将发展为一个生态体系](http://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652401880&idx=1&sn=f9955335a6281e643cfedd497e3e210f&scene=1&srcid=0604SdbkEKm0u7uTFDowq3bG#rd)
 
 
