@@ -10,6 +10,7 @@
 
 # 文章列表
 
+
 * 2016-08-10[Troubleshooting Redis -- DaeMyung Kang, Kakao - YouTube](https://m.youtube.com/watch?v=7ydU97NOZb4)
 
 * 2016-08-10[Redis应用实践：小红书海量Redis存储之道](http://www.infoq.com/cn/news/2016/06/redis-storage-practise)
