@@ -10,6 +10,11 @@
 
 # 文章列表
 
+
+* 2016-08-10[Redis最佳实践 | kikoroc](http://kikoroc.com/2016/05/03/redis-best-practice.html?from=singlemessage&isappinstalled=1)
+
+* 2016-08-10[首发丨360开源的类Redis存储系统:Pika](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547160&idx=1&sn=befd195e2aa788775aaf1cc3b6f6fab3&scene=1&srcid=051242VSB3OeDvn9GbmJ2QY0#rd)
+
 * 2016-08-10[module.md · GitHub](https://gist.github.com/dvirsky/83fc32366d5ad82fc3dca47ed2704377)
 
 * 2016-08-10[Redis Loadable Modules System - <antirez>](http://www.antirez.com/news/106)
