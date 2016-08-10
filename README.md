@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[面向GC的Java编程](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=200134007&idx=1&sn=733b9d5cc420c7ffdcaa887c17ce5d6e&scene=1&srcid=0429MkjiXrGXHUYRuuSNGFC4#rd)
+
 * 2016-08-10[【JiaGouS】Redis集群网络闪断后如何保证数据一致性](http://toutiao.com/group/6278266166587179266/?iid=4137466456&app=news_article&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share)
 
 * 2016-08-10[Software error doomed Japanese Hitomi spacecraft : Nature News & Comment](http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835?from=timeline&isappinstalled=0)
