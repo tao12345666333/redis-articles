@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Redis Loadable Modules System - <antirez>](http://www.antirez.com/news/106)
+
 
 
 * 2016-08-10[Redis 3.2.0 is out! - <antirez>](http://antirez.com/news/104)
