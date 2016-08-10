@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[bloomfilter-redis: Distributed bloom filters on Redis (using the Hedis client). | Hackage](https://hackage.haskell.org/package/bloomfilter-redis)
+
 
 * 2016-08-10[Redis Keyspace Notifications – Redis](http://sc.qq.com/fx/u?r=gMmLTAA)
 
