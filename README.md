@@ -10,6 +10,12 @@
 
 # 文章列表
 
+* 2016-08-10[Top Redis Headaches for Devops – Replication Buffer](https://redislabs.com/blog/top-redis-headaches-for-devops-replication-buffer#.VxzASUC3PqB)
+
+* 2016-08-10[【 附Q&A】服务化分布式Redis架构设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5NDE0MjI4MA==&mid=2656298481&idx=1&sn=4d4a8eafab91de229b427ccfc5d910cc&scene=1&srcid=0422e0IHSvMFa81sGulF0Gbc#rd)
+
+* 2016-08-10[QCon北京2016幻灯片下载合集](http://ppt.geekbang.org/qconbj2016?amp;amp;isappinstalled=0&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0)
+
 * 2016-08-10[JedisConnectionException: It seems like server has closed the connection-IT技术精华网](http://www.chepoo.com/jedis-connection-exception-it-seems-like-server-has-closed-the-connection.html)
 
 * 2016-08-10[老司机使用 Redis 缓存复杂查询](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861566&idx=1&sn=783f55ef90a772289734554cf6c1bd43&scene=1&srcid=0421o8RttkmEPq0G2CqSOp2p#rd)
