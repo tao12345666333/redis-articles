@@ -80,3 +80,5 @@
 
 * [Boost your BizTalk performance with redis cache - Codit](http://www.codit.eu/blog/2016/04/boost-your-biztalk-performance-with-redis-cache)
 
+* [日请求量过亿，谈陌陌的Feed服务优化之路](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597071&idx=1&sn=cd8df9f8c52dfbfb54e65adbe19fae27&scene=1&srcid=0512JIQyvfLWqi2pJifjWZNL&key=305bc10ec50ec19bea0b9a775c269b24d87f618c53b83f2463700420ce15b0119157a6c89ef06ef1676724b179069c59&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
+
