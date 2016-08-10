@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Software error doomed Japanese Hitomi spacecraft : Nature News & Comment](http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835?from=timeline&isappinstalled=0)
+
 
 * 2016-08-10[福利贴：成都的朋友看过来～](http://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654675366&idx=3&sn=2870e1a7bc7ff2106f712ced4b12a64f&scene=1&srcid=0428U2obueLnBzQ50XmfiS3g#rd)
 
