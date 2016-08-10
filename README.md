@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Module Hub - the Redis Modules marketplace](http://redismodules.com/?from=singlemessage&isappinstalled=1)
+
 
 * 2016-08-10[Redis最佳实践 | kikoroc](http://kikoroc.com/2016/05/03/redis-best-practice.html?from=singlemessage&isappinstalled=1)
 
