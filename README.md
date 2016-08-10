@@ -11,6 +11,11 @@
 # 文章列表
 
 
+* 2016-08-10[福利贴：成都的朋友看过来～](http://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654675366&idx=3&sn=2870e1a7bc7ff2106f712ced4b12a64f&scene=1&srcid=0428U2obueLnBzQ50XmfiS3g#rd)
+
+* 2016-08-10[redis pdf](http://pan.baidu.com/share/link?shareid=3001852208&uk=285584457)
+
+
 * 2016-08-10[用 Redis 轻松实现秒杀系统](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=403080667&idx=1&sn=a30bb5f1ec64ca3df79f07af4cc8ba8f&scene=1&srcid=0424L11sdRKoCxxJWl59MZrG#rd)
 
 * 2016-08-10[Top Redis Headaches for Devops – Replication Buffer](https://redislabs.com/blog/top-redis-headaches-for-devops-replication-buffer#.VxzASUC3PqB)
