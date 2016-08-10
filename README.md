@@ -78,9 +78,9 @@
 
 * 2016-08-10  [深入浅出 Redis Cluster 原理，来自一次干货分享](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296996&idx=2&sn=5f4811d73e74e2a63b1cb0d3d532862a&scene=1&srcid=08093FVw9nBy03Mw6q8cQ2ve&key=305bc10ec50ec19b181b6479be2fe231b9a856f8340733ac56e3be07b30620799c45272a9f52e6c215f0868e122e2517&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
 
-*  2016-08-10 [Boost your BizTalk performance with redis cache - Codit](http://www.codit.eu/blog/2016/04/boost-your-biztalk-performance-with-redis-cache)
+* 2016-08-10 [Boost your BizTalk performance with redis cache - Codit](http://www.codit.eu/blog/2016/04/boost-your-biztalk-performance-with-redis-cache)
 
-*  2016-08-10  [日请求量过亿，谈陌陌的Feed服务优化之路](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597071&idx=1&sn=cd8df9f8c52dfbfb54e65adbe19fae27&scene=1&srcid=0512JIQyvfLWqi2pJifjWZNL&key=305bc10ec50ec19bea0b9a775c269b24d87f618c53b83f2463700420ce15b0119157a6c89ef06ef1676724b179069c59&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
+* 2016-08-10  [日请求量过亿，谈陌陌的Feed服务优化之路](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597071&idx=1&sn=cd8df9f8c52dfbfb54e65adbe19fae27&scene=1&srcid=0512JIQyvfLWqi2pJifjWZNL&key=305bc10ec50ec19bea0b9a775c269b24d87f618c53b83f2463700420ce15b0119157a6c89ef06ef1676724b179069c59&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
 
 * 2016-08-10  [redis求基数的常用方法分析【Crasheye实战经验分享】](https://mp.weixin.qq.com/s?__biz=MzA4MzYxNDA4OQ==&mid=2708762159&idx=1&sn=bccb2edcce6ec346fe83b40375198add&scene=1&srcid=0509mTmO7YTrSBZK9OFeFlBE&key=305bc10ec50ec19b0aabe868b152d1b23b05ce6a8a45fc48b4db9830c23d4c9148cc64bc97858ee6584227e6c56d325b&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
 
@@ -92,18 +92,11 @@
 
 * 2016-08-10  [Docker 安装 Redis | 菜鸟教程](http://www.runoob.com/docker/docker-install-redis.html?from=singlemessage&isappinstalled=1)
 
-* 2016-08-10  [【干货来了】技术领创未来 － 云原生环球路演您怎能错过！](http://mp.weixin.qq.com/s?__biz=MzA4NzE4MjIyNA==&mid=2651104550&idx=1&sn=2ac5a39250c18fa59866703133de92fc&scene=1&srcid=0707Vx5GhAij1xEZIsCu6pO0#rd)
-
 * 2016-08-10  [Python的Flask框架使用Redis做数据缓存的配置方法-爱编程](http://m.w2bc.com/article/152359)
-
-* 2016-08-10  [Shanghai BigData Streaming 3rd Meetup-活动-CSDN.NET](http://huiyi.csdn.net/activity/product/goods_list?project_id=3007&from=timeline&isappinstalled=0)
-
 
 * 2016-08-10  [Troubleshooting Redis -- DaeMyung Kang, Kakao - YouTube](https://m.youtube.com/watch?v=7ydU97NOZb4)
 
 * 2016-08-10  [Redis应用实践：小红书海量Redis存储之道](http://www.infoq.com/cn/news/2016/06/redis-storage-practise)
-
-* 2016-08-10  [PingCAP Meetup 第13期——《百度 redis3 生产环境实践》《TiKV Auto Balance》](http://www.huodongxing.com/event/2340765832400)
 
 * 2016-08-10  [redis未授权访问总结 - 华盟网 - http://www.77169.com](http://www.77169.com/hack/201606/227218.shtm)
 
@@ -111,19 +104,15 @@
 
 * 2016-08-10  [redis-tdigest: an accurate quantiles estimator Redis Module](https://m.reddit.com/r/redis/comments/4p17lx/redistdigest_an_accurate_quantiles_estimator/?utm_source=mweb_redirect&compact=true&from=singlemessage&isappinstalled=1)
 
-
 * 2016-08-10  [cachecloud开源视频](http://pan.baidu.com/share/link?shareid=797477556&uk=285584457)
 
 * 2016-08-10  [Top 10 Redis Interview Questions](http://career.guru99.com/top-10-redis-interview-questions/?from=singlemessage&isappinstalled=1)
-
-* 2016-08-10  [为了部落 - 如何通过PostgreSQL基因配对，产生优良下一代-云栖社区](https://yq.aliyun.com/articles/55869)
 
 * 2016-08-10  [Redis Sentinel 高可用实现说明](http://sc.qq.com/fx/u?r=uzadcBA)
 
 * 2016-08-10  [raw.githubusercontent.com](https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES)
 
 * 2016-08-10  [Redis Cluster 实现 | CatKang的博客](http://catkang.github.io/2016/05/08/redis-cluster-source.html)
-
 
 * 2016-08-10  [优酷土豆集团-李航-Redis-Cluster分享](http://ts.whytouch.com/pdf/g8af3976b4e40c98eb4c70b6be004a36/index.html)
 
@@ -147,10 +136,9 @@
 
 * 2016-08-10  [如何实现高可用的redis集群](http://mp.weixin.qq.com/s?__biz=MzAwNTg2MDUyMw==&mid=2247483661&idx=1&sn=c924b3a2b098c4211b0044de180a1c0e&scene=1&srcid=0602Tz3fLbONMGrAINSGKbXh#rd)
 
-
 * 2016-08-10  [Redis在什么时候会超越MongoDB?](http://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650486613&idx=1&sn=e81bde5c9a3bb5d97238510072c8a1de&scene=1&srcid=0602xk2Xunn11G7hPKCKEqMh#rd)
 
-* 2016-08-10  [刘宁个人博客 | 分享编程知识及经验](http://www.36nu.com/m/?s=Home/Index/post/id/176)
+* 2016-08-10  [Redis乐观锁详解及应用](http://www.36nu.com/m/?s=Home/Index/post/id/176)
 
 * 2016-08-10  [如何快速实现高并发短文检索](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959451&idx=1&sn=991d9c3737d7db50a8351d50cdf6419d&scene=1&srcid=0602IJHda6sR00y9a2IjSfx5#rd)
 
@@ -170,11 +158,7 @@
 
 * 2016-08-10  [LedisDB: A High-Performance, Redis-Like NoSQL DB Built in Go - DZone Java](https://dzone.com/articles/ledisdb-high-performance-redis)
 
-* 2016-08-10  [五月直播季：《云数据库RDS for PostgreSQL最佳实践》（火热报名）-云栖社区](https://yq.aliyun.com/articles/8059?from=timeline&isappinstalled=0)
-
 * 2016-08-10  [Lightning fast NoSQL with Spring Data Redis | JavaWorld](http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spring-data-redis.html)
-
-* 2016-08-10  [程序员为何难以管理？](http://mp.weixin.qq.com/s?__biz=MzA3NTIzMzIxNQ==&mid=2652793683&idx=1&sn=5485f0dc61ef9bca7843ce3e4ed33bf6&scene=1&srcid=0524SbLOG11mVF24JtcYUsO4#rd)
 
 * 2016-08-10  [Redis应用：大型互联网应用Session服务器](http://mp.weixin.qq.com/s?__biz=MzAxNzk2MzgyNg==&mid=2247483651&idx=1&sn=5427b064ed06d857772d1b645512b135&scene=1&srcid=0523wcTjiynuvAXodgjjk9BZ#rd)
 
@@ -214,12 +198,7 @@
 
 * 2016-08-10  [【互联网小兵】网易视频云：网易HBase基准性能测试之结果篇](http://toutiao.com/group/6278854910721638657/?iid=4180859862&app=news_article&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share)
 
-* 2016-08-10  [面向GC的Java编程](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=200134007&idx=1&sn=733b9d5cc420c7ffdcaa887c17ce5d6e&scene=1&srcid=0429MkjiXrGXHUYRuuSNGFC4#rd)
-
 * 2016-08-10  [Software error doomed Japanese Hitomi spacecraft : Nature News & Comment](http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835?from=timeline&isappinstalled=0)
-
-
-* 2016-08-10  [福利贴：成都的朋友看过来～](http://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654675366&idx=3&sn=2870e1a7bc7ff2106f712ced4b12a64f&scene=1&srcid=0428U2obueLnBzQ50XmfiS3g#rd)
 
 * 2016-08-10  [redis pdf](http://pan.baidu.com/share/link?shareid=3001852208&uk=285584457)
 
