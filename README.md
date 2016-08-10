@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[优酷土豆集团-李航-Redis-Cluster分享](http://ts.whytouch.com/pdf/g8af3976b4e40c98eb4c70b6be004a36/index.html)
+
 * 2016-08-10[Redis 缓存失效机制](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861715&idx=1&sn=e30a388f897c8953842fb5e8843048e4&scene=1&srcid=0612RjASKJVk7yGvipyXM51Z#rd)
 
 * 2016-08-10[GitHub - brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark](https://github.com/brianfrankcooper/YCSB)
