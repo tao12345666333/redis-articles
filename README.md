@@ -82,3 +82,5 @@
 
 * [日请求量过亿，谈陌陌的Feed服务优化之路](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597071&idx=1&sn=cd8df9f8c52dfbfb54e65adbe19fae27&scene=1&srcid=0512JIQyvfLWqi2pJifjWZNL&key=305bc10ec50ec19bea0b9a775c269b24d87f618c53b83f2463700420ce15b0119157a6c89ef06ef1676724b179069c59&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
 
+* [redis求基数的常用方法分析【Crasheye实战经验分享】](https://mp.weixin.qq.com/s?__biz=MzA4MzYxNDA4OQ==&mid=2708762159&idx=1&sn=bccb2edcce6ec346fe83b40375198add&scene=1&srcid=0509mTmO7YTrSBZK9OFeFlBE&key=305bc10ec50ec19b0aabe868b152d1b23b05ce6a8a45fc48b4db9830c23d4c9148cc64bc97858ee6584227e6c56d325b&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YBk2ujYh4XjbsRV4RktshkN5XvslbbH8Wmh6W%2FK0gNKZKoeFIXdjzh2JWQjMtYmI)
+
