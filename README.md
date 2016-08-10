@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[c/c++(hiredis)异步调用redis | 狮子牛](http://www.leoox.com/?p=304)
+
 * 2016-08-10[Storm Redis Integration](http://storm.apache.org/releases/1.0.0/storm-redis.html?from=singlemessage&isappinstalled=1)
 
 * 2016-08-10[麻雀虽小五脏具全－基于 Redis 的极简服务发现框架 Captain - Golang中国](http://golangtc.com/t/574fe7d5b09ecc02f7000014?from=singlemessage&isappinstalled=1)
