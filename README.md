@@ -207,3 +207,6 @@
 * 2016-08-10  [QCon北京2016幻灯片下载合集](http://ppt.geekbang.org/qconbj2016?amp;amp;isappinstalled=0&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0)
 
 * 2016-08-10  [JedisConnectionException: It seems like server has closed the connection-IT技术精华网](http://www.chepoo.com/jedis-connection-exception-it-seems-like-server-has-closed-the-connection.html)
+
+
+* 2016-08-11  [记一个Redis安全漏洞和Redis安全规范 | 今天](https://zhuoroger.github.io/2016/07/29/redis-sec/)
