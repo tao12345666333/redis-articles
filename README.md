@@ -10,6 +10,10 @@
 
 # 文章列表
 
+
+* 2016-08-10[如何实现高可用的redis集群](http://mp.weixin.qq.com/s?__biz=MzAwNTg2MDUyMw==&mid=2247483661&idx=1&sn=c924b3a2b098c4211b0044de180a1c0e&scene=1&srcid=0602Tz3fLbONMGrAINSGKbXh#rd)
+
+
 * 2016-08-10[Redis在什么时候会超越MongoDB?](http://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650486613&idx=1&sn=e81bde5c9a3bb5d97238510072c8a1de&scene=1&srcid=0602xk2Xunn11G7hPKCKEqMh#rd)
 
 * 2016-08-10[刘宁个人博客 | 分享编程知识及经验](http://www.36nu.com/m/?s=Home/Index/post/id/176)
