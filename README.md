@@ -10,6 +10,9 @@
 
 # 文章列表
 
+
+* 2016-08-10[用 Redis 轻松实现秒杀系统](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=403080667&idx=1&sn=a30bb5f1ec64ca3df79f07af4cc8ba8f&scene=1&srcid=0424L11sdRKoCxxJWl59MZrG#rd)
+
 * 2016-08-10[Top Redis Headaches for Devops – Replication Buffer](https://redislabs.com/blog/top-redis-headaches-for-devops-replication-buffer#.VxzASUC3PqB)
 
 * 2016-08-10[【 附Q&A】服务化分布式Redis架构设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5NDE0MjI4MA==&mid=2656298481&idx=1&sn=4d4a8eafab91de229b427ccfc5d910cc&scene=1&srcid=0422e0IHSvMFa81sGulF0Gbc#rd)
