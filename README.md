@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[Redis 缓存失效机制](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861715&idx=1&sn=e30a388f897c8953842fb5e8843048e4&scene=1&srcid=0612RjASKJVk7yGvipyXM51Z#rd)
+
 * 2016-08-10[GitHub - brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark](https://github.com/brianfrankcooper/YCSB)
 
 * 2016-08-10[c/c++(hiredis)异步调用redis | 狮子牛](http://www.leoox.com/?p=304)
