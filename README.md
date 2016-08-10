@@ -10,6 +10,10 @@
 
 # 文章列表
 
+* 2016-08-10[如何快速实现高并发短文检索](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959451&idx=1&sn=991d9c3737d7db50a8351d50cdf6419d&scene=1&srcid=0602IJHda6sR00y9a2IjSfx5#rd)
+
+* 2016-08-10[唯品会大规模 Redis Cluster 的生产实践](http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651660079&idx=1&sn=bca50ad39792deadf167077308120264&scene=1&srcid=0603iCu4IwhNzrNSM7GFUgEK#rd)
+
 * 2016-08-10[集群部署Session共享Redis解决方案 | Beautiful Code](http://zuimeidaima.com/2016/05/26/tomcat7-redis-%E5%AD%98%E5%82%A8session/)
 
 * 2016-08-10[这可能是最全的 Redis 集群方案介绍了](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296671&idx=1&sn=366de50a6787963517ff6e096c9d1643&scene=1&srcid=0601j5sEtcRyw9TtehhXW0Ix#rd)
