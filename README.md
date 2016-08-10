@@ -10,6 +10,8 @@
 
 # 文章列表
 
+* 2016-08-10[LedisDB: A High-Performance, Redis-Like NoSQL DB Built in Go - DZone Java](https://dzone.com/articles/ledisdb-high-performance-redis)
+
 
 
 * 2016-08-10[五月直播季：《云数据库RDS for PostgreSQL最佳实践》（火热报名）-云栖社区](https://yq.aliyun.com/articles/8059?from=timeline&isappinstalled=0)
