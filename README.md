@@ -210,3 +210,5 @@
 
 
 * 2016-08-11  [记一个Redis安全漏洞和Redis安全规范 | 今天](https://zhuoroger.github.io/2016/07/29/redis-sec/)
+
+* 2016-08-11  [zabbix监控redis多实例 - Zabbix - 运维网 - 手机版 - Powered by Discuz!](http://www.iyunv.com/thread-242436-1-1.html)
