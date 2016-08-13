@@ -215,3 +215,5 @@
 
 
 * 2016-08-12  [Redis 数据自动清理 - CNode技术社区](https://cnodejs.org/topic/57838f4a3b501f7054982ee4)
+
+* 2016-08-13  [Redis on Apache Mesos, A New Framework - Dhilip Kumar S, Huawei Technologies - YouTube](http://sc.qq.com/fx/u?r=GVGVKgA)
