@@ -219,3 +219,5 @@
 * 2016-08-13  [Redis on Apache Mesos, A New Framework - Dhilip Kumar S, Huawei Technologies - YouTube](http://sc.qq.com/fx/u?r=GVGVKgA)
 
 * 2016-08-14  [基于redis的点赞功能设计](http://sc.qq.com/fx/u?r=kLwc0nA)
+
+* 2016-08-15  [Redis和SSRF - virusdefender's blog](http://sc.qq.com/fx/u?r=aGHmYjA)
