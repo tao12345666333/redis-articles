@@ -223,3 +223,5 @@
 * 2016-08-15  [Redis和SSRF - virusdefender's blog](http://sc.qq.com/fx/u?r=aGHmYjA)
 
 * 2016-08-15  [如何优雅地删除 Redis 大键 - 分享自 @开发者头条](http://toutiao.io/posts/50yn2h)
+
+* 2016-08-15  [延迟考虑 | Redis开发运维实践指南](http://sc.qq.com/fx/u?r=ietzTsA)
