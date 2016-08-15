@@ -221,3 +221,5 @@
 * 2016-08-14  [基于redis的点赞功能设计](http://sc.qq.com/fx/u?r=kLwc0nA)
 
 * 2016-08-15  [Redis和SSRF - virusdefender's blog](http://sc.qq.com/fx/u?r=aGHmYjA)
+
+* 2016-08-15  [如何优雅地删除 Redis 大键 - 分享自 @开发者头条](http://toutiao.io/posts/50yn2h)
