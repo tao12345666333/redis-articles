@@ -227,3 +227,5 @@
 * 2016-08-15  [延迟考虑 | Redis开发运维实践指南](http://sc.qq.com/fx/u?r=ietzTsA)
 
 * 2016-08-16  [每天近百亿条用户数据，携程大数据高并发应用架构涅槃](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653160427&idx=1&sn=e522cb1e1729d5e75113bc6d9bc673cc&scene=1&srcid=0816wsbhMVer2G7aOvYvDYyP#rd)
+
+* 2016-08-17  [用redis来实现具有ack机制的消息队列](http://www.jianshu.com/p/57edefa80167)
