@@ -232,3 +232,5 @@
 
 
 * 2016-08-19  [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
+
+* 2016-08-20  [Real-World Redis Tips | Heroku](https://blog.heroku.com/real-world-redis-tips)
