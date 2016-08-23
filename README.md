@@ -236,3 +236,5 @@
 * 2016-08-20  [Real-World Redis Tips | Heroku](https://blog.heroku.com/real-world-redis-tips)
 
 * 2016-08-22  [Random notes on improving the Redis LRU algorithm - <antirez>](http://antirez.com/news/109)
+
+* 2016-08-23  [Setup Redis as the Session Store for Apache Tomcat 7 - DZone Big Data](http://sc.qq.com/fx/u?r=MN1ORsA)
