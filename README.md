@@ -240,3 +240,5 @@
 * 2016-08-23  [Setup Redis as the Session Store for Apache Tomcat 7 - DZone Big Data](http://sc.qq.com/fx/u?r=MN1ORsA)
 
 * 2016-08-23  [大规模排行榜系统实践及挑战](http://mp.weixin.qq.com/s?__biz=MzI3NTM1MjExMg==&mid=2247483816&idx=1&sn=136d3da5f2a7cf546440fa8279cbaa47&scene=1&srcid=0823pmID5jdOnO0qQSz1g1ez#rd)
+
+* 2016-08-24  [使用 Docker Compose 部署基于 Sentinel 的高可用 Redis 集群 - 掘金](http://gold.xitu.io/entry/579868e80a2b580061e352d2)
