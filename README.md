@@ -244,3 +244,6 @@
 * 2016-08-24  [使用 Docker Compose 部署基于 Sentinel 的高可用 Redis 集群 - 掘金](http://gold.xitu.io/entry/579868e80a2b580061e352d2)
 
 * 2016-08-25  [Redis源码学习——BIO-云栖社区](https://m.aliyun.com/yunqi/articles/58703?from=singlemessage&isappinstalled=1)
+
+* 2016-08-29  [Asp.net Core 使用Redis存储Session](http://www.aichengxu.com/view/10939014)
+
