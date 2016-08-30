@@ -247,3 +247,5 @@
 
 * 2016-08-29  [Asp.net Core 使用Redis存储Session](http://www.aichengxu.com/view/10939014)
 
+* 2016-08-30 [深入分析redis持久化](http://www.mobile-open.com/2016/955053.html)
+
