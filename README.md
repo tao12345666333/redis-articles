@@ -249,3 +249,5 @@
 
 * 2016-08-30 [深入分析redis持久化](http://www.mobile-open.com/2016/955053.html)
 
+* 2016-08-31 [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
+
