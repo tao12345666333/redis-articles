@@ -251,3 +251,5 @@
 
 * 2016-08-31 [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
 
+* 2016-09-01 [redis利用姿势收集](http://www.milw0rm.cn/Article/hacker/20160803/257.html)
+
