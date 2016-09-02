@@ -253,3 +253,5 @@
 
 * 2016-09-01 [redis利用姿势收集](http://www.milw0rm.cn/Article/hacker/20160803/257.html)
 
+* 2016-09-02 [Building Databases with Redis](https://scanlibs.com/building-databases-redis/)
+
