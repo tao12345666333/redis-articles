@@ -255,3 +255,5 @@
 
 * 2016-09-02 [Building Databases with Redis](https://scanlibs.com/building-databases-redis/)
 
+* 2016-09-03 [基于Redis的BloomFilter算法去重](http://www.cnblogs.com/wxisme/p/5742456.html)
+
