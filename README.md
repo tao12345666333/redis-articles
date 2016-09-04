@@ -247,13 +247,15 @@
 
 * 2016-08-29  [Asp.net Core 使用Redis存储Session](http://www.aichengxu.com/view/10939014)
 
-* 2016-08-30 [深入分析redis持久化](http://www.mobile-open.com/2016/955053.html)
+* 2016-08-30  [深入分析redis持久化](http://www.mobile-open.com/2016/955053.html)
 
-* 2016-08-31 [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
+* 2016-08-31  [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
 
-* 2016-09-01 [redis利用姿势收集](http://www.milw0rm.cn/Article/hacker/20160803/257.html)
+* 2016-09-01  [redis利用姿势收集](http://www.milw0rm.cn/Article/hacker/20160803/257.html)
 
-* 2016-09-02 [Building Databases with Redis](https://scanlibs.com/building-databases-redis/)
+* 2016-09-02  [Building Databases with Redis](https://scanlibs.com/building-databases-redis/)
 
-* 2016-09-03 [基于Redis的BloomFilter算法去重](http://www.cnblogs.com/wxisme/p/5742456.html)
+* 2016-09-03  [基于Redis的BloomFilter算法去重](http://www.cnblogs.com/wxisme/p/5742456.html)
+
+* 2016-09-04  [redis-bitmaps](http://liubo.loan/2016/08/03/redis-bitmaps/)
 
