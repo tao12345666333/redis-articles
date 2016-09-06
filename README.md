@@ -259,3 +259,5 @@
 
 * 2016-09-04  [redis-bitmaps](http://liubo.loan/2016/08/03/redis-bitmaps/)
 
+* 2016-09-05  [记一次 Redis 实战，实现答题系统](https://ruby-china.org/topics/30720)
+
