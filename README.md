@@ -261,3 +261,5 @@
 
 * 2016-09-05  [记一次 Redis 实战，实现答题系统](https://ruby-china.org/topics/30720)
 
+* 2016-09-06  [How Redis is Used in Practice](https://dzone.com/articles/how-redis-is-used-in-practice)
+
