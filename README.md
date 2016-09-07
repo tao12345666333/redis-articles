@@ -263,3 +263,5 @@
 
 * 2016-09-06  [How Redis is Used in Practice](https://dzone.com/articles/how-redis-is-used-in-practice)
 
+* 2016-09-07  [Mybatis+Redis纯注解方案实现缓存案例](http://www.imooc.com/wap/article?article_id=11585&block_id=tuijian_wz)
+
