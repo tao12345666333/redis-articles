@@ -6,7 +6,7 @@
 
 请扫描下面二维码, 回复 **申请加入Redis交流群** 即可.
 
-![入群二维码](qrcode.jpg)
+![入群二维码](https://raw.githubusercontent.com/tao12345666333/redis-articles/master/qrcode.jpg)
 
 # 文章列表
 
