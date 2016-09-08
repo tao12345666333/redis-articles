@@ -265,3 +265,5 @@
 
 * 2016-09-07  [Mybatis+Redis纯注解方案实现缓存案例](http://www.imooc.com/wap/article?article_id=11585&block_id=tuijian_wz)
 
+* 2016-09-08  [Nagios监控生产环境redis集群服务实战](http://www.xuebuyuan.com/2856051.html)
+
