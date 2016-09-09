@@ -269,3 +269,5 @@
 
 * 2016-09-08  [怎样打造一个分布式数据库 | 数据库功能深度解析](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653160683&idx=1&sn=36a4ec53d7c11e2ef553455eef838616&scene=1&srcid=0908NeI5hRd8TwRKpO5vJiR7&pass_ticket=kLLOMGDgLtOJLiZoVu6XUyKqkoJpkmJB9oxU8GmacOsEH65tl3OPS9Zj4xl4Jfvc#rd)
 
+* 2016-09-09  [Win 也能用 Nginx+Redis Cache 实现内存级缓存](https://www.mf8.biz/win-nginx-redis-cache-make-wordpress-fast/)
+
