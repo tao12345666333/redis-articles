@@ -190,8 +190,6 @@
 
 * 2016-08-10  [Redis Keyspace Notifications – Redis](http://sc.qq.com/fx/u?r=gMmLTAA)
 
-* 2016-08-10  [阿里云Redis云数据库用户交流会](http://www.huodongxing.com/event/8333280544400)
-
 * 2016-08-10  [How to setup HAProxy and Redis Sentinel for automatic failover between Redis Master and Slave servers – All Help & Support](https://discuss.zendesk.com/hc/en-us/articles/205309388-How-to-setup-HAProxy-and-Redis-Sentinel-for-automatic-failover-between-Redis-Master-and-Slave-servers?from=singlemessage&isappinstalled=1)
 
 * 2016-08-10  [HunanTV · GitHub](https://github.com/HunanTV)
