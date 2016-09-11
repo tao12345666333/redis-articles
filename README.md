@@ -271,3 +271,5 @@
 
 * 2016-09-10  [redis过期清除机制及应用方法](http://bg2bkk.github.io/post/redis%E8%BF%87%E6%9C%9F%E6%B8%85%E9%99%A4%E6%9C%BA%E5%88%B6%E5%8F%8A%E5%BA%94%E7%94%A8%E6%96%B9%E6%B3%95/)
 
+* 2016-09-11  [redis出坑记](http://kuanshijiao.com/2016/08/02/redis1/)
+
