@@ -273,3 +273,5 @@
 
 * 2016-09-11  [redis出坑记](http://kuanshijiao.com/2016/08/02/redis1/)
 
+* 2016-09-12  [Redis内部数据结构详解(5)——quicklist](http://zhangtielei.com/posts/blog-redis-quicklist.html)
+
