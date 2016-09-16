@@ -1,6 +1,6 @@
 # redis-articles
 
-这里记录了由 **Redis技术交流群** 每日精选的Redis相关文章~ 欢迎一起参与
+这里记录了由 **Redis技术交流群** 每日精选的Redis和TiDB相关文章~ 欢迎一起参与
 
 #### 如何入群
 
@@ -278,4 +278,6 @@
 * 2016-09-14  [从Redis+Lua到Goroutine，日均10亿次的股票行情计算实践](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994111&idx=1&sn=d1839d7ce0420dbb0d0c6045e7ddc037&chksm=bdbf0dec8ac884fac4537e88ae915cb0f327959f70d41f9cc20ccdbb1017f5f3c89012a88660&scene=0&key=7b81aac53bd2393ddc4ab9874b43a689fc811042fbb0104404e3073d918cd3208663d41d24de8de5c8e0ec2af997b54c&ascene=0&uin=MzM4Njg2NDU1)
 
 * 2016-09-15  [在使用redis-cluster之前你需要知道这些事](https://mp.weixin.qq.com/s?__biz=MzI0NzAxMTgxNg==&mid=2456160294&idx=1&sn=601b7aee8a17e219c9cfd014fcc8ce4c&scene=1&srcid=08174oLzPzAzLujWqTUg4CeH&pass_ticket=Zq4VkukcwGw4pgGtX2c15SKVLHVYB%2FUVMPM6ibWsg0kUzBiaEfLH%2BkkRhBGIz8KP#rd)
+
+* 2016-09-16  [PingCAP首席架构师唐刘：基于Raft构建分布式系统TiKV](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650067466&idx=2&sn=b1f6dff6355687451c85f622b5469ced&scene=1&srcid=0916Bcv3bv8PAsa4zG6H7bAF&key=7b81aac53bd2393de8b2dbe0260e9e6bc272ee3c89af82464d004e65b788e56cd475bf1e53452929161a47b876dbc61c&ascene=0&uin=MzM4Njg2NDU1)
 
