@@ -281,3 +281,5 @@
 
 * 2016-09-16  [PingCAP首席架构师唐刘：基于Raft构建分布式系统TiKV](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650067466&idx=2&sn=b1f6dff6355687451c85f622b5469ced&scene=1&srcid=0916Bcv3bv8PAsa4zG6H7bAF&key=7b81aac53bd2393de8b2dbe0260e9e6bc272ee3c89af82464d004e65b788e56cd475bf1e53452929161a47b876dbc61c&ascene=0&uin=MzM4Njg2NDU1)
 
+* 2016-09-17  [游戏服务器之内存数据库redis客户端应用（上）](https://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836506&idx=7&sn=dfcf01427f92743bfb0dfe455b9f13e4&scene=1&srcid=0823zNSeYd6VR5nOk6WNkDav&pass_ticket=%2FQjJQYxiblVACEw6%2Bd8l2iCa9ZY7mahKOhl0L4UuJUV4Uuuxgq5eLfMaHQQqbbw0#rd)
+
