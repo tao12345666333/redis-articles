@@ -283,3 +283,5 @@
 
 * 2016-09-17  [游戏服务器之内存数据库redis客户端应用（上）](https://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836506&idx=7&sn=dfcf01427f92743bfb0dfe455b9f13e4&scene=1&srcid=0823zNSeYd6VR5nOk6WNkDav&pass_ticket=%2FQjJQYxiblVACEw6%2Bd8l2iCa9ZY7mahKOhl0L4UuJUV4Uuuxgq5eLfMaHQQqbbw0#rd)
 
+* 2016-09-18  [游戏服务器之内存数据库redis客户端应用（下）](https://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836506&idx=8&sn=51ebe0e02d3b97fb418d15808cdec854&scene=1&srcid=08235Iid0tnFLAFJJZKKVHGx&key=7b81aac53bd2393de9dd26528592843cff87cc6b46ac1be46c27804b14476f3112cbb8f89e88848d204274026b2d9923&ascene=0&uin=MzM4Njg2NDU1)
+
