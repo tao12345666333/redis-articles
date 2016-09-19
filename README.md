@@ -285,3 +285,5 @@
 
 * 2016-09-18  [游戏服务器之内存数据库redis客户端应用（下）](https://mp.weixin.qq.com/s?__biz=MzAxMzc4Mzk1Mw==&mid=2649836506&idx=8&sn=51ebe0e02d3b97fb418d15808cdec854&scene=1&srcid=08235Iid0tnFLAFJJZKKVHGx&key=7b81aac53bd2393de9dd26528592843cff87cc6b46ac1be46c27804b14476f3112cbb8f89e88848d204274026b2d9923&ascene=0&uin=MzM4Njg2NDU1)
 
+* 2016-08-19  [Redis数据“丢失”问题](https://zhuoroger.github.io/2016/08/14/redis-data-loss/)
+
