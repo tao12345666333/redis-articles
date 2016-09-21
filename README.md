@@ -289,3 +289,5 @@
 
 * 2016-09-20  [细说Redis监控和告警](https://zhuoroger.github.io/2016/08/20/redis-monitor-and-alarm/)
 
+* 2016-09-21  [使用 redis-py 储存地理位置数据](http://blog.huangz.me/diary/2016/redis-py-geo-support.html)
+
