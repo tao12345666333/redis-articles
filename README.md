@@ -291,3 +291,5 @@
 
 * 2016-09-21  [使用 redis-py 储存地理位置数据](http://blog.huangz.me/diary/2016/redis-py-geo-support.html)
 
+* 2016-09-24  [Debugging Lua in Redis](https://www.compose.com/articles/debugging-lua-in-redis/)
+
