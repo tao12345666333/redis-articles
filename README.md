@@ -293,3 +293,5 @@
 
 * 2016-09-24  [Debugging Lua in Redis](https://www.compose.com/articles/debugging-lua-in-redis/)
 
+* 2016-09-25  [Redis design patterns for high volume applications](https://www.linkedin.com/pulse/redis-design-patterns-high-volume-applications-melvin-rook)
+
