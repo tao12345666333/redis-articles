@@ -295,3 +295,5 @@
 
 * 2016-09-25  [Redis design patterns for high volume applications](https://www.linkedin.com/pulse/redis-design-patterns-high-volume-applications-melvin-rook)
 
+* 2016-09-27  [Node.js中使用redis数据库的正确姿势](http://m.blog.csdn.net/article/details?id=52452322)
+
