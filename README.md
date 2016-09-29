@@ -297,3 +297,5 @@
 
 * 2016-09-27  [Node.js中使用redis数据库的正确姿势](http://m.blog.csdn.net/article/details?id=52452322)
 
+* 2016-09-29  [Monitor Redis with ELK (Kibana and Elasticsearch)](https://github.com/nickmaccarthy/redelk)
+
