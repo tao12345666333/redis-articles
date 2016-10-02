@@ -301,3 +301,5 @@
 
 * 2016-10-01  [教你看懂redis配置系列](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650796336&idx=1&sn=7ecd39f47fe5a35cbb922fe823640aae&chksm=88562c6fbf21a5798b16d43f726a2394cdd12e042c4357cd584fd83e3e6e13eec10b30f5d566&mpshare=1&scene=1&srcid=1001D0L643UNm9TuvDG0NSMt&pass_ticket=QRj3c3fe9lSk8WVW1On7YHi3%2B9PZ6fwFH7Vlvy%2FuyvNb9hXeJphbWSDHyNsLth1T#rd)
 
+* 2016-10-02  [如何用 redis 造一把分布式锁](http://sanyuesha.com/2016/08/20/distributed-lock-with-redis/)
+
