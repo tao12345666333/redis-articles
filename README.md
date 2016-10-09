@@ -305,3 +305,5 @@
 
 * 2016-10-04  [京东抢购服务高并发实践](https://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652897841&idx=1&sn=6328c5011e6c66d9a10d714a9bda52d1&scene=1&srcid=0722ccc3LqYP5NnTChkybEBK&key=77421cf58af4a653bbde6982be263b0a27a67e7340b54addaca64e61167575f415556c668e81a458634cc534efb6b8ea&ascene=0&uin=MzM4Njg2NDU1)
 
+* 2016-10-09  [UBUNTU下使用STUNNEL加密REDIS通信](https://laoyur.com/archives/183)
+
