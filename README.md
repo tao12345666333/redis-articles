@@ -307,3 +307,6 @@
 
 * 2016-10-09  [UBUNTU下使用STUNNEL加密REDIS通信](https://laoyur.com/archives/183)
 
+* 2016-10-10  [Redis为什么用跳表而不用平衡树？](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261425&idx=1&sn=d840079ea35875a8c8e02d9b3e44cf95&scene=0&key=c50f8b988e61749ab65cb6b9c037598ca0bafdf899895598f2904791c26b5e4283079646ce247da25d76658cd815b833&ascene=0&uin=MzM4Njg2NDU1)
+
+
