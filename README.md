@@ -309,4 +309,5 @@
 
 * 2016-10-10  [Redis为什么用跳表而不用平衡树？](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261425&idx=1&sn=d840079ea35875a8c8e02d9b3e44cf95&scene=0&key=c50f8b988e61749ab65cb6b9c037598ca0bafdf899895598f2904791c26b5e4283079646ce247da25d76658cd815b833&ascene=0&uin=MzM4Njg2NDU1)
 
+* 2016-10-10  [Redis系列文章——合集](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=509777776&idx=1&sn=e56f24bdf2de7e25515fe9f25ef57557&mpshare=1&scene=1&srcid=1010obMrtv58nLkdNhXXmSuL&key=c50f8b988e61749a258b35d3a186a3d12448d4e9d7ce7b09f4aa5881726ff3f2091ab64e975692dcbdae4f56d3fb1530&ascene=0&uin=MzM4Njg2NDU1)
 
