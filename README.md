@@ -311,3 +311,5 @@
 
 * 2016-10-10  [Redis系列文章——合集](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=509777776&idx=1&sn=e56f24bdf2de7e25515fe9f25ef57557&mpshare=1&scene=1&srcid=1010obMrtv58nLkdNhXXmSuL&key=c50f8b988e61749a258b35d3a186a3d12448d4e9d7ce7b09f4aa5881726ff3f2091ab64e975692dcbdae4f56d3fb1530&ascene=0&uin=MzM4Njg2NDU1)
 
+* 2016-10-11  [Redis Pub/Sub 多机房部署](http://blog.kankanan.com/article/redis-pub-sub-591a673a623f90e87f72.html)
+
