@@ -315,3 +315,5 @@
 
 * 2016-10-12  [Netty+Redis开发高并发应用的一些思考(二)](https://leibnizhu.gitlab.io/2016/09/11/Netty+Redis%E5%BC%80%E5%8F%91%E9%AB%98%E5%B9%B6%E5%8F%91%E5%BA%94%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83(%E4%BA%8C)/
 
+* 2016-10-14  [使用延迟加载来优化redis请求](http://blog.jerry-tao.com/redis/2016/09/08/lazy_hash.html)
+
