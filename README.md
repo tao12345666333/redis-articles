@@ -319,3 +319,5 @@
 
 * 2016-10-15  [Lua 语言模型与 Redis 应用](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650862099&idx=1&sn=214551960cb66673bee0421db1d835f2&chksm=8b661556bc119c4018b8ad1e8740f567fd4c78e7e3a1b9585af7693c917c6b4edf1ad9208945&mpshare=1&scene=2&srcid=1013UVvGJBCTAiKK1uJf1MVJ&from=timeline&isappinstalled=0&pass_ticket=cBFCLhhu6h1Pz3ZxrgMrIlxpNcoPaGh6TfgC2gM18h%2FjeGjFposohO6Hre7snv6m)
 
+* 2016-10-16  [Netty模拟redis服务器](http://codingo.xyz/index.php/2016/08/28/netty_redis/)
+
