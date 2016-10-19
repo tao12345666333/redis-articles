@@ -321,3 +321,5 @@
 
 * 2016-10-16  [Netty模拟redis服务器](http://codingo.xyz/index.php/2016/08/28/netty_redis/)
 
+* 2016-10-19  [干货 | Redis 内存使用优化与存储](https://mp.weixin.qq.com/s?__biz=MzA5NTkwMzkwNQ==&mid=2650434734&idx=1&sn=431ad185e76225a9fff127ea2f33f334&mpshare=1&scene=1&srcid=1019hUQHKD92Gf521KfVU7EA&key=c3acc508db720376d2a447e6a1dd697f53d9fc521291b8ac601a26954c2c4aab645e4813f1f35096fbe19c97c593350f&ascene=0&uin=MzM4Njg2NDU1)
+
