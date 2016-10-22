@@ -323,5 +323,7 @@
 
 * 2016-10-19  [干货 | Redis 内存使用优化与存储](https://mp.weixin.qq.com/s?__biz=MzA5NTkwMzkwNQ==&mid=2650434734&idx=1&sn=431ad185e76225a9fff127ea2f33f334&mpshare=1&scene=1&srcid=1019hUQHKD92Gf521KfVU7EA&key=c3acc508db720376d2a447e6a1dd697f53d9fc521291b8ac601a26954c2c4aab645e4813f1f35096fbe19c97c593350f&ascene=0&uin=MzM4Njg2NDU1)
 
-* 2016-10-21 [ansible-playbook配置redis的sentinel高可用集群](https://mp.weixin.qq.com/s?__biz=MzIyMDA1MzgyNw==&mid=2651968211&idx=1&sn=6ffddaf300a2effa53caae421ac9bf81&mpshare=1&scene=1&srcid=0927epWUDcLtZyKdoMdzSM2r&key=c3acc508db720376fc46012061b159aca31b695e132ba992b018535ff32b7a9783d3d273a0a98b02b82cff6ed6e9f4df&ascene=0&uin=MzM4Njg2NDU1)
+* 2016-10-21  [ansible-playbook配置redis的sentinel高可用集群](https://mp.weixin.qq.com/s?__biz=MzIyMDA1MzgyNw==&mid=2651968211&idx=1&sn=6ffddaf300a2effa53caae421ac9bf81&mpshare=1&scene=1&srcid=0927epWUDcLtZyKdoMdzSM2r&key=c3acc508db720376fc46012061b159aca31b695e132ba992b018535ff32b7a9783d3d273a0a98b02b82cff6ed6e9f4df&ascene=0&uin=MzM4Njg2NDU1)
+
+* 2016-10-22  [Redis分布式集群几点说道](http://www.toutiao.com/i6333355511538254338/)
 
