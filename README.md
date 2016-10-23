@@ -327,3 +327,5 @@
 
 * 2016-10-22  [Redis分布式集群几点说道](http://www.toutiao.com/i6333355511538254338/)
 
+* 2016-10-23  [Neural networks module for Redis antirez/neural-redis](https://github.com/antirez/neural-redis)
+
