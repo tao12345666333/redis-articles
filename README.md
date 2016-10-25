@@ -331,3 +331,5 @@
 
 * 2016-10-24  [运用 Redis 构建分布式爬虫，抓妹子图](https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652564100&idx=2&sn=15622321ea6feca6496707716e76bddf&chksm=8464c2ceb3134bd884554c884b01977ca41156fb087b4cbf72dd9d1b06e03b829b135436e99f&mpshare=1&scene=1&srcid=09272tnAJaFoQ92JJ8Tib55s&pass_ticket=2AbaQE4OzVpSrXpRiC%2FSdW9myntdxZc2YxGaY6ha6RvdmNplC6lfH6taAmt2a3PI#rd)
 
+* 2016-10-25  [关于Redis的一点思考与总结](http://itbroblog.com/newDetail.html?id=123)
+
