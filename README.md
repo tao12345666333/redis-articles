@@ -333,3 +333,5 @@
 
 * 2016-10-25  [关于Redis的一点思考与总结](http://itbroblog.com/newDetail.html?id=123)
 
+* 2016-10-26  [Redis性能问题排查解决手册](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650796345&idx=1&sn=d57fc5b626f14ef8eb4630d8efca50cc&chksm=88562c66bf21a570b4c365f62babfb8bb8bdcf5418151d78faeb577dd9c445cd59a70b956c8b&mpshare=1&scene=1&srcid=1010aPYLHOy5mseikqLw4FuA&key=cde9f53f8128acbd028f77d6a06d213d4d9b7394a959da287e389f862ab1647d2cd5f303efadfc5faab40bf1b8995060&ascene=0&uin=MzM4Njg2NDU1)
+
