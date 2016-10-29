@@ -339,3 +339,5 @@
 
 * 2016-10-29  [实现一个 Java 版的 Redis：百行代码解析Redis 协议.](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650067958&idx=2&sn=124b111532e6e56fa5598f19713be44e&chksm=bedb089889ac818e755f0cce2cd4cf2b140072a5c446e5ecc9685fe514d7986994cf6c784438&mpshare=1&scene=1&srcid=1022UtcvIFBRO7i44Bilk6Rl&pass_ticket=njWI0eT1ts5pIQ2SrLHpNhvwByOQk3udo%2F1l6SD2traN8ZZt%2Fsl7rVcFtT%2FHxb1l#rd)
 
+* 2016-10-29  [bsm/redeo: High-performance framework for building redis-protocol compatible TCP servers/services](https://github.com/bsm/redeo)
+
