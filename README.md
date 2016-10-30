@@ -341,3 +341,5 @@
 
 * 2016-10-29  [bsm/redeo: High-performance framework for building redis-protocol compatible TCP servers/services](https://github.com/bsm/redeo)
 
+* 2016-10-30  [pricingassistant/mrq: Mr. Queue - A distributed worker task queue in Python using Redis & gevent](https://github.com/pricingassistant/mrq)
+
