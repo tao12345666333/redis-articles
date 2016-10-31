@@ -343,3 +343,5 @@
 
 * 2016-10-30  [pricingassistant/mrq: Mr. Queue - A distributed worker task queue in Python using Redis & gevent](https://github.com/pricingassistant/mrq)
 
+* 2016-10-31  [GeoFile: Getting the distance using Redis and PostgreSQL](https://www.compose.com/articles/geofile-getting-the-distance-using-redis-and-postgresql/)
+
