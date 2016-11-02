@@ -345,3 +345,5 @@
 
 * 2016-10-31  [GeoFile: Getting the distance using Redis and PostgreSQL](https://www.compose.com/articles/geofile-getting-the-distance-using-redis-and-postgresql/)
 
+* 2016-11-02  [Distributed Locks using Golang and Redis](https://kylewbanks.com/blog/distributed-locks-using-golang-and-redis)
+
