@@ -347,3 +347,5 @@
 
 * 2016-11-02  [Distributed Locks using Golang and Redis](https://kylewbanks.com/blog/distributed-locks-using-golang-and-redis)
 
+* 2016-11-03  [Redis短连接性能优化](https://yq.aliyun.com/articles/62593)
+
