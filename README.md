@@ -349,3 +349,5 @@
 
 * 2016-11-03  [Redis短连接性能优化](https://yq.aliyun.com/articles/62593)
 
+* 2016-11-07  [redis启动流程（一）](http://www.ituring.com.cn/article/265187)
+
