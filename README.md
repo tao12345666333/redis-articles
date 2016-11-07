@@ -351,3 +351,5 @@
 
 * 2016-11-07  [redis启动流程（一）](http://www.ituring.com.cn/article/265187)
 
+* 2016-11-07  [Redis Cluster多机房高可用实现--基于客户端](https://cachecloud.github.io/2016/11/03/Redis%20Cluster%E5%A4%9A%E6%9C%BA%E6%88%BF%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%9E%E7%8E%B0/)
+
