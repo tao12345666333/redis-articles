@@ -357,3 +357,5 @@
 
 * 2016-11-09  [spring-data-redis的一个缺陷导致redis报错](http://irfen.me/spring-data-redis-expire-bug-mini/)
 
+* 2016-11-10  [Nginx+Lua+Redis搭建高并发服务](http://gongfuxiang.com/post-98.html)
+
