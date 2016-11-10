@@ -359,3 +359,5 @@
 
 * 2016-11-10  [Nginx+Lua+Redis搭建高并发服务](http://gongfuxiang.com/post-98.html)
 
+* 2016-11-10  [如何在Redis中实现事务](http://www.tuicool.com/articles/jyINfin)
+
