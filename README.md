@@ -355,3 +355,5 @@
 
 * 2016-11-08  [redis启动流程（二）](http://www.ituring.com.cn/article/196415)
 
+* 2016-11-09  [spring-data-redis的一个缺陷导致redis报错](http://irfen.me/spring-data-redis-expire-bug-mini/)
+
