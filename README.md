@@ -361,3 +361,5 @@
 
 * 2016-11-10  [如何在Redis中实现事务](http://www.tuicool.com/articles/jyINfin)
 
+* 2016-11-12  [Developing A High Performance Recommendations Engine with Redis and Go](http://sweetcode.io/developing-high-performance-recommendations-engine-redis-go/)
+
