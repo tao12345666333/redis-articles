@@ -1,6 +1,5 @@
 site_name: 'Redis Articles'
 site_url: 'https://tao12345666333.github.io/redis-articles'
-theme: 'readthedocs'
 repo_url: 'https://github.com/tao12345666333/redis-articles'
 site_description: 'Daily Redis Articles'
 site_author: 'TaoBeier'
