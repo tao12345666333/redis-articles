@@ -4,6 +4,6 @@ theme: 'readthedocs'
 repo_url: 'https://github.com/tao12345666333/redis-articles'
 site_description: 'Daily Redis Articles'
 site_author: 'TaoBeier'
-google_analytics: ['', '']
+google_analytics: ['UA-50163692-5', 'Redis-articles']
 docs_dir: '.'
 site_dir: 'site'
