@@ -10,6 +10,9 @@
 
 # 文章列表
 
+## 2016-07
+
+
 * 2016-07-26  [redis应用场景与最佳实践](http://www.huyanping.cn/redis%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
 
 * 2016-07-26  [近千节点的Redis Cluster高可用集群案例:优酷蓝鲸优化实战](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547585&idx=1&sn=9a664b16f656f757632cd4eb29f9a5dc&scene=1&srcid=0726LGdy9zmneqsZyAekKukJ#rd)
@@ -23,6 +26,9 @@
 * 2016-07-30  [优酷蓝鲸近千节点的Redis集群运维经验总结](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653160253&idx=1&sn=52576dd6e5acfd7ba140efe67bc0fa6e&scene=1&srcid=0730MWmZSIgzaEhuJjt2ZJn2&pass_ticket=4nMfla%2BECFYqmXGvENtmJG9l7dThjwOasoT8r2q8h8tbHJgiyxfMA6v1jHqXAr7A#rd)
 
 * 2016-07-31  [【干货】Docker化高可用redis集群](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658351573&idx=2&sn=fb194491852b84b793233b2bebc456dc&scene=1&srcid=0731HDDs6lEuh8q2wMpmViy3&pass_ticket=JiiNCOOLwCNJRHCGqmKYIgl9nnA0YZMert1gbyFdNh5ojmB5oqvqi0LgW0GSOSY%2F#rd)
+
+## 2016-08
+
 
 * 2016-08-01  [小记weblogic_ssrf入侵redis测试](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651865017&idx=1&sn=4d5c3279d477f8cdeb4af6210a029920&scene=1&srcid=0801n81ssMgASY8HQSKQM4gv&key=8dcebf9e179c9f3ad7b2ddb96e317c558e09c18380715f901187719f98e72942b6173458d1d9d639d91b7eb54865ab25&ascene=0)
 
@@ -249,6 +255,9 @@
 
 * 2016-08-31  [HyperLogLogs in Redis](https://robots.thoughtbot.com/hyperloglogs-in-redis)
 
+## 2016-09
+
+
 * 2016-09-01  [redis利用姿势收集](http://www.milw0rm.cn/Article/hacker/20160803/257.html)
 
 * 2016-09-02  [Building Databases with Redis](https://scanlibs.com/building-databases-redis/)
@@ -299,6 +308,9 @@
 
 * 2016-09-29  [Monitor Redis with ELK (Kibana and Elasticsearch)](https://github.com/nickmaccarthy/redelk)
 
+## 2016-10
+
+
 * 2016-10-01  [教你看懂redis配置系列](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650796336&idx=1&sn=7ecd39f47fe5a35cbb922fe823640aae&chksm=88562c6fbf21a5798b16d43f726a2394cdd12e042c4357cd584fd83e3e6e13eec10b30f5d566&mpshare=1&scene=1&srcid=1001D0L643UNm9TuvDG0NSMt&pass_ticket=QRj3c3fe9lSk8WVW1On7YHi3%2B9PZ6fwFH7Vlvy%2FuyvNb9hXeJphbWSDHyNsLth1T#rd)
 
 * 2016-10-02  [如何用 redis 造一把分布式锁](http://sanyuesha.com/2016/08/20/distributed-lock-with-redis/)
@@ -344,6 +356,9 @@
 * 2016-10-30  [pricingassistant/mrq: Mr. Queue - A distributed worker task queue in Python using Redis & gevent](https://github.com/pricingassistant/mrq)
 
 * 2016-10-31  [GeoFile: Getting the distance using Redis and PostgreSQL](https://www.compose.com/articles/geofile-getting-the-distance-using-redis-and-postgresql/)
+
+## 2016-11
+
 
 * 2016-11-02  [Distributed Locks using Golang and Redis](https://kylewbanks.com/blog/distributed-locks-using-golang-and-redis)
 
