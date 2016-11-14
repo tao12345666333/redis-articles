@@ -18,6 +18,7 @@ case $1 in
         echo "publish to github"
         mv index.md README.md
         echo "finish"
+        ;;
 
     (*)
         echo $usage
