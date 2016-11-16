@@ -6,7 +6,7 @@ case $1 in
     (update)
         git checkout master
         git pull origin master
-        echo "*"  `date -d now +%Y-%m-%d`"  "[$2]\($3\) >> README.md
+        echo "*"  `date +%Y-%m-%d`"  "[$2]\($3\) >> README.md
         echo "" >> README.md
         ;;
 
