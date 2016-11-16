@@ -1,8 +1,0 @@
-site_name: 'Redis Articles'
-site_url: 'https://tao12345666333.github.io/redis-articles'
-repo_url: 'https://github.com/tao12345666333/redis-articles'
-site_description: 'Daily Redis Articles'
-site_author: 'TaoBeier'
-google_analytics: ['UA-50163692-5', 'Redis-articles']
-docs_dir: '.'
-site_dir: 'site'
