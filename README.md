@@ -382,3 +382,5 @@
 
 * 2016-11-14  [由浅入深介绍 Redis LRU 策略的具体实现](http://blog.jobbole.com/107084/)
 
+* 2016-11-16  [Socket.io和Redis写Realtime App](https://laravist.com/series/realtime-laravel-app-with-socket-io)
+
