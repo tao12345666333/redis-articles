@@ -1,12 +1,12 @@
 #!/bin/bash
 
-usage="Usage: $0 [update|deploy] title url"
+usage="Usage: $0 [update|deploy] url title "
 
 case $1 in
     (update)
         git checkout master
         git pull origin master
-        echo "*"  `date +%Y-%m-%d`"  "[$2]\($3\) >> README.md
+        echo "*"  `date +%Y-%m-%d`"  "[$3]\($2\) >> README.md
         echo "" >> README.md
         ;;
 
