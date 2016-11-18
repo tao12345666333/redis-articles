@@ -384,3 +384,5 @@
 
 * 2016-11-16  [Socket.io和Redis写Realtime App](https://laravist.com/series/realtime-laravel-app-with-socket-io)
 
+* 2016-11-18  [An event-driven, asynchronous redis client based on netty](https://github.com/CodisLabs/nedis)
+
