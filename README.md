@@ -388,3 +388,5 @@
 
 * 2016-11-18  [深入浅出 Redis client/server交互流程](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247483989&idx=1&sn=c1aac5b3eca9cb3f9e177d88ba189719&chksm=e8d7fd97dfa074815a7e6e1ce873d798bd4180820ee11f81b6dc332df6bda1810e6e6327179c&scene=0&pass_ticket=wSunpEuiPF7%2FQbYg%2B2nrTevzjVtfHc4OYisRYX7QMLfz9p09DAO1Z3mRej1zI5W8#rd)
 
+* 2016-11-21  [开放平台API接口调用频率控制系统设计浅谈](https://my.oschina.net/feichexia/blog/312591)
+
