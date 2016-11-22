@@ -390,3 +390,5 @@
 
 * 2016-11-21  [开放平台API接口调用频率控制系统设计浅谈](https://my.oschina.net/feichexia/blog/312591)
 
+* 2016-11-22  [Redis主从实现读写分离](http://m.jb51.net/article/95997.htm)
+
