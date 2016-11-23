@@ -392,3 +392,5 @@
 
 * 2016-11-22  [Redis主从实现读写分离](http://m.jb51.net/article/95997.htm)
 
+* 2016-11-23  [Redis中的集合类型是怎么实现的？](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261457&idx=1&sn=fe966f3825b81e9d50a2cf38dac9060c&chksm=84479e48b330175ea07905e791856cca5fc50694db9fd4c3485ba5dc097443e69f5ed28a34b5&scene=0&key=a1a10d60bb68303210fa08c1568572636f65e787caa690958a5c509152e33f4372f29ea9d4f7574cb5a77d45792237ec&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=G9rt68P8bwLJ2tOaCLNsMeXhUSuokVWUPnUeep9eBRZQx0iCZcpU6V2sG4arnxJj)
+
