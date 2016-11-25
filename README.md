@@ -396,3 +396,5 @@
 
 * 2016-11-24  [redis私房菜应用](https://mp.weixin.qq.com/s?__biz=MzI3NTI5MDA5Nw==&mid=2247483793&idx=2&sn=19aee4d41905e04b61c7a5fde599a3c3&chksm=eb06430fdc71ca19a798094eec984c19ccdae10f8612daecca4dc336114e2910c0a8ba38aa1d&mpshare=1&scene=1&srcid=1124ckPVRALFhfc3RqQI1Uf8&key=9ed31d4918c154c8720f63e578db86b59d96275ee887f8770044277033a72f9a99e8e63bdcbf8fe89343d52d9227b811&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=bPvBJxmgstyqCjrB7zp6GHltDZNPyq3N4Nr1Kz3rHN8FqJ9os%2BpSV%2FK2YE7sh849)
 
+* 2016-11-25  [Redis集群设置Ruby脚本详解](https://mp.weixin.qq.com/s?__biz=MzIyMTIyNzAzNQ==&mid=2653176488&idx=1&sn=6a745a18652a9b7f044e27844e9f2b17&chksm=f3ef13dcc4989aca8f879bbce3ab0b145ed9cc074ad24426b903265dc0ee2c9e259ab75aa800&scene=0&key=9ed31d4918c154c8d18cccb6acabd8381e7a8756529ad3110e27568e84244497adc4eb4a9f7b22a6322442f13d633c76&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=m1N6WjddNSiD02ieNWeCE9o%2BXjlRf2LT3E2kivGEcax3eYuiOAO3lSGuhQUDA4AG)
+
