@@ -400,3 +400,5 @@
 
 * 2016-11-26  [Benchmarking go redis server libraries](https://simongui.github.io/2016/10/24/benchmarking-go-redis-server-libraries.html)
 
+* 2016-11-26  [Memcached 与 Redis 实现的对比（上）](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650862216&idx=1&sn=3390800bd2b952224a97e034dc14e097&chksm=8b6615cdbc119cdb3950d173eabc9da4e353048a49782c1e46f5daea9d670776b3298c3acd7d&mpshare=1&scene=1&srcid=1125gr6twtAB870eUbfrIsf5&pass_ticket=AdR5z%2BCFWNmO8fLevqSt90KoeRtC86XnAtPKZW93j1givobcOg0N3dZb1qN%2F%2BLXJ#rd)
+
