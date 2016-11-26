@@ -398,3 +398,5 @@
 
 * 2016-11-25  [Redis集群设置Ruby脚本详解](https://mp.weixin.qq.com/s?__biz=MzIyMTIyNzAzNQ==&mid=2653176488&idx=1&sn=6a745a18652a9b7f044e27844e9f2b17&chksm=f3ef13dcc4989aca8f879bbce3ab0b145ed9cc074ad24426b903265dc0ee2c9e259ab75aa800&scene=0&key=9ed31d4918c154c8d18cccb6acabd8381e7a8756529ad3110e27568e84244497adc4eb4a9f7b22a6322442f13d633c76&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=m1N6WjddNSiD02ieNWeCE9o%2BXjlRf2LT3E2kivGEcax3eYuiOAO3lSGuhQUDA4AG)
 
+* 2016-11-26  [Benchmarking go redis server libraries](https://simongui.github.io/2016/10/24/benchmarking-go-redis-server-libraries.html)
+
