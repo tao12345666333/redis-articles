@@ -404,3 +404,5 @@
 
 * 2016-11-26  [Memcached 与 Redis 实现的对比（下）](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650862216&idx=2&sn=b0d1bd8ce124d94bfd5e51fa7d525060&chksm=8b6615cdbc119cdb10fd43ae213538b89d0a31c64136c4a20749ca587d11b77f97d0a1172eeb&mpshare=1&scene=1&srcid=1125ejBpAcHOaBQyRpvI3NKE&pass_ticket=AdR5z%2BCFWNmO8fLevqSt90KoeRtC86XnAtPKZW93j1givobcOg0N3dZb1qN%2F%2BLXJ#rd)
 
+* 2016-11-27  [Make your node server faster by caching responses with redis](http://www.sohamkamani.com/blog/2016/10/14/make-your-node-server-faster-with-redis-cache/)
+
