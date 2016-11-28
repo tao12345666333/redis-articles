@@ -406,3 +406,5 @@
 
 * 2016-11-27  [Make your node server faster by caching responses with redis](http://www.sohamkamani.com/blog/2016/10/14/make-your-node-server-faster-with-redis-cache/)
 
+* 2016-11-28  [Redis的hmget操作复杂度问题](https://neway6655.github.io/redis/2016/10/10/redis-hmget-deep-study.html)
+
