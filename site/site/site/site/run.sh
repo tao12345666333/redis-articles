@@ -9,7 +9,7 @@ case $1 in
         echo "*"  `date +%Y-%m-%d`"  "[$3]\($2\) >> README.md
         echo "" >> README.md
         git add README.md
-        git commit -m $3
+        git commit -m "$3"
         git push origin master
         ;;
 
