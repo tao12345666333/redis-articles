@@ -408,3 +408,5 @@
 
 * 2016-11-28  [Redis的hmget操作复杂度问题](https://neway6655.github.io/redis/2016/10/10/redis-hmget-deep-study.html)
 
+* 2016-11-30  [redis-cli 实用功能介绍](https://segmentfault.com/a/1190000007179250)
+
