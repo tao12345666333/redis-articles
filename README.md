@@ -410,3 +410,8 @@
 
 * 2016-11-30  [redis-cli 实用功能介绍](https://segmentfault.com/a/1190000007179250)
 
+## 2016-12
+
+
+* 2016-12-01  [给redis cluster集群加上认证功能](http://lee90.blog.51cto.com/10414478/1863243)
+
