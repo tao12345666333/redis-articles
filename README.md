@@ -415,3 +415,5 @@
 
 * 2016-12-01  [给redis cluster集群加上认证功能](http://lee90.blog.51cto.com/10414478/1863243)
 
+* 2016-12-02  [Redis短连接性能优化](https://m.aliyun.com/yunqi/articles/62593)
+
