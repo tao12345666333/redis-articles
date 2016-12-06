@@ -423,3 +423,5 @@
 
 * 2016-12-05  [如何让redis 迁移大key的restore性能提升6倍](https://m.aliyun.com/yunqi/articles/64884)
 
+* 2016-12-06  [多级缓存：支撑海量读服务的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650758519&idx=1&sn=c867dd3cfa2e82d118b12e48d2ef5d14&chksm=f3f9e8e2c48e61f493c0c0a457bd68402e2a768cfaf4e363db9e7418beb823b88a54c4a8781d&mpshare=1&scene=1&srcid=1206KNj7WJTZ2svt6Gk9fiBD&key=9ed31d4918c154c895b577d6435f2848e44683ce026361c8c68fc158957a56b159236ef28683e7f088ae5394e1bc3168fe4ae0ebe64bea2ad3357d217533cc94dffa1ab75b6d065b85be5abedc7067cc&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=aVefF%2Bz3oWZH49SuNS6MyouFpANjV0dk4WYb%2FjlUfazxCsLPogaP3S4TUzZH2Mfz)
+
