@@ -427,3 +427,5 @@
 
 * 2016-12-07  [成享微信课堂第二十一期--利用Nginx+Redis+Tomcat集群实现负载均衡](https://mp.weixin.qq.com/s?__biz=MzA3ODEwNDUxNA==&mid=2651183317&idx=1&sn=1be5c11d84c9530c6e123ce87d192ecb&chksm=84b6aa78b3c1236e09c67fb3e6a3eb88af14291fd3a7817de409128341712fb2abbe896c0f04&mpshare=1&scene=1&srcid=1207hpXMSKyXV2c5tsljUFDj&key=9ed31d4918c154c8b50cc41ce7c4a06394eb1534d21f9976628967630e2602fa11aad9867dc8e5de180ab7ace4eb51bdb12ea6b31db8ccf27d169ed340162f1c69840bd41bb39d4fdb84bb85afea1c7c&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=Tr6k7ty%2FUFRA19zqKCPFuh23JhGlVVPrqGGsXhyu4%2FYQKrt%2BTOe4SvnWYPMzWWkx)
 
+* 2016-12-07  [Redis 4.0 新功能简介](http://blog.huangz.me/diary/2016/redis-4-outline.html)
+
