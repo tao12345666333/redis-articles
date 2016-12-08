@@ -429,3 +429,5 @@
 
 * 2016-12-07  [Redis 4.0 新功能简介](http://blog.huangz.me/diary/2016/redis-4-outline.html)
 
+* 2016-12-08  [Redis 4.0发布及其新功能介绍](https://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650714029&idx=1&sn=d4b4d37647b818bc030e464f07973692&chksm=887db2dbbf0a3bcd4bf6d9699c9406c962cd34b3dfb917bd2aab9acc2ff654937b3207f00e69&mpshare=1&scene=1&srcid=1208SGnIoHdQlq3Ngv1f7qBp&key=9ed31d4918c154c8e364c8da3784158b3b41457cc902d0eda22983bd58b3ce50cc5df3833c0d4b8c68518b59af932e46499316231d1756c353f759c813cf3db4bb49f19a126ac574bed5aa3410831b44&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=gsGfqF%2BDs%2FA5iuhiXwUd%2FdBQPTue2%2BaSyhT8yz9VEzxaXLp4Z44IzMogzV8jLOr%2B)
+
