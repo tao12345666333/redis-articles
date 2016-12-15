@@ -435,3 +435,5 @@
 
 * 2016-12-15  [NoSQL data store using the SEASTAR framework, compatible with Redis](https://github.com/fastio/pedis)
 
+* 2016-12-15  [siscia/rediSQL Redis module that provides a completely functional SQL database](https://github.com/siscia/rediSQL)
+
