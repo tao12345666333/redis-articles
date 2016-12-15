@@ -433,3 +433,5 @@
 
 * 2016-12-12  [Redis性能问题排查解决手册](https://mp.weixin.qq.com/s?__biz=MzA4NDc2MDQ1Nw==&mid=2650238218&idx=1&sn=60642fab258c050808881320253ef695&chksm=87e18fecb09606fa86723e29ea95e0c75566902e68bf5042039773d5f99ea3e8ef5d04a9def9&mpshare=1&scene=1&srcid=1212gnZ7TanrlILU1p416vdD&key=9ed31d4918c154c82f1529eac30d6f5cb44f2a7f9a69a8b639df2c7af2e3ed5211019ed931391e7ce9d62b44a74b9ec277720ec27a6144b6925038963f75217460bd546f9e39c93122887b6f7af861ac&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=hm7BfzLPrPKov9HmQlOVahZHATRNO1epWH9Wa4q8d5un85Jby64uMYrSMBoMmE4Q)
 
+* 2016-12-15  [NoSQL data store using the SEASTAR framework, compatible with Redis](https://github.com/fastio/pedis)
+
