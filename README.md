@@ -437,3 +437,5 @@
 
 * 2016-12-15  [siscia/rediSQL Redis module that provides a completely functional SQL database](https://github.com/siscia/rediSQL)
 
+* 2016-12-16  [Lua: A Guide for Redis Users](https://www.redisgreen.net/blog/intro-to-lua-for-redis-programmers/)
+
