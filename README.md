@@ -441,3 +441,5 @@
 
 * 2016-12-17  [Redis将Session 集中管理](https://mp.weixin.qq.com/s?__biz=MzIxNzE4MDI5NA==&mid=2651099901&idx=3&sn=b84249f5e190333dc54e71e0d5a45746&chksm=8c0d8314bb7a0a028e403c5731bfb5c59eafd62baf5f0c4652a69768c3d3650791cb316c1642&mpshare=1&scene=1&srcid=1217nCU7mqn48InoeC3gCrl8&pass_ticket=MyygmaZr1EuByQNL70%2BYTqimNJ3Ef9EikBCgH5jPiJNEAIi8uq8L4wdHeAzWWV1i#rd)
 
+* 2016-12-19  [ GIAC 2016 - redis-zoo-陈宗志-1.pdf](https://pan.baidu.com/share/link?shareid=1803133545&uk=285584457)
+
