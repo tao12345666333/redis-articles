@@ -447,3 +447,5 @@
 
 * 2016-12-24  [基于Sentinel 的Redis HA 实践.pdf](https://pan.baidu.com/s/1i4SzC2L)
 
+* 2016-12-24  [Redis单机主从高可用性优化](http://www.lupaworld.com/portal.php?mod=view&aid=261443)
+
