@@ -453,3 +453,5 @@
 
 * 2016-12-24  [Is Redlock safe?](http://antirez.com/news/101)
 
+* 2016-12-24  [ Redis slots迁移丢key问题排查](http://blog.csdn.net/doc_sgl/article/details/53825892)
+
