@@ -451,3 +451,5 @@
 
 * 2016-12-24  [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
+* 2016-12-24  [Is Redlock safe?](http://antirez.com/news/101)
+
