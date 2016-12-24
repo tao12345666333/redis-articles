@@ -455,3 +455,5 @@
 
 * 2016-12-24  [ Redis slots迁移丢key问题排查](http://blog.csdn.net/doc_sgl/article/details/53825892)
 
+* 2016-12-24  [Redis性能问题排查解决手册](https://mp.weixin.qq.com/s?__biz=MzA5MzQ2NTY0OA==&mid=2650796345&idx=1&sn=d57fc5b626f14ef8eb4630d8efca50cc&chksm=88562c66bf21a570b4c365f62babfb8bb8bdcf5418151d78faeb577dd9c445cd59a70b956c8b&mpshare=1&scene=1&srcid=1223KC0pQbSN0rqCTAthxfqD&key=564c3e9811aee0abd74c6b41213f2a33cce39ed20703417be2edd62a951537154a70e48cb0e338f7b925faa97d7c9b91515105de411dd98782b750d000be219c60f0926688c263a320eca5260958a5c2&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=WpW95huwolsbC3H%2BbMB9JBiKCmqSujwNFO1cf%2FeJ7qsI0svF4rR5oBn6wjmUdwsX)
+
