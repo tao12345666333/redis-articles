@@ -445,3 +445,5 @@
 
 * 2016-12-21  [如何利用Redis扩展数据服务、实现分片及高可用？](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650758844&idx=1&sn=0cc04f620d170463b6fd7e98e70015a2&chksm=f3f9eb29c48e623f1a9c9765eb36e0bbc362a017d1e130b1aca8b6c168ff2452519ab205977b&mpshare=1&scene=1&srcid=1221PpzcDVdKrQp94Yg6KFSZ&key=564c3e9811aee0ab1cfc7496eaf98bfe11a6b083d75648f9bf8fb1bde8cedd1a7feb501b9db6703a95cb80f5329e3b14af458039b06352b32229c4e9dfbd25f583a953634f9bda49027cf8e984c1577b&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=nmANmehPqgZ30cwteYYvWdWTxBu7rGibBqdiGjxSXud1lkr28fCZd0BLwfQna6Uj)
 
+* 2016-12-24  [基于Sentinel 的Redis HA 实践.pdf](https://pan.baidu.com/s/1i4SzC2L)
+
