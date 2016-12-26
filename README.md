@@ -459,3 +459,5 @@
 
 * 2016-12-25  [How to txRedis.](http://howto.lintel.in/txredis/)
 
+* 2016-12-26  [redis存储海量小数据，如何优化内存使用](http://zzyongx.github.io/blogs/redis-memory-optimization-when-store-small-data.html)
+
