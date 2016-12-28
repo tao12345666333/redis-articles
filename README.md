@@ -461,3 +461,5 @@
 
 * 2016-12-26  [redis存储海量小数据，如何优化内存使用](http://zzyongx.github.io/blogs/redis-memory-optimization-when-store-small-data.html)
 
+* 2016-12-28  [nginx+lua+redis vs golang + redis构建高并发应用](http://www.kuqin.com/shuoit/20150805/347432.html)
+
