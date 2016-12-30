@@ -465,3 +465,5 @@
 
 * 2016-12-29  [pika支持codis slot迁移](https://mp.weixin.qq.com/s?__biz=MzI0NzAxMTgxNg==&mid=2456160347&idx=1&sn=509433ace98be307d564acd1f48758b0&chksm=fe2428dcc953a1ca2b8c7fd07756bcd6c0cae80dcabe69544c634b3685e32d9a06b8cde7b545&mpshare=1&scene=1&srcid=1229FLsZpjCPNWZEWtvCshlI&key=c3574ac2ac3a2a7d9406804eeeabe269555a18b306831d5e2ebd3845137c51c89cafbb6532bc9e06c6f178fa858db15790974674e0d8393a1e637b9b881691b470082ae70db9379e02fb63a0a4979527&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=0K6Mw%2Fg%2Fb6KpjuD7HnFLc2AJlc%2FPXUIqGxSpj%2B3J60uYg4mUd9lHGUOS6%2FaapxW%2B)
 
+* 2016-12-30  [UNLINK key [key ...]](https://redis.io/commands/unlink)
+
