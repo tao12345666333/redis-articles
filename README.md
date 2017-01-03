@@ -467,3 +467,5 @@
 
 * 2016-12-30  [UNLINK key [key ...]](https://redis.io/commands/unlink)
 
+* 2017-01-03  [基于Spring Boot/Spring Session/Redis的分布式Session共享解决方案](http://www.cnblogs.com/csonezp/p/6102924.html)
+
