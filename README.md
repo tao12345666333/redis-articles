@@ -471,3 +471,5 @@
 
 * 2017-01-04  [Redis作为LRU Cache的实现](https://mp.weixin.qq.com/s?__biz=MzI1MzAzOTY3MA==&mid=2651181087&idx=1&sn=f16a14159509bdcd95f0ea7e886efb47&chksm=f22bf546c55c7c501313480b381398f5934e6c85003af3cf0ec55c83237aac331fe0e58171d0&mpshare=1&scene=1&srcid=1206IWgbtQ3ObVVPCnH6iDDZ&pass_ticket=rYGitFBtuXK2wcyGJQs%2BClGdv6r7mvJIbYXPs4%2FQIg9I63l6bxZnBD4%2BT0%2BMGqM1#rd)
 
+* 2017-01-07  [asyncio (PEP 3156) Redis support - aoiredis](https://github.com/aio-libs/aioredis/blob/master/README.rst)
+
