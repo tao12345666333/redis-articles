@@ -473,3 +473,5 @@
 
 * 2017-01-07  [asyncio (PEP 3156) Redis support - aoiredis](https://github.com/aio-libs/aioredis/blob/master/README.rst)
 
+* 2017-01-08  [One tool build by python flask](https://pypi.python.org/pypi/redis-monitor/1.0.1)
+
