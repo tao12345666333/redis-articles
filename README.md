@@ -475,3 +475,5 @@
 
 * 2017-01-08  [One tool build by python flask](https://pypi.python.org/pypi/redis-monitor/1.0.1)
 
+* 2017-01-13  [Redis设计思路学习与总结](https://www.qcloud.com/community/article/222)
+
