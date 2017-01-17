@@ -477,3 +477,5 @@
 
 * 2017-01-13  [Redis设计思路学习与总结](https://www.qcloud.com/community/article/222)
 
+* 2017-01-17  [当 Laravel 5.3 RedisQueue 遇到阿里云 Redis 的时候](https://laravel-china.org/topics/3487)
+
