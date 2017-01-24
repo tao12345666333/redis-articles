@@ -483,3 +483,5 @@
 
 * 2017-01-24  [Moving persistent data out of Redis](https://githubengineering.com/moving-persistent-data-out-of-redis/)
 
+* 2017-01-24  [重分片对 Redis 集群的性能影响分析](http://blog.huangz.me/2017/redis-reshard-performance-issue.html)
+
