@@ -481,3 +481,5 @@
 
 * 2017-01-22  [Redis中BitMap的妙用](https://mp.weixin.qq.com/s?__biz=MzA3MTIyMzY4OQ==&mid=2451880782&idx=1&sn=b4df0c48d8eca33c5e62f1d7dae51d59&chksm=88e0cba8bf9742bec44ec4ca833638cab30544f38e7a589b1fb172522087bbc8f3430b1f17eb&mpshare=1&scene=1&srcid=0122K8SAIqCcXYSBzhPqT8ns&key=3c39151efb1819bded970cfff80248cde4a03c7b11ae25fb7d5799a23942c45bbd5779c0c153dccc4e2144f1f66da70763c183729975a0cebc7cdf0c3ad1a869b304b4649f2ad4d68acb9a3d13d3d6e1&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=9lunQ8SqqrGnKaLWsr45Sk%2FFnwXhCKcMnV%2FUS3O6YrHLQ%2BoD4umZpFIP3vKN5Ufp)
 
+* 2017-01-24  [Moving persistent data out of Redis](https://githubengineering.com/moving-persistent-data-out-of-redis/)
+
