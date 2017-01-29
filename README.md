@@ -489,3 +489,5 @@
 
 * 2017-01-24  [重分片对 Redis 集群的性能影响分析](http://blog.huangz.me/2017/redis-reshard-performance-issue.html)
 
+* 2017-01-29  [redis为什么是单线程？在多核处理器下对主存的访问真的比多线程更有效率？未来有可能改用多线程吗？](https://www.zhihu.com/question/23162208)
+
