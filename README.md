@@ -505,3 +505,5 @@
 
 * 2017-02-04  [Redis CSRF漏洞分析及云Redis安全措施介绍](https://m.aliyun.com/yunqi/articles/69183)
 
+* 2017-02-04  [redis-cell: a Rate Limiting Redis Module](https://redislabs.com/blog/redis-cell-rate-limiting-redis-module/)
+
