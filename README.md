@@ -509,3 +509,5 @@
 
 * 2017-02-05  [Redis 应用案例 - 在问题中不断成长](https://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652402473&idx=1&sn=05697651134569fae888ce99b76fa54b&chksm=8bd8f5cfbcaf7cd9415dd00688c19022b451f59d5e4113a5eed3546889e288215b5e1b4d94af&mpshare=1&scene=1&srcid=0205u0aVZot5YRgf4ORgUihR&key=4302ad2cc7b8d1b944ae43bfe4869eb1dc619d926452a600b92fce639a685e3f9a8a9c915502f1d76ef0655af3856d2e6ef83139b3581263e4594bfa72a0bbe1f11cfcad2cc30fdfd9d7f6cdd2eaccdc&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=eZ28wLyAS07fBKnstm8JmZ%2Bo26tNtHpOXwS56oxlzmL8GMvM11y0PHJ4QGZJJxaa)
 
+* 2017-02-09  [Testing a redis container using gotun](https://kushaldas.in/posts/testing-a-redis-container-using-gotun.html)
+
