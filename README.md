@@ -511,3 +511,5 @@
 
 * 2017-02-09  [Testing a redis container using gotun](https://kushaldas.in/posts/testing-a-redis-container-using-gotun.html)
 
+* 2017-02-10  [Redis集群Proxy支持select命令方案介绍](https://m.aliyun.com/yunqi/articles/69349)
+
