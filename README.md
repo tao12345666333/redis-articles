@@ -513,3 +513,5 @@
 
 * 2017-02-10  [Redis集群Proxy支持select命令方案介绍](https://m.aliyun.com/yunqi/articles/69349)
 
+* 2017-02-13  [Redis流量统计问题分析及修复](https://m.aliyun.com/yunqi/articles/69502)
+
