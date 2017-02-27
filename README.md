@@ -521,3 +521,5 @@
 
 * 2017-02-17  [Redis的内存优化](https://cachecloud.github.io/2017/02/16/Redis%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
 
+* 2017-02-27  [基于Redis的分布式锁到底安全吗（下）？](https://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261521&idx=1&sn=7bbb80c8fe4f9dff7cd6a8883cc8fc0a&chksm=84479e08b330171e89732ec1460258a85afe73299c263fcc7df3c77cbeac0573ad7211902649&mpshare=1&scene=1&srcid=02270dGGpyGICuDVfzA17nio&key=1717ad36244bdbc70903da362a5e28f8b1f6927966ba48aebcb705e41b9627002db38192cac99347c2de72b4cc07b027326add71a36dbb918001ae85921fccf9dfa9b954f055eacfc10cb4092f0c41b3&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=YU2mA54GZVRPw8lgMhXKVpAY2xukIyiqt6gPLK2jgiEh5i%2FpIAioi8ySqqniBqix)
+
