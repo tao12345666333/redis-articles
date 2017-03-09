@@ -532,3 +532,5 @@
 
 * 2017-03-06  [理解Redis的RESP协议](https://mp.weixin.qq.com/s?__biz=MzI2ODAwMzUwNA==&mid=2649294899&idx=1&sn=2ff9e8f3cce96d9e2905824b25e88755&chksm=f2eb99ecc59c10fa8020819b0b3fa615e55ccdd59da90462da014170afb9f2f5435b19e7612b&mpshare=1&scene=1&srcid=0305PdxNBaitO7SroiW1500r&key=ff79f90307db55eefd86d53ff042c24ed112014887030bd2df0f20adc78fa211e66eacfefbcb473cd5c28bb68031faafd1d012488ed8b8ff987b2f27e01f0c6c4dd82707e1c4d9e15ff6616e105dbae4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=eoLz47Vqb%2FfYspKo69oeC249JLQFeg9c9ihsk9MIBdGZU9pJXHHsdJKQJyEv%2F1in)
 
+* 2017-03-09  [携程 redis 多数据中心实践](http://www.infoq.com/cn/presentations/ctrip-redis-multiple-datacenter-practices)
+
