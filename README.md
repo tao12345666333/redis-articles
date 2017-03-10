@@ -534,3 +534,5 @@
 
 * 2017-03-09  [携程 redis 多数据中心实践](http://www.infoq.com/cn/presentations/ctrip-redis-multiple-datacenter-practices)
 
+* 2017-03-10  [Iedis](https://plugins.jetbrains.com/plugin/9228-iedis)
+
