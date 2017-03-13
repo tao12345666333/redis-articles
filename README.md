@@ -536,3 +536,5 @@
 
 * 2017-03-10  [Iedis](https://plugins.jetbrains.com/plugin/9228-iedis)
 
+* 2017-03-13  [Amazon ElastiCache: Utilizing Redis Geospatial Capabilities](https://aws.amazon.com/cn/blogs/database/amazon-elasticache-utilizing-redis-geospatial-capabilities/)
+
