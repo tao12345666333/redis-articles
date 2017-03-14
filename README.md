@@ -538,3 +538,5 @@
 
 * 2017-03-13  [Amazon ElastiCache: Utilizing Redis Geospatial Capabilities](https://aws.amazon.com/cn/blogs/database/amazon-elasticache-utilizing-redis-geospatial-capabilities/)
 
+* 2017-03-15  [GitHub将持久数据从Redis迁出](https://www.zybuluo.com/sambodhi/note/642230)
+
