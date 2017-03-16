@@ -540,3 +540,5 @@
 
 * 2017-03-15  [GitHub将持久数据从Redis迁出](https://www.zybuluo.com/sambodhi/note/642230)
 
+* 2017-03-16  [redis-store/redis-store--Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks](https://github.com/redis-store/redis-store)
+
