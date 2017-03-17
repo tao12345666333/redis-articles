@@ -542,3 +542,5 @@
 
 * 2017-03-16  [redis-store/redis-store--Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks](https://github.com/redis-store/redis-store)
 
+* 2017-03-17  [A Guide to Redis with Redisson](http://www.baeldung.com/redis-redisson)
+
