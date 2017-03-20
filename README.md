@@ -546,3 +546,5 @@
 
 * 2017-03-17  [Nginx Lua Redis防止CC攻击](http://szl.ee/nginx-lua-redis-against-cc-attacks.html)
 
+* 2017-03-20  [Creating Distributed Java Applications With Redis](https://dzone.com/articles/distributed-java-application-powered-by-redis)
+
