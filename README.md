@@ -548,3 +548,5 @@
 
 * 2017-03-20  [Creating Distributed Java Applications With Redis](https://dzone.com/articles/distributed-java-application-powered-by-redis)
 
+* 2017-03-23  [Redis as a JSON store](https://redislabs.com/blog/redis-as-a-json-store/)
+
