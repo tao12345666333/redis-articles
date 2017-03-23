@@ -550,3 +550,5 @@
 
 * 2017-03-23  [Redis as a JSON store](https://redislabs.com/blog/redis-as-a-json-store/)
 
+* 2017-03-24  [ReJSON - a JSON data type for Redis](https://redislabsmodules.github.io/rejson/)
+
