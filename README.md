@@ -552,3 +552,5 @@
 
 * 2017-03-24  [ReJSON - a JSON data type for Redis](https://redislabsmodules.github.io/rejson/)
 
+* 2017-03-24  [Redis架构之防雪崩设计：网站不宕机背后的兵法](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548432&idx=1&sn=ac120e1ffca7c2007c0bc5df51e03d7b&chksm=813a7e08b64df71ec7b8b6afc2a36a8ff1d780db54a395b58a9f18f084080c09de514e999834&mpshare=1&scene=1&srcid=0324u7jGCykTaFZPCCIrwBwU&key=8b1ec02b44dde3bc9a71dc40c489a145b0da63c71eaf9c1d9df4cf551f5896a6f3cab0a9797a85474ef4a63941b24a40f90bcef85195aab7fa0e3667f2ceda40b5d1758c9b33fed9d819a3ee7766bc62&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=vKWb90vuWopMvZ8u8BmZrit4a4GPlHhnzGmcasQ3RnDZlOYPt0O9QqwIDnzcKArU)
+
