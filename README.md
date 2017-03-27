@@ -556,3 +556,5 @@
 
 * 2017-03-26  [New Redis Lua scripts debugger - A Short Intro by Salvatore Sanfilippo](https://www.youtube.com/watch?v=DWQOlAwsfFQ&feature=youtu.be&app=desktop)
 
+* 2017-03-27  [【干货】Laravel - Redis 缓存三部曲 (一) 初识Predis](https://mp.weixin.qq.com/s?__biz=MjM5NDAxMDEyMg==&mid=2651906593&idx=1&sn=2b5a27f03f381615a6b00529babe91e6&chksm=bd6a07448a1d8e52055a81869ecfe0fc4d0378b692b9bb97a2832bb677e39432a03f47f540a1&mpshare=1&scene=1&srcid=0327iXReaaXG7MDCJhiUYAbh&key=533a48eb436f1e2c9d4c374fa134ef76e8d08d102ea03bd50e0da16175bdc4238d3592030c3d4edcdc4badc8fbbb8146f372d6c3360eeb148addcea5f7d01445b3e57d3a2326e24a62d0c4e85142c8f4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=%2FbRxim5AiMvVL5OVsVhgPUwzkt%2BwDJwQFSraodpVCWGZ%2BPqQgft4gC8GaoJyRiPC)
+
