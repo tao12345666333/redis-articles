@@ -560,3 +560,5 @@
 
 * 2017-03-28  [【干货】Laravel - Redis 缓存三部曲 (二) Predis -基本数据隔离](https://mp.weixin.qq.com/s?__biz=MjM5NDAxMDEyMg==&mid=2651906596&idx=1&sn=46a48aa22de8f8a9d0ebac3beb7d2b4e&chksm=bd6a07418a1d8e57a69a431564b10bc201603bbbaab911c9d685733b71b75b7e80bf5be4bb56&mpshare=1&scene=1&srcid=032808Cd1E8g3MONV7XqDpg7&key=6257de4511bd0b90ea7e461996b09f401da5399c4b8f058144ab191255ece368a69d165e1eec805af38b9fd440637e597995dbcc4fbfa1d4963931df3c812a3ab6517cdd7e23362b87897a42a7e2d9f0&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=NdNLnkA5WA2nD60nhAtmb%2FYgBWhGI22VJhImgROGjJaZ30xVYcMOnqaNaBOd4Uqu)
 
+* 2017-03-29  [lettuce - Advanced Java Redis client](https://github.com/lettuce-io/lettuce-core/blob/master/README.md)
+
