@@ -562,3 +562,5 @@
 
 * 2017-03-29  [lettuce - Advanced Java Redis client](https://github.com/lettuce-io/lettuce-core/blob/master/README.md)
 
+* 2017-03-29  [Redis Lua 脚本调试器用法说明](http://blog.huangz.me/2017/redis-lua-debuger-introduction.html)
+
