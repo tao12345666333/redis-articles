@@ -566,3 +566,5 @@
 
 * 2017-03-30  [一个小改进，解决Redis数据在线加载大痛点](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650760189&idx=2&sn=905dab9c874437d8fc18fcbf0f6bb07c&chksm=f3f9d668c48e5f7edff9581e913c54bf8f8dde3f0b79fbf3f1060e0f0dd6e00adc2a480b3fec&mpshare=1&scene=1&srcid=0330pgTulyPf3jvDA0NxHGue&key=1d0ca972a52f955790aba7a949cf444ee31c6ce164abf54cf03ff4ecc9ad6e1b049744c515879962807f09bfc46738062cbc64bf752fe345950b96a7e342d348e541fde7f1a930ff5dea76dce6a770b4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=pLSm0A11lGA1orZ8fKZ13BYmk9oQBNwvM6COfktGL%2Fk7%2BT9GSDd5Pz%2BAgQfP%2FEmp)
 
+* 2017-03-31  [Learn Redis the hard way (in production)](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
+
