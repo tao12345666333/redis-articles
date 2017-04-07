@@ -574,3 +574,5 @@
 
 * 2017-04-06  [Session Gate](https://github.com/f0rmiga/sessiongate/blob/master/README.md)
 
+* 2017-04-07  [深入学习 Redis：Redis API 的原子性分析](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650862627&idx=1&sn=8b679e68fdf954ebe506a1b0c68f9898&chksm=8b661366bc119a70eab7fc547290e14afd614e281d11226cd700ad191f9a62d2b9033bb5c1c9&mpshare=1&scene=1&srcid=0406U3od01SELpoubqm6D6WJ&key=2ba8cc200107c8eeb80d3fa4e696b92318ec8ff2129ad47435dd8e9472fe7593496b71f6a4cce6e166edb63ad691c9d69200e163809db93ceb6b34ddbd6fdf44978d9ae5ea52d03731b7c5bf90e70b8e&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=SRTXm%2BGFCVdDBsX8OggsWwJ0ZgR6EI1Yc9L0bZzPs6A37Ku019Xw3yPx4E%2BGUMGw)
+
