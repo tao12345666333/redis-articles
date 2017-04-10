@@ -584,3 +584,5 @@
 
 * 2017-04-10  [Crucial Redis Monitoring Metrics You Need to Watch](https://dzone.com/articles/6-crucial-redis-monitoring-metrics-you-need-to-wat)
 
+* 2017-04-10  [Awesome Redis --A curated list of amazingly awesome redis and redis ecosystem resources](https://github.com/JamzyWang/awesome-redis)
+
