@@ -578,3 +578,5 @@
 
 * 2017-04-08  [C++11 Lightweight Redis client: async, thread-safe, no dependency, pipelining, multi-platform.](https://github.com/Cylix/cpp_redis)
 
+* 2017-04-10  [Crucial Redis Monitoring Metrics You Need to Watch](https://dzone.com/articles/6-crucial-redis-monitoring-metrics-you-need-to-wat)
+
