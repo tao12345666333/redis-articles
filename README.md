@@ -568,6 +568,10 @@
 
 * 2017-03-31  [Learn Redis the hard way (in production)](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 
+
+## 2017-04
+
+
 * 2017-04-01  [社区好友动态Feed流的Redis实现](https://quericy.me/blog/861/)
 
 * 2017-04-05  [聊聊你用过的Redis可视化工具](https://yq.aliyun.com/roundtable/50655)
