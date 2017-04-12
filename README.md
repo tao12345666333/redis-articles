@@ -586,3 +586,5 @@
 
 * 2017-04-10  [Awesome Redis --A curated list of amazingly awesome redis and redis ecosystem resources](https://github.com/JamzyWang/awesome-redis)
 
+* 2017-04-12  [Spring Data with Redis](http://www.discoversdk.com/blog/spring-data-with-redis)
+
