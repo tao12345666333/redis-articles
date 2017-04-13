@@ -588,3 +588,5 @@
 
 * 2017-04-12  [Spring Data with Redis](http://www.discoversdk.com/blog/spring-data-with-redis)
 
+* 2017-04-13  [Redis主从模式下从库过期的key仍然能够被读到的解决方案](http://imhuchao.com/865.html)
+
