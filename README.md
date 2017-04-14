@@ -590,3 +590,5 @@
 
 * 2017-04-13  [Redis主从模式下从库过期的key仍然能够被读到的解决方案](http://imhuchao.com/865.html)
 
+* 2017-04-14  [From SQL to Redis — Chapter 1](https://medium.com/@stockholmux/from-sql-to-redis-chapter-1-145c82e4baa0)
+
