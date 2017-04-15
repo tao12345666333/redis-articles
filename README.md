@@ -592,3 +592,5 @@
 
 * 2017-04-14  [From SQL to Redis — Chapter 1](https://medium.com/@stockholmux/from-sql-to-redis-chapter-1-145c82e4baa0)
 
+* 2017-04-15  [An Afternoon of Code Golf (in Lua) to Achieve 4x performance in Redis](https://amplitude.engineering/an-afternoon-of-code-golf-in-lua-to-achieve-4x-performance-in-redis-cd631268f25)
+
