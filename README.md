@@ -594,3 +594,5 @@
 
 * 2017-04-15  [An Afternoon of Code Golf (in Lua) to Achieve 4x performance in Redis](https://amplitude.engineering/an-afternoon-of-code-golf-in-lua-to-achieve-4x-performance-in-redis-cd631268f25)
 
+* 2017-04-16  [Redis Cluster with Passwords](https://trodzen.wordpress.com/2017/02/09/redis-cluster-with-passwords/)
+
