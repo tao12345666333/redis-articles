@@ -596,3 +596,5 @@
 
 * 2017-04-16  [Redis Cluster with Passwords](https://trodzen.wordpress.com/2017/02/09/redis-cluster-with-passwords/)
 
+* 2017-04-17  [Advanced Redis: Subscribe Script to Pub/Sub Channel](https://matt.sh/advanced-redis-pubsub-scripts)
+
