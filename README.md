@@ -598,3 +598,5 @@
 
 * 2017-04-17  [Advanced Redis: Subscribe Script to Pub/Sub Channel](https://matt.sh/advanced-redis-pubsub-scripts)
 
+* 2017-04-18  [Building a Microservices Example Game with Distributed Messaging](https://community.risingstack.com/building-a-microservices-example-game-with-distributed-messaging/)
+
