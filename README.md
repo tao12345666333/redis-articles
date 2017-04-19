@@ -600,3 +600,5 @@
 
 * 2017-04-18  [Building a Microservices Example Game with Distributed Messaging](https://community.risingstack.com/building-a-microservices-example-game-with-distributed-messaging/)
 
+* 2017-04-19  [为什么要用redis而不用map做缓存?](https://segmentfault.com/q/1010000009106416)
+
