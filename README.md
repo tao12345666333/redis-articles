@@ -602,3 +602,5 @@
 
 * 2017-04-19  [为什么要用redis而不用map做缓存?](https://segmentfault.com/q/1010000009106416)
 
+* 2017-04-20  [在Redis中进行分页排序查询](http://liu-xin.me/2015/11/17/%E5%9C%A8Redis%E4%B8%AD%E8%BF%9B%E8%A1%8C%E5%88%86%E9%A1%B5%E6%8E%92%E5%BA%8F%E6%9F%A5%E8%AF%A2/)
+
