@@ -606,3 +606,5 @@
 
 * 2017-04-21  [开源 | 携程Redis多数据中心解决方案-XPipe](https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697266009&idx=1&sn=06f64043fdeb3cfcc2f1c39f0cdb2ac2&chksm=8376fc6db401757b58dff170b7dcffc796a52510ec722812e32894082431c24985048a8011c2&mpshare=1&scene=1&srcid=0420SuIDNnLUvKKvv2C07IDh&key=0c0387b8eacaf3d09da3ed744e4b1e93be335441e08026afa29c7c7bca64156ef7df5ae2093403dd23cc65da6a3300b980a380aca1c08dc1a7826589b1e6450fb1bc4b5b6edf758e8bd68da29d011267&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=xIyVzbpBSkjeGNAcA4QGhkhf9FQVnCopHjhSgGjasMer8IS0x36aLeRUcURQ13hu)
 
+* 2017-04-21  [RCP 11 - The stream data type](https://github.com/redis/redis-rcp/blob/master/RCP11.md)
+
