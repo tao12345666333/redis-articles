@@ -604,3 +604,5 @@
 
 * 2017-04-20  [在Redis中进行分页排序查询](http://liu-xin.me/2015/11/17/%E5%9C%A8Redis%E4%B8%AD%E8%BF%9B%E8%A1%8C%E5%88%86%E9%A1%B5%E6%8E%92%E5%BA%8F%E6%9F%A5%E8%AF%A2/)
 
+* 2017-04-21  [开源 | 携程Redis多数据中心解决方案-XPipe](https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697266009&idx=1&sn=06f64043fdeb3cfcc2f1c39f0cdb2ac2&chksm=8376fc6db401757b58dff170b7dcffc796a52510ec722812e32894082431c24985048a8011c2&mpshare=1&scene=1&srcid=0420SuIDNnLUvKKvv2C07IDh&key=0c0387b8eacaf3d09da3ed744e4b1e93be335441e08026afa29c7c7bca64156ef7df5ae2093403dd23cc65da6a3300b980a380aca1c08dc1a7826589b1e6450fb1bc4b5b6edf758e8bd68da29d011267&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020201&pass_ticket=xIyVzbpBSkjeGNAcA4QGhkhf9FQVnCopHjhSgGjasMer8IS0x36aLeRUcURQ13hu)
+
