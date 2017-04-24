@@ -608,3 +608,5 @@
 
 * 2017-04-21  [RCP 11 - The stream data type](https://github.com/redis/redis-rcp/blob/master/RCP11.md)
 
+* 2017-04-24  [A Key Expired In Redis, You Won't Believe What Happened Next](http://engineering.grab.com/a-key-expired-in-redis-you-wont-believe-what-happened-next)
+
