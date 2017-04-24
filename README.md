@@ -610,3 +610,5 @@
 
 * 2017-04-24  [A Key Expired In Redis, You Won't Believe What Happened Next](http://engineering.grab.com/a-key-expired-in-redis-you-wont-believe-what-happened-next)
 
+* 2017-04-24  [Redis 交流群4月线下活动分享视频](http://www.meipai.com/media/733309504)
+
