@@ -612,3 +612,5 @@
 
 * 2017-04-24  [Redis 交流群4月线下活动分享视频](http://www.meipai.com/media/733309504)
 
+* 2017-04-25  [redis-id-generator 基于redis的分布式ID生成器](https://github.com/hengyunabc/redis-id-generator)
+
