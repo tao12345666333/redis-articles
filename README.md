@@ -614,3 +614,5 @@
 
 * 2017-04-25  [redis-id-generator 基于redis的分布式ID生成器](https://github.com/hengyunabc/redis-id-generator)
 
+* 2017-04-25  [A few things about Redis security](http://antirez.com/news/96)
+
