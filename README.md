@@ -616,3 +616,5 @@
 
 * 2017-04-25  [A few things about Redis security](http://antirez.com/news/96)
 
+* 2017-04-27  [NoSQL Redis and Memcache traffic generation and benchmarking tool.](https://github.com/RedisLabs/memtier_benchmark)
+
