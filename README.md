@@ -620,3 +620,5 @@
 
 * 2017-04-28  [Monitoring Redis](http://www.mikeperham.com/2017/04/20/monitoring-redis/)
 
+* 2017-04-29  [干货 | 阿里云技术峰会：来听听饿了么运维负责人讲饿厂Redis Cluster集群化演进](https://mp.weixin.qq.com/s?__biz=MzIxODQxMjc0MA==&mid=2247485140&idx=1&sn=7714ed12d37dd9f9c1df22abd1b6e059&chksm=97eba57fa09c2c6947f71dace470d1ef87d695955f990edec9caacca8cf7afe705ae23bd0018&mpshare=1&scene=1&srcid=0427rnhZ2sb2pCW8TuOGi6oz&key=c9ae00cb2e00c8e80a3e0a8d6c1f487ca0cf887fa935aa326251b759af6fa4fe0f6c35d2f4eaed4504a08332cc837a1d522c576a7130f028d1ecc164b1a19f61dbe6cd49eb3443de29ac73e402166aec&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=gh9UG7o6KlX6Hv2R%2FwncFV2Ktmyp1VsGXgDjdbNwIWIG0uJuWfwTq8sayyePzoYS)
+
