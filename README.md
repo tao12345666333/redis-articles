@@ -618,3 +618,5 @@
 
 * 2017-04-27  [NoSQL Redis and Memcache traffic generation and benchmarking tool.](https://github.com/RedisLabs/memtier_benchmark)
 
+* 2017-04-28  [Monitoring Redis](http://www.mikeperham.com/2017/04/20/monitoring-redis/)
+
