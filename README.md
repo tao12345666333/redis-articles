@@ -630,3 +630,5 @@
 
 * 2017-05-01  [Containers & Redis – Running Redis on Windows with Docker](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/21/containers-redis-running-redis-on-windows-with-docker/)
 
+* 2017-05-02  [Monitoring Redis: The small, hard way](https://www.compose.com/articles/monitoring-redis-the-small-hard-way/)
+
