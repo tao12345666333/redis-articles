@@ -632,3 +632,5 @@
 
 * 2017-05-02  [Monitoring Redis: The small, hard way](https://www.compose.com/articles/monitoring-redis-the-small-hard-way/)
 
+* 2017-05-03  [Mastering Redis high-availability and blocking connections](https://www.compose.com/articles/mastering-redis-high-availability-and-blocking-connections/)
+
