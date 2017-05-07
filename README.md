@@ -638,3 +638,5 @@
 
 * 2017-05-06  [rsbeat - The Beat used to collect and analyze redis slow log.](https://github.com/yourdream/rsbeat)
 
+* 2017-05-07  [A containerized redis master/slave configuration with sentinels for use in Rancher](https://github.com/Disgone/rancher-redis)
+
