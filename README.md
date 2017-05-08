@@ -640,3 +640,5 @@
 
 * 2017-05-07  [A containerized redis master/slave configuration with sentinels for use in Rancher](https://github.com/Disgone/rancher-redis)
 
+* 2017-05-08  [How to Use Elasticsearch, Logstash, and Kibana to Manage Redis Logs](https://qbox.io/blog/redis-logs-elasticsearch-logstash-kibana)
+
