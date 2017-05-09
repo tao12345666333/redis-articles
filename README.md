@@ -642,3 +642,5 @@
 
 * 2017-05-08  [How to Use Elasticsearch, Logstash, and Kibana to Manage Redis Logs](https://qbox.io/blog/redis-logs-elasticsearch-logstash-kibana)
 
+* 2017-05-09  [Telegraf Plugin: Redis](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/redis)
+
