@@ -648,3 +648,5 @@
 
 * 2017-05-10  [Redis内核基于时间点的备份恢复和基于AOF日志的增量同步机制设计](https://yq.aliyun.com/articles/68350)
 
+* 2017-05-11  [Redis实践及在直播行业的应用](https://yq.aliyun.com/articles/62559)
+
