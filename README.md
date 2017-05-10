@@ -646,3 +646,5 @@
 
 * 2017-05-10  [Unique primary keys(PKs) for MySQL using Redis](https://geeksww.com/tutorials/database_management_systems/mysql/tips_and_tricks/unique_primary_keys_pks_for_mysql_using_redis.php)
 
+* 2017-05-10  [Redis内核基于时间点的备份恢复和基于AOF日志的增量同步机制设计](https://yq.aliyun.com/articles/68350)
+
