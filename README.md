@@ -644,3 +644,5 @@
 
 * 2017-05-09  [Telegraf Plugin: Redis](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/redis)
 
+* 2017-05-10  [Unique primary keys(PKs) for MySQL using Redis](https://geeksww.com/tutorials/database_management_systems/mysql/tips_and_tricks/unique_primary_keys_pks_for_mysql_using_redis.php)
+
