@@ -650,3 +650,5 @@
 
 * 2017-05-11  [Redis实践及在直播行业的应用](https://yq.aliyun.com/articles/62559)
 
+* 2017-05-11  [Two simple ways to optimise Redis access in a PHP front-end application](https://theiconic.engineering/two-simple-ways-to-optimise-redis-access-in-a-php-front-end-application-d3d25c9b1333?nsukey=MOdJjlUIzqvfeZo57dapsk7hKOlyzmX4hLVUaniQIDcKZmS8P6wGxmMaWOjHJ1wF3AvTVOsrZMBEiIAjT%20k2V5MrvtvIdilej4Eos3zCx%20g3JbMGXNUpGaIYFPmUO9ZvqkdoRxz1fnn2Dz5sqOMtCJN%20eC3P3FklNebKdPxYL5hVp99WJLGZqZ96r%20dNnxwv)
+
