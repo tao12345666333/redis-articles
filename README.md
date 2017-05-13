@@ -654,3 +654,5 @@
 
 * 2017-05-12  [Redis Sessions for NBA.com and Service Decorators in Drupal 8](https://www.phase2technology.com/blog/redis-sessions-nbacom-and-service-decorators-drupal-8)
 
+* 2017-05-13  [REDISQL, ROAD TO ~50K INSERTS PER SECONDS.](http://redbeardlab.tech/2017/05/10/redisql-road-to-50k)
+
