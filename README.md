@@ -658,3 +658,5 @@
 
 * 2017-05-15  [用elastic stack来分析下你的redis slowlog](https://mp.weixin.qq.com/s?__biz=MzI2NDExNTk5Mg==&mid=2247484225&idx=1&sn=57d70fab990866402245d87280b24468&chksm=eab0c136ddc748203d43871cdf8cbd2d2c85fbbde796d3d9dda1f548666641f108668f1491b9&mpshare=1&scene=1&srcid=0513mWJ64jz75OxqkU8wnwWp&key=3d127883743862aaae40434e5559f7627c91710df0993f3d51b7d1149906f4583751ca97463dfdae7791893cd2326da25da8f970b38fa8c68f7d22f081685f0718802e5d5b4bb76fea4947b0a3fb7da2&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=GeYpybBoxuTJnZpr1ISLorFvV6iRZRV8FtgH03df67n5HqVeV4F0e%2FRKXoHKiQXk)
 
+* 2017-05-16  [A Redis module that provides session management.](https://github.com/f0rmiga/sessiongate)
+
