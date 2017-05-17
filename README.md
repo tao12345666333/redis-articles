@@ -660,3 +660,5 @@
 
 * 2017-05-16  [A Redis module that provides session management.](https://github.com/f0rmiga/sessiongate)
 
+* 2017-05-17  [三篇文章了解 TiDB 技术内幕——说存储](https://mp.weixin.qq.com/s?__biz=MzI3NDIxNTQyOQ==&mid=2247484822&idx=1&sn=5434362800d8dcc0ca69d2f3f3260173&chksm=eb1622fcdc61abea428f74b26a24bc589d524dd3b666d9b124809300f488d00b33a315a87792&mpshare=1&scene=1&srcid=0516tvqcy7CIgOxzXBCRpqC5&key=49e6738e03a5cdbcb3ce182be94f2795bf63f020affa28e55b5d80d7b4ef5881deb2fe0e7ef0878389780ef20bb26ab7d2244414ba10b3d525feab61f0a5129fbf4aecf89fac5d6b06722b2877c76f04&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=u3hwrO80eBPm3MqQYIBCRrxoBQ2R6nMQkRnB6x4PSpOxQR03thhA1o9rj1R1M3ga)
+
