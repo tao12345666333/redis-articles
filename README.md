@@ -664,3 +664,5 @@
 
 * 2017-05-20  [Benchmark utils for Redis Cluster that is inspired by redis-benchmark](https://github.com/maiha/redis-cluster-benchmark.cr)
 
+* 2017-05-22  [rm-logger (redis module logger)](https://github.com/aviggiano/rm-logger)
+
