@@ -666,3 +666,5 @@
 
 * 2017-05-22  [rm-logger (redis module logger)](https://github.com/aviggiano/rm-logger)
 
+* 2017-05-23  [大容量类 Redis 存储 -- 有关 pika 的一](https://mp.weixin.qq.com/s\?__biz\=MzIyNzUwMjM2MA\=\=\&mid\=2247484517\&idx\=1\&sn\=ce66302b65cd590d630e2b4e82fffe66\&chksm\=e8617412df16fd049cd07648a69a606326cae724e264aa62c77b6f3dc02995711c1568eb3d14\&scene\=0\&key\=9e9359226fa23c503969e0a0d8d7d72223d1d681b3bbb853c34b923915017e7fc7398ec8152606cf5c665bc6d1e96d69b6e0b5e0cefc7fdc15d06c6c72ddb9aa1c3cefbd64d9b3fea9f19397cfc79ac5\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020610\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=kha2IWeKwbuMr40e1lzzSL06sYUsvPd2Rwhq3149yXntXictb6FLKzjrZchpdtxx)
+
