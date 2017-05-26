@@ -670,3 +670,5 @@
 
 * 2017-05-25  [A service that exposes Prometheus metrics for Redis command results.](https://github.com/antarestupin/prometheus-redis)
 
+* 2017-05-26  [Optimizing Redis Storage](https://engineering.groupon.com/2014/misc/optimizing-redis-storage/)
+
