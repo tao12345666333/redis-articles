@@ -672,3 +672,5 @@
 
 * 2017-05-26  [Optimizing Redis Storage](https://engineering.groupon.com/2014/misc/optimizing-redis-storage/)
 
+* 2017-05-28  [Redis distributed locking for pragmatists](http://mono.software/2017/05/19/Redis-Distributed-Locking-for-Pragmatists/)
+
