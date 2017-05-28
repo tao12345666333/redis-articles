@@ -674,3 +674,5 @@
 
 * 2017-05-28  [Redis distributed locking for pragmatists](http://mono.software/2017/05/19/Redis-Distributed-Locking-for-Pragmatists/)
 
+* 2017-05-29  [A fast, light-weight migration tool for redis](https://github.com/helifu/redis-migration/blob/master/README.md)
+
