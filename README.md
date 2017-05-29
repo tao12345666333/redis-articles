@@ -676,3 +676,5 @@
 
 * 2017-05-29  [A fast, light-weight migration tool for redis](https://github.com/helifu/redis-migration/blob/master/README.md)
 
+* 2017-05-30  [Redis 实现接口访问频率限制](https://mp.weixin.qq.com/s\?__biz\=MzA4Nzc4MjI4MQ\=\=\&mid\=2652402586\&idx\=1\&sn\=84625a0e7ccc3111c43ecc084d1e6b50\&chksm\=8bd8f57cbcaf7c6a914df6065a9f14fc3e0c81534718a0e288f3b626d5fb417cd46fcab02220\&mpshare\=1\&scene\=1\&srcid\=05282qa8jvAmJHHOPbPRSipC\&key\=00676594f04bf18d3b570d2040d1cb3980299ed23272c1965af2e9862c98ec8c11ec2781a892dc0fc3a25c564cced08783af4fa63d6584c94ce344d0c84733a314cfbaf16a97314402314f733ab74dd3\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020610\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=nbqw40atT1DTLuVNk2Eenui04NKoqZDgxhGgwrplLF42UCPXvbTJHCJ%2BB30KUvBI)
+
