@@ -682,3 +682,5 @@
 
 * 2017-06-01  [A POC of a stress tester for redis in golang](https://github.com/lcacciagioni/redisbench)
 
+* 2017-06-03  [High Performance Redis-- Tague Griffith, GoPro](https://www.youtube.com/watch\?list\=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl\&index\=17\&v\=ccpEFUEzSXg\&app\=desktop)
+
