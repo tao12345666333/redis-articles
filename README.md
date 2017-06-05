@@ -684,3 +684,5 @@
 
 * 2017-06-03  [High Performance Redis-- Tague Griffith, GoPro](https://www.youtube.com/watch\?list\=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl\&index\=17\&v\=ccpEFUEzSXg\&app\=desktop)
 
+* 2017-06-05  [Go client for Redis](https://github.com/garyburd/redigo)
+
