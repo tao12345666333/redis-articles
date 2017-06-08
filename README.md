@@ -688,3 +688,5 @@
 
 * 2017-06-06  [Redis Performance Triage Handook](https://aadrake.com/posts/2017-05-15-redis-performance-triage-handbook.html)
 
+* 2017-06-08  [Time series values aggregation in redis using redis modules api](https://github.com/saginoam/RedisModuleTimeSeries)
+
