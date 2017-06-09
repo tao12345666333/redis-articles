@@ -690,3 +690,5 @@
 
 * 2017-06-08  [Time series values aggregation in redis using redis modules api](https://github.com/saginoam/RedisModuleTimeSeries)
 
+* 2017-06-10  [Tiny Redis client for latency measurement](https://github.com/essentialkaos/redis-latency-monitor/blob/master/readme.md)
+
