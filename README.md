@@ -692,3 +692,5 @@
 
 * 2017-06-10  [Tiny Redis client for latency measurement](https://github.com/essentialkaos/redis-latency-monitor/blob/master/readme.md)
 
+* 2017-06-10  [Dockerfile for Redis Cluster (redis 3.0+)](https://github.com/Grokzen/docker-redis-cluster)
+
