@@ -694,3 +694,5 @@
 
 * 2017-06-10  [Dockerfile for Redis Cluster (redis 3.0+)](https://github.com/Grokzen/docker-redis-cluster)
 
+* 2017-06-11  [Redis 源码学习之事件驱动](https://mp.weixin.qq.com/s\?__biz\=MzA5ODM5MDU3MA\=\=\&mid\=2650862802\&idx\=1\&sn\=93cbfe7e90bd42394065327292a5dd1e\&chksm\=8b661397bc119a811b53577ea8112c5736f49dcb561525274635ccf41e8cf333bfdee270ae67\&mpshare\=1\&scene\=1\&srcid\=0611jqfd8rjxzBHwG9NgZ4lQ\&key\=baf732038d89126bbd2d1e562d79d2132fe1ee24dec81de52034092643c3098458c3bfe882b253c332b0524f5952082ada2a32d1307fbcab214b34227f12040fa7e4d88e57ba3a5f3c26219f18c8e087\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020710\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=J54R9SK0IjUh4%2FNwmvNBUK07In1gt9QI2QGxkNOKs%2BGVl0IQ49v%2BuNzGOitatkoO)
+
