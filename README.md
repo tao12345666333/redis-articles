@@ -698,3 +698,5 @@
 
 * 2017-06-12  [Reddit 如何统计每个帖子的浏览量](https://mp.weixin.qq.com/s\?__biz\=MzA5ODM5MDU3MA\=\=\&mid\=2650862804\&idx\=1\&sn\=e8e78c9e8351444e2aa67c4e1e879e52\&chksm\=8b661391bc119a8710018512ac3a13a942333957be8ea61a08166b114bc4d538a86b0ba741aa\&mpshare\=1\&scene\=1\&srcid\=06124vMH4uexxJNFGrtLk1Ju\&key\=9a1f33d6168b02d7c16cbff486f41fcb950eb0755fea4e43f0988dab7b946a4d44093ca7b1c9924d326a33c86855da91a944781fa12bdc555607e8dcdfdb6a791e77ddd0a829cb309aea28ab7b13fe5f\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020710\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=0S8dpAFmNOiMC058GLUhyPAgaARlVKnEQPN4jsAXI49xm4ter14N8xScIXgtm%2FgY)
 
+* 2017-06-13  [Testing session replication with Docker, Spring Session and Redis - See more at: http://www.jeroenreijn.com/2015/09/testing-session-replication-with-docker-compose-redis-spring-session.html](http://www.jeroenreijn.com/2015/09/testing-session-replication-with-docker-compose-redis-spring-session.html)
+
