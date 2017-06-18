@@ -704,3 +704,5 @@
 
 * 2017-06-15  [Create a Docker container for Redis](https://docs.docker.com/engine/examples/running_redis_service/\#create-a-docker-container-for-redis)
 
+* 2017-06-18  [Redis Users Rejoice! The JCache API Is Here](https://dzone.com/articles/jcache-api-jsr-107-implementation-for-redis)
+
