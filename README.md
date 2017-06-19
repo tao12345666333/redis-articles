@@ -706,3 +706,5 @@
 
 * 2017-06-18  [Redis Users Rejoice! The JCache API Is Here](https://dzone.com/articles/jcache-api-jsr-107-implementation-for-redis)
 
+* 2017-06-19  [How to Build a State Machine on MongoDB and Redis](https://www.percona.com/live/17/sites/default/files/slides/PerconaLive%20Talk%20\(1\).pdf)
+
