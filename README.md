@@ -708,3 +708,5 @@
 
 * 2017-06-19  [How to Build a State Machine on MongoDB and Redis](https://www.percona.com/live/17/sites/default/files/slides/PerconaLive%20Talk%20\(1\).pdf)
 
+* 2017-06-20  [一步步实现 Redis 搜索引擎](https://mp.weixin.qq.com/s\?__biz\=MzA5ODM5MDU3MA\=\=\&mid\=2650862825\&idx\=1\&sn\=14802262906b1401c0577086c255fb0d\&chksm\=8b6613acbc119aba449a2e74b63e30c2ea455081b26cea6850c5a2dbb6faf7961d8e3e067a3b\&scene\=0\&key\=9a1f33d6168b02d7a9f9d85baf2454ea7150ca430e51d11b6d14e6bd33e6df3f0f7b0f87f1e57823cc0b99aecbd064c7f6cbb8befc97285ddf21c53c73ff0f020375f631e253165cdbaebdcc33f7ac87\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020710\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=nlvHwVYUXgwh2YlWPwVTGSnhkCDV2o%2FbWMvZxgzgx%2FXsPINcLKQ%2BHZP3y4VfpqfO)
+
