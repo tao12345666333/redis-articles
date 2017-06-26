@@ -716,3 +716,5 @@
 
 * 2017-06-25  [Redis 通信协议 —— 了解 Redis 客户端实现原理](https://mp.weixin.qq.com/s\?__biz\=MjM5NzM0MjcyMQ\=\=\&mid\=2650072507\&idx\=2\&sn\=6c744547854ee5d3d2c3fba1c8cc8729\&chksm\=bedb3ed589acb7c3b6d4cb6be70251e0e121c6bfb65ad7212940d0426271642c8e3071147f9d\&mpshare\=1\&scene\=1\&srcid\=0625cjeLQlWFOCfGt3zBELoZ\&key\=c969774f949c279bbb596d808265d8d49d3289a2219e678651d05cbeb804f1ed66a92d0efe641dfa30eadb4dded3b8b14e1ace73c8ce07618e436640078b450d96c7a5fa1f00e1e19d686a4e3607e6b6\&ascene\=0\&uin\=MzM4Njg2NDU1\&devicetype\=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build\(16F73\)\&version\=12020710\&nettype\=WIFI\&fontScale\=100\&pass_ticket\=83koKC6GRzFn%2BILm3SmMC1396AFw6e884aXwqCxhagQOiH0jdXKpM6gJj5I%2F4AVB)
 
+* 2017-06-26  [A sample Docker workflow with Nginx, Node.js and Redis](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
+
