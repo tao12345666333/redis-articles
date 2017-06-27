@@ -718,3 +718,5 @@
 
 * 2017-06-26  [A sample Docker workflow with Nginx, Node.js and Redis](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
 
+* 2017-06-27  [Testing session replication with Docker, Spring Session and Redis](http://www.jeroenreijn.com/2015/09/testing-session-replication-with-docker-compose-redis-spring-session.html)
+
