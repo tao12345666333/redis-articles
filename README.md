@@ -720,3 +720,5 @@
 
 * 2017-06-27  [Testing session replication with Docker, Spring Session and Redis](http://www.jeroenreijn.com/2015/09/testing-session-replication-with-docker-compose-redis-spring-session.html)
 
+* 2017-06-28  [Gryadka is a minimalistic Paxos-based master-master replicated consistent key/value layer on top of multiple instances of Redis](https://github.com/gryadka/js)
+
