@@ -722,3 +722,5 @@
 
 * 2017-06-28  [Gryadka is a minimalistic Paxos-based master-master replicated consistent key/value layer on top of multiple instances of Redis](https://github.com/gryadka/js)
 
+* 2017-06-30  [Redis Cluster Testing](https://github.com/QafooLabs/redis-testing/blob/master/README.md)
+
