@@ -724,3 +724,5 @@
 
 * 2017-06-30  [Redis Cluster Testing](https://github.com/QafooLabs/redis-testing/blob/master/README.md)
 
+* 2017-07-02  [RedisConf17 - How Roblox Keeps Millions of Users up to Date with Redis Pub - Peter Philips](https://www.youtube.com/watch?v=nXTxXSWBayg&app=desktop)
+
