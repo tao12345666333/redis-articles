@@ -726,3 +726,5 @@
 
 * 2017-07-02  [RedisConf17 - How Roblox Keeps Millions of Users up to Date with Redis Pub - Peter Philips](https://www.youtube.com/watch?v=nXTxXSWBayg&app=desktop)
 
+* 2017-07-03  [redis哨兵模式使用lua脚本实现分布式锁](http://www.voidcn.com/blog/Mr_Smile2014/article/p-6658981.html)
+
