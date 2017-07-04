@@ -737,3 +737,5 @@
 
 * 2017-07-03  [redis哨兵模式使用lua脚本实现分布式锁](http://www.voidcn.com/blog/Mr_Smile2014/article/p-6658981.html)
 
+* 2017-07-04  [Redisson性能压测权威发布](https://mp.weixin.qq.com/s?__biz=MjM5NjkxMjA1MA==&mid=2247483746&idx=1&sn=9e9fe2e91f2566aac6227f93281dffc5&chksm=a6e34fbf9194c6a9033270cff2535522904ca1929d95c5622e5a25603ea1b4995610a0fab373&mpshare=1&scene=1&srcid=07046PzadWRRycnrcwjs82ut&key=df6095916712388e6dfb106bdc6094ae7e3456b08613ca648eca028843d82428612d92db74de3e33fba6b7ad3301315ae79d9bfd149068405a497419e43e47880e286732d55a2722bb9062256d74e07a&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=iqAMbFo%2FIvxdIiTZGiBd%2F%2FdEf4wLij8x4w%2BtUhL%2BQD%2F1FKZ%2BLbfn4zwWKuwrgzrq)
+
