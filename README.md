@@ -741,3 +741,5 @@
 
 * 2017-07-05  [听滴滴大神给你讲Redis Cluster迁移遇到的坑](https://mp.weixin.qq.com/s?__biz=MjM5NjkxMjA1MA==&mid=2247483772&idx=1&sn=51d93d22e1ed2efbff5596839d5b77df&chksm=a6e34fa19194c6b7e4775eea10bfb5632458d04706ed1620dc0432f6911cc6a306b86dee26c8&mpshare=1&scene=1&srcid=0705TBGOIAsdqlpsm3IvyoB5&key=df6095916712388e5692fea773f1361740a200117ea47f983bb3c66a0975e614d1c70abd5e1c6dde416caba1a239852df63726075ac41c3259d278ed76c53f3d0b58ba3bcd8b7c6f66ca475d9db5295f&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=mYdTJugINDYt%2BrCxiF%2FYcu9ftJpYtOM%2BTmouv5L%2F%2BPgTiX7WRIRzN7%2BGzNwlrP9k)
 
+* 2017-07-06  [A local proxy server for discovering and to Redis via Sentinel](https://github.com/RedisLabs/sentinel_tunnel)
+
