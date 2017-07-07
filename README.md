@@ -743,3 +743,5 @@
 
 * 2017-07-06  [A local proxy server for discovering and to Redis via Sentinel](https://github.com/RedisLabs/sentinel_tunnel)
 
+* 2017-07-07  [RedisConf17 - Redis Cluster at flickr and tripod](https://www.slideshare.net/RedisLabs/redisconf17-redis-cluster-at-flickr-and-tripod)
+
