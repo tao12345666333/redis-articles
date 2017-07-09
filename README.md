@@ -745,3 +745,5 @@
 
 * 2017-07-07  [RedisConf17 - Redis Cluster at flickr and tripod](https://www.slideshare.net/RedisLabs/redisconf17-redis-cluster-at-flickr-and-tripod)
 
+* 2017-07-09  [Redis Cluster理论整理](http://www.seekjune.com/post/39214)
+
