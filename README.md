@@ -747,3 +747,5 @@
 
 * 2017-07-09  [Redis Cluster理论整理](http://www.seekjune.com/post/39214)
 
+* 2017-07-11  [How we cut down memory usage by 82%](http://labs.octivi.com/how-we-cut-down-memory-usage-by-82/)
+
