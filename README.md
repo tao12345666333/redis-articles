@@ -751,3 +751,5 @@
 
 * 2017-07-12  [【独家】RediSearch - Redis强大的搜索引擎](https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651818472&idx=1&sn=890931bf1d6ddc97872af8462a07a482&chksm=f0dcdf94c7ab568284b6ddf0de80afa681eaa6003a2a1cca186de0d35211f76328bcadc939d9&mpshare=1&scene=1&srcid=0710PdyNumoUS5AaqV4YJxs5&key=50814c5812fb30a20feccfd51b834111d0b10ae3d0aebdf3793660d0e320dc1e66861fd7eed112362aecb9acf751c9eb8eaf32272ab22997185fe7c8b0e34c32a9875d58e3b2a4e2decfb605ae9d3390&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=VChUPn5BF9jHWRXjWkm1EXFCEJecwWUlWsw4iTWAT2J3wO%2BvLjLVn6SaTyDPIZ73)
 
+* 2017-07-13  [The Redis API: Simple, Composable, Powerful -- Akbar Ahmed, DynomiteDB](https://www.youtube.com/watch?v=wEGi2i4mnGA&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl&index=8)
+
