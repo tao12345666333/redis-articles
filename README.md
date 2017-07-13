@@ -753,3 +753,5 @@
 
 * 2017-07-13  [The Redis API: Simple, Composable, Powerful -- Akbar Ahmed, DynomiteDB](https://www.youtube.com/watch?v=wEGi2i4mnGA&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl&index=8)
 
+* 2017-07-14  [Solving Redis Latency Issues with Transparent Huge Pages-- Mihir, Vikas, Abhinav, UW Madison](https://www.youtube.com/watch?v=cSXqtVtJiqI&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl&index=31)
+
