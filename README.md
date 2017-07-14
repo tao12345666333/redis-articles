@@ -757,3 +757,5 @@
 
 * 2017-07-14  [Redis开启AOF导致的删库事件](http://wangxin123.com/2017/05/27/Redis%E5%BC%80%E5%90%AFAOF%E5%AF%BC%E8%87%B4%E7%9A%84%E5%88%A0%E5%BA%93%E4%BA%8B%E4%BB%B6/)
 
+* 2017-07-15  [Redis 4.0 ReleaseNote](https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES)
+
