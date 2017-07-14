@@ -755,3 +755,5 @@
 
 * 2017-07-14  [Solving Redis Latency Issues with Transparent Huge Pages-- Mihir, Vikas, Abhinav, UW Madison](https://www.youtube.com/watch?v=cSXqtVtJiqI&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl&index=31)
 
+* 2017-07-14  [Redis开启AOF导致的删库事件](http://wangxin123.com/2017/05/27/Redis%E5%BC%80%E5%90%AFAOF%E5%AF%BC%E8%87%B4%E7%9A%84%E5%88%A0%E5%BA%93%E4%BA%8B%E4%BB%B6/)
+
