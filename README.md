@@ -759,3 +759,5 @@
 
 * 2017-07-15  [Redis 4.0 ReleaseNote](https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES)
 
+* 2017-07-16  [Java Multimaps With Redis](https://dzone.com/articles/multimaps-with-redis)
+
