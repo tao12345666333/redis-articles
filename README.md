@@ -761,3 +761,5 @@
 
 * 2017-07-16  [Java Multimaps With Redis](https://dzone.com/articles/multimaps-with-redis)
 
+* 2017-07-17  [唯品会海量实时OLAP分析技术升级之路](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650762317&idx=1&sn=6b4efbbac812cadf2c71b1f01f4fad99&chksm=f3f9d9d8c48e50cefb0f156ed38aa3ce0b09d0da75e7b1e554b8dfb2766ff28e62136235c5ae&mpshare=1&scene=1&srcid=0717Af5ivhEcqVBmR9HOG3Te&key=50814c5812fb30a2686167651785d69e98b619ac27360f7b4014b2e017f7c1b67a805e0ea5cf244a657fb92bf78b2aba38efdc2b4e2d7615b07d046ad7056d48ac419f8ae308b22c6fad5ddd6f12936c&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=SbOSJ0zVKdVvlZHhx%2BUTV%2BEsc2HUNjPloRZEzd3BcM%2Bcxzs7BnsOyvF233QDYAML)
+
