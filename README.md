@@ -765,3 +765,5 @@
 
 * 2017-07-18  [Redis Cluster: Fact Sheet](https://dzone.com/articles/redis-cluster-fact-sheet-not-just-issues)
 
+* 2017-07-19  [ReBloom – Bloom Filter Datatype for Redis](https://redislabs.com/blog/rebloom-bloom-filter-datatype-redis/)
+
