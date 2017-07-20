@@ -767,3 +767,5 @@
 
 * 2017-07-19  [ReBloom – Bloom Filter Datatype for Redis](https://redislabs.com/blog/rebloom-bloom-filter-datatype-redis/)
 
+* 2017-07-20  [High-Availability With Redis Sentinels Connecting to Master/Slave](https://dzone.com/articles/high-availability-with-redis-sentinels-connecting)
+
