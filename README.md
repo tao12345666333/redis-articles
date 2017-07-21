@@ -769,3 +769,5 @@
 
 * 2017-07-20  [High-Availability With Redis Sentinels Connecting to Master/Slave](https://dzone.com/articles/high-availability-with-redis-sentinels-connecting)
 
+* 2017-07-21  [Redis Cluster Manager in Crystal](https://github.com/maiha/rcm.cr)
+
