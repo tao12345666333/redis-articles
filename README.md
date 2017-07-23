@@ -771,3 +771,5 @@
 
 * 2017-07-21  [Redis Cluster Manager in Crystal](https://github.com/maiha/rcm.cr)
 
+* 2017-07-23  [Counting image views using redis cluster](https://www.slideshare.net/mobile/RedisLabs/counting-image-views-using-redis-cluster)
+
