@@ -773,3 +773,5 @@
 
 * 2017-07-23  [Counting image views using redis cluster](https://www.slideshare.net/mobile/RedisLabs/counting-image-views-using-redis-cluster)
 
+* 2017-07-26  [Redis Cluster failover 场景下 Jedis 访问性能下降 50% 的代码优化](https://mp.weixin.qq.com/s?__biz=MzAwOTgxNDgwMA==&mid=2650274359&idx=1&sn=072f2aa1a66c7be7b5e0d1372d1bc056&chksm=835a8c48b42d055eb067bb7df428ae4fd6a90e6036453a3984c853b9c55a7369772562cfc351&mpshare=1&scene=1&srcid=0725vughIpxy9PRTRqHFbv3x&key=c969774f949c279b110f2f3dc453ff81300fdd44a4ab0f9ea80de2792556cd6f32672b1a02ce9f775f8a8f03c5f0c73419dc5165c768dd684853774dc1ccdf4cc497ffd21f9ac25e352f495948841f58&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=UUW0kasB6N7RMzj2v0cQ8Q%2BBWXFwQILehKLA0NGq1Zuxv50iVvcInpEbjc56mPHF)
+
