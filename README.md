@@ -777,3 +777,5 @@
 
 * 2017-07-28  [An Introduction to Redis-ML. Part One of Four.](https://redislabs.com/blog/introduction-redis-ml/)
 
+* 2017-07-29  [Redis内核单元测试框架](https://yq.aliyun.com/articles/62845)
+
