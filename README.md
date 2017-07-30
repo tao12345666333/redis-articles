@@ -779,3 +779,5 @@
 
 * 2017-07-29  [Redis内核单元测试框架](https://yq.aliyun.com/articles/62845)
 
+* 2017-07-30  [Redis内核单元测试框架](https://yq.aliyun.com/articles/62845?spm=5176.154649.801568.11.RRUCJO)
+
