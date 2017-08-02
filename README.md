@@ -785,3 +785,5 @@
 
 * 2017-08-01  [Jedis介绍及常见问题分析](https://yq.aliyun.com/articles/73894?spm=5176.154649.801570.1.xGMtzl)
 
+* 2017-08-02  [RedisConf17 - Redis Cluster Operability with Kubernetes and OpenShift - Cedric Lamoriniere](https://www.youtube.com/watch?v=6iynF2SEOes&app=desktop)
+
