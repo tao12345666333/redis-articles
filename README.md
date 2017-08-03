@@ -787,3 +787,5 @@
 
 * 2017-08-02  [RedisConf17 - Redis Cluster Operability with Kubernetes and OpenShift - Cedric Lamoriniere](https://www.youtube.com/watch?v=6iynF2SEOes&app=desktop)
 
+* 2017-08-03  [How to use Redis for real-time stream processing](http://www.infoworld.com/article/3212768/database/how-to-use-redis-for-real-time-stream-processing.html)
+
