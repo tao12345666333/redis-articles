@@ -789,3 +789,5 @@
 
 * 2017-08-03  [How to use Redis for real-time stream processing](http://www.infoworld.com/article/3212768/database/how-to-use-redis-for-real-time-stream-processing.html)
 
+* 2017-08-04  [Never Stop Serving: Making Redis Concurrent With Modules](https://redislabs.com/blog/making-redis-concurrent-with-modules/)
+
