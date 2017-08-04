@@ -791,3 +791,5 @@
 
 * 2017-08-04  [Never Stop Serving: Making Redis Concurrent With Modules](https://redislabs.com/blog/making-redis-concurrent-with-modules/)
 
+* 2017-08-05  [10 redis cluster 集群畅谈一](http://www.jianshu.com/p/a2b5bf1ca98e)
+
