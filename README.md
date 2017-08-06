@@ -793,3 +793,5 @@
 
 * 2017-08-05  [10 redis cluster 集群畅谈一](http://www.jianshu.com/p/a2b5bf1ca98e)
 
+* 2017-08-06  [RAuth token based authentication system build on top of Java and Redis.](https://github.com/thakerhardiks/RAuth)
+
