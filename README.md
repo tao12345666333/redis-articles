@@ -797,3 +797,5 @@
 
 * 2017-08-07  [用最少的机器支撑万亿级访问，微博6年Redis优化历程](https://mp.weixin.qq.com/s?__biz=MjM5NjkxMjA1MA==&mid=2247483828&idx=1&sn=045ffcd05def7c4403221eb57485cb8c&chksm=a6e34f699194c67f39a2a9b648fadcf444cc702ecfee5721c8638c06494cdaf4448d5c2b0f70&mpshare=1&scene=1&srcid=0805c6ZEUTsouzs500YS5IU4&key=02a45e2d696653c0626982d3b6bc338f5e92d7d83433ec81cc96144aa20e9c83d5c2e5b565e06dd17cb14183e19d10a4beabf71003bb569ec3445e2025ef5fbcd0def863ac728d0d2aea093e0cccbee8&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=SQaDsMWX1MHjOQJXzaLy2cLTy77QS3M7O72FK5jRPhPqdbSakwnFAfbzlhDHm%2F7x)
 
+* 2017-08-08  [Time series values aggregation in redis using redis modules api](https://github.com/saginoam/RedisModuleTimeSeries)
+
