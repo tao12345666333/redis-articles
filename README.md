@@ -799,3 +799,5 @@
 
 * 2017-08-08  [Time series values aggregation in redis using redis modules api](https://github.com/saginoam/RedisModuleTimeSeries)
 
+* 2017-08-10  [Compatible with: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion Gogland DataGrip Rider Android Studio](https://plugins.jetbrains.com/plugin/9228-iedis)
+
