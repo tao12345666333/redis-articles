@@ -801,3 +801,5 @@
 
 * 2017-08-10  [Compatible with: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion Gogland DataGrip Rider Android Studio](https://plugins.jetbrains.com/plugin/9228-iedis)
 
+* 2017-08-11  [Making Hadoop MapReduce Work with a Redis Cluster](https://content.pivotal.io/blog/making-hadoop-mapreduce-work-with-a-redis-cluster)
+
