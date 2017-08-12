@@ -803,3 +803,5 @@
 
 * 2017-08-11  [Making Hadoop MapReduce Work with a Redis Cluster](https://content.pivotal.io/blog/making-hadoop-mapreduce-work-with-a-redis-cluster)
 
+* 2017-08-12  [An Introduction to Redis-ML (Part Two)](https://redislabs.com/blog/introduction-redis-ml-part-two/)
+
