@@ -805,3 +805,5 @@
 
 * 2017-08-12  [An Introduction to Redis-ML (Part Two)](https://redislabs.com/blog/introduction-redis-ml-part-two/)
 
+* 2017-08-13  [Indexing with Redis](http://nosqlgeek.blogspot.de/2017/07/indexing-with-redis.html)
+
