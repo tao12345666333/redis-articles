@@ -807,3 +807,5 @@
 
 * 2017-08-13  [Indexing with Redis](http://nosqlgeek.blogspot.de/2017/07/indexing-with-redis.html)
 
+* 2017-08-14  [Guide to Spring Session](http://www.baeldung.com/spring-session)
+
