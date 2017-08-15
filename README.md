@@ -809,3 +809,5 @@
 
 * 2017-08-14  [Guide to Spring Session](http://www.baeldung.com/spring-session)
 
+* 2017-08-15  [Redis内存分析方法](https://yq.aliyun.com/articles/62899?spm=5176.154649.801568.9.UvJFm2)
+
