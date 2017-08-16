@@ -811,3 +811,5 @@
 
 * 2017-08-15  [Redis内存分析方法](https://yq.aliyun.com/articles/62899?spm=5176.154649.801568.9.UvJFm2)
 
+* 2017-08-16  [如何优雅地删除Redis大键](https://zhuoroger.github.io/2016/08/13/redis-delete-large-keys/)
+
