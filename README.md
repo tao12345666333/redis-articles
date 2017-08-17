@@ -813,3 +813,5 @@
 
 * 2017-08-16  [如何优雅地删除Redis大键](https://zhuoroger.github.io/2016/08/13/redis-delete-large-keys/)
 
+* 2017-08-17  [Containers & Redis – Running Redis on Windows with Docker](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/21/containers-redis-running-redis-on-windows-with-docker/)
+
