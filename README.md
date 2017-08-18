@@ -815,3 +815,5 @@
 
 * 2017-08-17  [Containers & Redis – Running Redis on Windows with Docker](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/21/containers-redis-running-redis-on-windows-with-docker/)
 
+* 2017-08-19  [Multi-Master Replication - Yossi Gottlieb, Redis Labs](https://www.youtube.com/watch?v=b5UTfy3ftzI&app=desktop)
+
