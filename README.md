@@ -817,3 +817,5 @@
 
 * 2017-08-19  [Multi-Master Replication - Yossi Gottlieb, Redis Labs](https://www.youtube.com/watch?v=b5UTfy3ftzI&app=desktop)
 
+* 2017-08-20  [RedisConf17 - Redis Community Updates - Salvatore Sanfilippo](https://www.youtube.com/watch?v=U7J33pd3hLU)
+
