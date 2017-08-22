@@ -821,3 +821,5 @@
 
 * 2017-08-21  [Redis4.0 新特性尝鲜](http://trumandu.github.io/2017/07/19/Redis4-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%B0%9D%E9%B2%9C/)
 
+* 2017-08-22  [RediSearch 探索](http://trumandu.github.io/2017/07/19/RediSearch-%E6%8E%A2%E7%B4%A2/)
+
