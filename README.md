@@ -823,3 +823,5 @@
 
 * 2017-08-22  [RediSearch 探索](http://trumandu.github.io/2017/07/19/RediSearch-%E6%8E%A2%E7%B4%A2/)
 
+* 2017-08-23  [RedisConf17 - Utilizing Redis in a High tech Ad Traffic Stack - Rahul Babbar](https://www.youtube.com/watch?feature=youtu.be&utm_source=linkedin.com&list=PL83Wfqi-zYZF1MDKLr5djmLYUI0woy1wi&utm_medium=social&utm_campaign=buffer&v=ITPDIJxnCOI&utm_content=bufferc6cd3&from=singlemessage&app=desktop)
+
