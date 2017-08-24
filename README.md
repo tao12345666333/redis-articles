@@ -825,3 +825,5 @@
 
 * 2017-08-23  [RedisConf17 - Utilizing Redis in a High tech Ad Traffic Stack - Rahul Babbar](https://www.youtube.com/watch?feature=youtu.be&utm_source=linkedin.com&list=PL83Wfqi-zYZF1MDKLr5djmLYUI0woy1wi&utm_medium=social&utm_campaign=buffer&v=ITPDIJxnCOI&utm_content=bufferc6cd3&from=singlemessage&app=desktop)
 
+* 2017-08-24  [An Introduction to Redis-ML (Part Three)](https://redislabs.com/blog/introduction-redis-ml-part-three/)
+
