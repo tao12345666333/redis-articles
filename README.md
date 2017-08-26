@@ -829,3 +829,5 @@
 
 * 2017-08-25  [Reading and Writing Redis Protocol in Go](https://www.redisgreen.net/blog/reading-and-writing-redis-protocol/)
 
+* 2017-08-26  [Redis benchmark test ](https://openbenchmarking.org/test/pts/redis)
+
