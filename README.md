@@ -831,3 +831,5 @@
 
 * 2017-08-26  [Redis benchmark test ](https://openbenchmarking.org/test/pts/redis)
 
+* 2017-08-27  [Redis Performance Monitoring with the ELK Stack](https://logz.io/blog/redis-performance-monitoring-elk-stack/)
+
