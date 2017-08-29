@@ -835,3 +835,5 @@
 
 * 2017-08-28  [AN INTRODUCTION TO GEOSPATIAL DATA IN REDIS THROUGH URBAN FORESTRY](https://redislabs.com/webinars/introduction-geospatial-data-redis-urban-forestry/?utm_content=bufferc79b9&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
+* 2017-08-29  [Why Your MongoDB needs Redis](https://redislabs.com/docs/why-your-mongodb-needs-redis/?utm_content=buffereb06b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+
