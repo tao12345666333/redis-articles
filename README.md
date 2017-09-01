@@ -841,3 +841,5 @@
 
 * 2017-08-31  [RedisConf17 - Redis Flash in Google Cloud with Kubernetes - Kelsey Hightower](https://www.youtube.com/watch?v=RCD-JqV2QpQ)
 
+* 2017-09-01  [Redis 和 I/O 多路复用](http://draveness.me/redis-io-multiplexing.html)
+
