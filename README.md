@@ -783,6 +783,11 @@
 
 * 2017-07-31  [有赞延迟队列设计](https://mp.weixin.qq.com/s?__biz=MjM5NTY0MTY1OQ==&mid=2654510780&idx=1&sn=6f6dc70cac2f0abc388416ad2e9bcb3c&chksm=bd395ee88a4ed7febd78f7b48be0a875ead05acd6bd31b26b7e53e0c054362af470eac506009&mpshare=1&scene=1&srcid=0731BMIFmJr5ouULbqVqUuww&key=50814c5812fb30a2ea645e981021ee80d93e5b4f8363ffde0a15c5e43b38a4534c15d0fc115147a138bbed71c22ef93f38fb7bb95f68f65cb8a7fa598e1711dbce54697cb9293a30e7a33fea01cb9c45&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=bnK6fL4HgEcUv4nXERfwBEsdi7Lfs7zSRaSauTQDCIbVwPgIpRAvqMQGV4Xbk8W3)
 
+
+
+## 2017-08
+
+
 * 2017-08-01  [Jedis介绍及常见问题分析](https://yq.aliyun.com/articles/73894?spm=5176.154649.801570.1.xGMtzl)
 
 * 2017-08-02  [RedisConf17 - Redis Cluster Operability with Kubernetes and OpenShift - Cedric Lamoriniere](https://www.youtube.com/watch?v=6iynF2SEOes&app=desktop)
@@ -840,6 +845,11 @@
 * 2017-08-30  [Redis Cluster 迁移案例](https://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652402631&idx=1&sn=3ebb8cdcec1b8dfcae64eaf306f4bce6&chksm=8bd8f521bcaf7c37bfccbf13d56e075f30d238ff441c73e4ae9331af27061475056e7abf36a5&mpshare=1&scene=1&srcid=0830twdFe3SIO6CN5vOFVppm&key=93cfae3cc9d95451ddf4520ebfb0fbb9430e654b95dc5b8e844800335468c60294b0ec67168a4ec36f1533483546f33c4e50e43ecbd2d678b4e9a1fbb4480a8d19e2fee8a4990038b3028bfc885f4967&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=Q%2FLMiwdx488Q4J8ezSyEJBRsYHh7VqfK69ObExc%2BIRXji8mS5Bo4Zwf6Arcoqmoi)
 
 * 2017-08-31  [RedisConf17 - Redis Flash in Google Cloud with Kubernetes - Kelsey Hightower](https://www.youtube.com/watch?v=RCD-JqV2QpQ)
+
+
+
+## 2017-09
+
 
 * 2017-09-01  [Redis 和 I/O 多路复用](http://draveness.me/redis-io-multiplexing.html)
 
