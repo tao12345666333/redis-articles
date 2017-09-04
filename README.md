@@ -855,3 +855,5 @@
 
 * 2017-09-03  [Redis-based distributed cache in ASP.NET Core](https://surfingthecode.com/2017/08/redis-based-distributed-cache-in-asp.net-core/)
 
+* 2017-09-04  [Background Tasks in Python with RQ](https://devcenter.heroku.com/articles/python-rq)
+
