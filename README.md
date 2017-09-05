@@ -857,3 +857,5 @@
 
 * 2017-09-04  [Background Tasks in Python with RQ](https://devcenter.heroku.com/articles/python-rq)
 
+* 2017-09-05  [使用 Redis 解决“树”形数据的复杂查询](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650863029&idx=1&sn=8fc43f9717ef1874a402f6c4ad777d91&chksm=8b6612f0bc119be66421ff245bda2758ee603fec31020037545366ef737949f7075ccdf98386&mpshare=1&scene=1&srcid=0904YAZ5qoO2tui27Nz7JcF2&key=4dfb0b0c07ae45250e6cab821f6fdaa98793d5caf359be388b42f14bc011649a6de10084aee027baed1b3507a5e5c55d3d43c85698850afa06a8ef4abc2a28bbf23733cf549e1119acfb8f2059683ff4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=bLBT7zfeccSIv5t%2Fl0ZTfXlyZpLYOBz7sJtpA0iFGzFykTNJzsk%2B1goU4quBhNZ6)
+
