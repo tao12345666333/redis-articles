@@ -865,3 +865,5 @@
 
 * 2017-09-09  [Redis Geo Tutorial](https://www.objectrocket.com/blog/company/redis-geo-tutorial)
 
+* 2017-09-10  [An Introduction to Redis-ML (Part Five)](https://redislabs.com/blog/introduction-redis-ml-part-five/)
+
