@@ -867,3 +867,5 @@
 
 * 2017-09-10  [An Introduction to Redis-ML (Part Five)](https://redislabs.com/blog/introduction-redis-ml-part-five/)
 
+* 2017-09-11  [GEOCLUSTERgeoset radius unit min-points](http://redismodules.com/commands/geocluster/)
+
