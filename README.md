@@ -869,3 +869,5 @@
 
 * 2017-09-11  [GEOCLUSTERgeoset radius unit min-points](http://redismodules.com/commands/geocluster/)
 
+* 2017-09-12  [Redis Graph - Roi Lipman, Redis Labs](https://www.youtube.com/watch?v=Ctw8IKqgghs)
+
