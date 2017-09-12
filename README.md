@@ -871,3 +871,5 @@
 
 * 2017-09-12  [Redis Graph - Roi Lipman, Redis Labs](https://www.youtube.com/watch?v=Ctw8IKqgghs)
 
+* 2017-09-13  [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+
