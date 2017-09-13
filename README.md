@@ -873,3 +873,5 @@
 
 * 2017-09-13  [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
 
+* 2017-09-14  [fun-with-redis-geo-features](https://zerokspot.com/weblog/2016/06/26/fun-with-redis-geo-features/)
+
