@@ -875,3 +875,5 @@
 
 * 2017-09-14  [fun-with-redis-geo-features](https://zerokspot.com/weblog/2016/06/26/fun-with-redis-geo-features/)
 
+* 2017-09-15  [ReJSON = {"id": "old dog", "activity": "new trick"} - Itamar Haber, Redis Labs](https://www.youtube.com/watch?v=NLRbq2FtcIk)
+
