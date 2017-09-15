@@ -877,3 +877,5 @@
 
 * 2017-09-15  [ReJSON = {"id": "old dog", "activity": "new trick"} - Itamar Haber, Redis Labs](https://www.youtube.com/watch?v=NLRbq2FtcIk)
 
+* 2017-09-16  [The Redis API: Simple, Composable, Powerful -- Akbar Ahmed, DynomiteDB](https://www.youtube.com/watch?v=wEGi2i4mnGA&t=243s)
+
