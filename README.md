@@ -879,3 +879,5 @@
 
 * 2017-09-16  [The Redis API: Simple, Composable, Powerful -- Akbar Ahmed, DynomiteDB](https://www.youtube.com/watch?v=wEGi2i4mnGA&t=243s)
 
+* 2017-09-17  [RedisConf17 - Using Redis and RediSearch Module to Store & Search Volatile Data - Dmitry Polyakovsky](https://www.youtube.com/watch?v=Zsz1FhLQ2cM)
+
