@@ -881,3 +881,5 @@
 
 * 2017-09-17  [RedisConf17 - Using Redis and RediSearch Module to Store & Search Volatile Data - Dmitry Polyakovsky](https://www.youtube.com/watch?v=Zsz1FhLQ2cM)
 
+* 2017-09-18  [RedisConf17 - Streaming Logs and Processing View Counts using Redis Cluster - Seandon Mooy](https://www.youtube.com/watch?v=X5WBMGm9w1w)
+
