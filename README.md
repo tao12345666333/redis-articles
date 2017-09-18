@@ -883,3 +883,5 @@
 
 * 2017-09-18  [RedisConf17 - Streaming Logs and Processing View Counts using Redis Cluster - Seandon Mooy](https://www.youtube.com/watch?v=X5WBMGm9w1w)
 
+* 2017-09-19  [Scalable Streaming Data Pipelines with Redis -- Avram Lyon, Scopely](https://www.youtube.com/watch?v=Cj0ChmpkoZU)
+
