@@ -885,3 +885,5 @@
 
 * 2017-09-19  [Scalable Streaming Data Pipelines with Redis -- Avram Lyon, Scopely](https://www.youtube.com/watch?v=Cj0ChmpkoZU)
 
+* 2017-09-20  [Redis Networking Nerd Down--John Bullard, Distil Networks](https://www.youtube.com/watch?v=3h316lNYMyQ&index=15&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl)
+
