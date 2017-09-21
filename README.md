@@ -887,3 +887,5 @@
 
 * 2017-09-20  [Redis Networking Nerd Down--John Bullard, Distil Networks](https://www.youtube.com/watch?v=3h316lNYMyQ&index=15&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl)
 
+* 2017-09-21  [A Lua client library for the redis key value storage system.](https://github.com/nrk/redis-lua)
+
