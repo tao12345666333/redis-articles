@@ -889,3 +889,5 @@
 
 * 2017-09-21  [A Lua client library for the redis key value storage system.](https://github.com/nrk/redis-lua)
 
+* 2017-09-22  [Solving Redis Latency Issues with Transparent Huge Pages-- Mihir, Vikas, Abhinav, UW Madison](https://www.youtube.com/watch?v=cSXqtVtJiqI&index=31&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl)
+
