@@ -893,3 +893,5 @@
 
 * 2017-09-23  [详解python调用redis lua内嵌脚本的高级用法](http://xiaorui.cc/2016/03/27/%E8%AF%A6%E8%A7%A3python%E8%B0%83%E7%94%A8redis-lua%E5%86%85%E5%B5%8C%E8%84%9A%E6%9C%AC%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/)
 
+* 2017-09-24  [New Redis Capabilities : Own, Make, Share --Itamar Haber, Redis Labs](https://www.youtube.com/watch?v=fzkq0UrLK_I&index=26&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl)
+
