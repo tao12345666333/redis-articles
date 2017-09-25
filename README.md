@@ -895,3 +895,5 @@
 
 * 2017-09-24  [New Redis Capabilities : Own, Make, Share --Itamar Haber, Redis Labs](https://www.youtube.com/watch?v=fzkq0UrLK_I&index=26&list=PL83Wfqi-zYZHtHoGv3PcGQA3lvE9p1eRl)
 
+* 2017-09-25  [Redis Lua 脚本调试器用法说明](http://blog.huangz.me/2017/redis-lua-debuger-introduction.html)
+
