@@ -897,3 +897,5 @@
 
 * 2017-09-25  [Redis Lua 脚本调试器用法说明](http://blog.huangz.me/2017/redis-lua-debuger-introduction.html)
 
+* 2017-09-26  [直击Redis持久化磁盘IO痛点，让存储不再有负担！](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650763383&idx=1&sn=348a84605a7cdefe4e075c9f0310f257&chksm=f3f9c5e2c48e4cf41bd3f708bce3f9a1302a699cf7defe611e9aea120fcb424944119e079362&mpshare=1&scene=1&srcid=0926zoiYASskdGnGTathAoZ0&key=81c0e1f7847266b34a9b6e582d330887aa326b3de5b95757dd22afed130fe616bc41c88ad69b3072a92ab2ecc5b04590f2cd7c9e17f2ebeff7e336b1f84fa429d7429ab29208bca7b55dfb7051b16124&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=IZjSWmUwPVxrb0RtShH0DIYneTbw4mpwFsTvQHESY8xl4BzeZr9LG3wTP8B2YbBl)
+
