@@ -901,3 +901,5 @@
 
 * 2017-09-27  [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
 
+* 2017-09-28  [Analytics with Redis Part 1](https://www.youtube.com/watch?v=X6OnNLtJq_Q)
+
