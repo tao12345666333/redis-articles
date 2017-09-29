@@ -903,3 +903,5 @@
 
 * 2017-09-28  [Analytics with Redis Part 1](https://www.youtube.com/watch?v=X6OnNLtJq_Q)
 
+* 2017-09-29  [7 Methods For Tracing and Debugging Redis Lua Scripts](https://redislabs.com/blog/5-6-7-methods-for-tracing-and-debugging-redis-lua-scripts/)
+
