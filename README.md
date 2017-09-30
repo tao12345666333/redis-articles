@@ -905,3 +905,5 @@
 
 * 2017-09-29  [7 Methods For Tracing and Debugging Redis Lua Scripts](https://redislabs.com/blog/5-6-7-methods-for-tracing-and-debugging-redis-lua-scripts/)
 
+* 2017-09-30  [A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns](https://github.com/facebookarchive/redis-faina)
+
