@@ -910,3 +910,5 @@
 
 ## 2017-10
 
+* 2017-10-02  [Scaling Rails 3.old](https://medium.com/deliveroo-engineering/scaling-rails-3-old-d78519f7912a)
+
