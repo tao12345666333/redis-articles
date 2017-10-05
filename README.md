@@ -912,3 +912,5 @@
 
 * 2017-10-02  [Scaling Rails 3.old](https://medium.com/deliveroo-engineering/scaling-rails-3-old-d78519f7912a)
 
+* 2017-10-05  [Streams: a new general purpose data structure in Redis.](http://antirez.com/news/114)
+
