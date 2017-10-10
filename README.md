@@ -914,3 +914,5 @@
 
 * 2017-10-05  [Streams: a new general purpose data structure in Redis.](http://antirez.com/news/114)
 
+* 2017-10-10  [Redis-4.0 module实现](http://www.hulkdev.com/posts/redis-module)
+
