@@ -916,3 +916,5 @@
 
 * 2017-10-10  [Redis-4.0 module实现](http://www.hulkdev.com/posts/redis-module)
 
+* 2017-10-11  [Redis-4.0 psync 优化](http://www.hulkdev.com/posts/redis_new_psync)
+
