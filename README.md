@@ -918,3 +918,5 @@
 
 * 2017-10-11  [Redis-4.0 psync 优化](http://www.hulkdev.com/posts/redis_new_psync)
 
+* 2017-10-12  [贵金属Redis服务端优化实践](http://tech.lede.com/2017/07/03/rd/server/redisconfig/)
+
