@@ -926,3 +926,5 @@
 
 * 2017-10-16  [Redis Replication - Redis主从同步](https://wiki.jzland.com/doku.php?id=software:redis:redis_replication)
 
+* 2017-10-17  [JMeter’s Redis Data Set - An Introduction](https://www.blazemeter.com/blog/jmeters-redis-data-set-an-introduction)
+
