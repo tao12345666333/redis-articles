@@ -928,3 +928,5 @@
 
 * 2017-10-17  [JMeter’s Redis Data Set - An Introduction](https://www.blazemeter.com/blog/jmeters-redis-data-set-an-introduction)
 
+* 2017-10-18  [redis-random-data-generator](https://www.npmjs.com/package/redis-random-data-generator)
+
