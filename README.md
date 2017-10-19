@@ -930,3 +930,5 @@
 
 * 2017-10-18  [redis-random-data-generator](https://www.npmjs.com/package/redis-random-data-generator)
 
+* 2017-10-19  [Redis RDB出错问题的分析](http://www.baijinping.com/pages/2016/01/20/redis-rdb-oom-error.html)
+
