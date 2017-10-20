@@ -932,3 +932,5 @@
 
 * 2017-10-19  [Redis RDB出错问题的分析](http://www.baijinping.com/pages/2016/01/20/redis-rdb-oom-error.html)
 
+* 2017-10-20  [Redis-replicator 一款专注redis数据同步的工具](https://www.ctolib.com/leonchen83-redis-replicator.html)
+
