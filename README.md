@@ -934,3 +934,5 @@
 
 * 2017-10-20  [Redis-replicator 一款专注redis数据同步的工具](https://www.ctolib.com/leonchen83-redis-replicator.html)
 
+* 2017-10-21  [技术分享 《大话redis设计实现》](http://xiaorui.cc/2016/06/11/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB-%E3%80%8A%E5%A4%A7%E8%AF%9Dredis%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E3%80%8B/)
+
