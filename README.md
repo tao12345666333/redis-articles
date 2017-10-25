@@ -938,3 +938,5 @@
 
 * 2017-10-24  [Redis持久化文件RDB的格式解析](http://www.innereye.cn/2017/01/17/redis/Redis_RDB_File_Format_20170117/)
 
+* 2017-10-25  [RDB dump data format](https://github.com/leonchen83/redis-replicator/wiki/RDB-dump-data-format)
+
