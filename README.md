@@ -940,3 +940,5 @@
 
 * 2017-10-25  [RDB dump data format](https://github.com/leonchen83/redis-replicator/wiki/RDB-dump-data-format)
 
+* 2017-10-26  [关于redis集群线上以及测试环境出现read time out,connect time out的总结](http://weakyon.com/2014/12/19/debug-for-redis-time-out.html)
+
