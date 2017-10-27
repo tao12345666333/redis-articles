@@ -942,3 +942,5 @@
 
 * 2017-10-26  [关于redis集群线上以及测试环境出现read time out,connect time out的总结](http://weakyon.com/2014/12/19/debug-for-redis-time-out.html)
 
+* 2017-10-27  [当主重启时sentinel没有切换导致数据丢失](http://weakyon.com/2017/10/11/sentinel-does-not-trigger-failover-when-master-reboot-resulting-in-data-loss.html)
+
