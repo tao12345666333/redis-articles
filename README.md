@@ -944,3 +944,5 @@
 
 * 2017-10-27  [当主重启时sentinel没有切换导致数据丢失](http://weakyon.com/2017/10/11/sentinel-does-not-trigger-failover-when-master-reboot-resulting-in-data-loss.html)
 
+* 2017-10-28  [Redis集群实现原理探讨](https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/?sf=wx_sm)
+
