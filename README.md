@@ -946,3 +946,5 @@
 
 * 2017-10-28  [Redis集群实现原理探讨](https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/?sf=wx_sm)
 
+* 2017-10-29  [Java: Introducing Redis Mock](https://dzone.com/articles/java-redis-mock)
+
