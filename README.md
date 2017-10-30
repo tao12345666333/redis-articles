@@ -948,3 +948,5 @@
 
 * 2017-10-29  [Java: Introducing Redis Mock](https://dzone.com/articles/java-redis-mock)
 
+* 2017-10-30  [大规模codis集群的治理与实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM1MjExMg==&mid=2247484638&idx=1&sn=b4076f8ceff2eb7a4c1c7b5538376f6c&chksm=eb075b81dc70d297864ef4d131cb4373632e012fa472b0e99af8b26140f7e637657e5baa9406&mpshare=1&scene=1&srcid=1030hKfNQt89lagUGbWbOLWB&key=ffb08cd12e7af3b403842b936d8306fa9dc32475787ad08ac2a021ff6b16a0246c8331ea67dc25af5c97855ebdbe1a6eaa79c35874f0a4967b2705776f85745ad692fafad83de558b9c7db789bd203e7&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=sTRZxoNbjps9Ydl2gVWHrzdNj%2B9kVDJ9H5kzqnBGlMhdUNlZundPWwa0XMi685bB)
+
