@@ -954,3 +954,5 @@
 
 * 2017-11-01  [Importing .rdb files into Redis with Protocol Streams](http://siawyoung.com/coding/sysadmin/importing-rdb-with-protocol-streams.html)
 
+* 2017-11-02  [Redis故障案例(一)-特定key批量丢失](https://mp.weixin.qq.com/s?__biz=MzU1ODAyNzYxMQ==&mid=2247483684&idx=1&sn=8a0a11fc9096d9c36c03d1666c50c1e3&chksm=fc2d8710cb5a0e061851349fb5dbf69ec94f86d2492320758e921c4266b682dd45a4d88d3d12&mpshare=1&scene=1&srcid=1101dxBaqoDX9d7wYKMczhdX&key=2a1c8df18bf8abe354aa4776d47eb8e8f6ca71132383675a4d7a435a143f835ceb5ceb5acf3ce32d0b8c1bac114c554eb77e82fdfbcf4479ba3b677b1568cd577317372cc0e9d4a09a7927918ffe3dd4&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=EF1i4xWktqDz21eKygJfj70iVrSKSU7z9R43P5cfZ20FmyVVDdhIYYRAlUbN8cs8)
+
