@@ -964,5 +964,7 @@
 
 * 2017-11-06  [Redis故障案例(二)-记一个Redis安全漏洞和安全规范](https://mp.weixin.qq.com/s?__biz=MzU1ODAyNzYxMQ==&mid=2247483707&idx=1&sn=7cdbda97cef8b976496821a8cbb7b249&chksm=fc2d870fcb5a0e194ec92c56d86f1589506a0e1034e0477204d3687ebd0345a5f2ba2b879e25&mpshare=1&scene=1&srcid=1106T8Lp0rB9O12tzEYmCouK&key=df2aab9079e3ec90bebc02cb7e5cb7fbc13c8539f5707454fcf2f32fdb6d18e8b646336d01de311d849da5671cc9a6223f1026e7a3de488e964dbb8a741483110e4b497fca24199c961846dd58679e94&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=%2BZmW4NYTcCIHaKQNrCxIgSTvFGjucovKFuDaSROQc5y%2FmkrNJrpOLybOMl2P%2BXaz)
 
+* 2017-11-08  [springboot中redis的使用和分布式session共享问题](http://www.jianshu.com/p/b5a96142fdd9)
+
 * 2017-11-09  [Gryadka is a minimalistic Paxos-based master-master replicated consistent key/value layer on top of multiple instances of Redis](https://github.com/gryadka/js/blob/master/README.md)
 
