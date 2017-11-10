@@ -974,3 +974,5 @@
 
 * 2017-11-09  [Gryadka is a minimalistic Paxos-based master-master replicated consistent key/value layer on top of multiple instances of Redis](https://github.com/gryadka/js/blob/master/README.md)
 
+* 2017-11-10  [Jedis常见异常汇总](https://m.aliyun.com/yunqi/articles/236384)
+
