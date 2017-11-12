@@ -976,3 +976,5 @@
 
 * 2017-11-10  [Jedis常见异常汇总](https://m.aliyun.com/yunqi/articles/236384)
 
+* 2017-11-12  [Docker Swarm Part II: Rescheduling Redis](https://dzone.com/articles/swarmweek-part-2-rescheduling-redis-with-swarm)
+
