@@ -978,3 +978,5 @@
 
 * 2017-11-12  [Docker Swarm Part II: Rescheduling Redis](https://dzone.com/articles/swarmweek-part-2-rescheduling-redis-with-swarm)
 
+* 2017-11-13  [RDB dump data format-redis-replicator](https://github.com/leonchen83/redis-replicator/wiki/RDB-dump-data-format)
+
