@@ -980,3 +980,5 @@
 
 * 2017-11-13  [RDB dump data format-redis-replicator](https://github.com/leonchen83/redis-replicator/wiki/RDB-dump-data-format)
 
+* 2017-11-14  [线上升级Redis纪实](https://juejin.im/post/59f2ee29f265da43346f297e)
+
