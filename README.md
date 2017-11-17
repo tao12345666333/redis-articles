@@ -982,3 +982,5 @@
 
 * 2017-11-14  [线上升级Redis纪实](https://juejin.im/post/59f2ee29f265da43346f297e)
 
+* 2017-11-17  [A Guide to Redis with Redisson](http://www.baeldung.com/redis-redisson)
+
