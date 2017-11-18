@@ -984,3 +984,5 @@
 
 * 2017-11-17  [A Guide to Redis with Redisson](http://www.baeldung.com/redis-redisson)
 
+* 2017-11-18  [全面剖析Redis Cluster原理和应用](http://www.aboutyun.com/thread-15315-1-1.html)
+
