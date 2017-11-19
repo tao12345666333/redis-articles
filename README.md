@@ -986,3 +986,5 @@
 
 * 2017-11-18  [全面剖析Redis Cluster原理和应用](http://www.aboutyun.com/thread-15315-1-1.html)
 
+* 2017-11-19  [Under the Hood: Redis Enterprise Flash Database Architecture](https://dzone.com/articles/under-the-hood-redis-enterprise-flash-database-arc)
+
