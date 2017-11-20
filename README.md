@@ -988,3 +988,5 @@
 
 * 2017-11-19  [Under the Hood: Redis Enterprise Flash Database Architecture](https://dzone.com/articles/under-the-hood-redis-enterprise-flash-database-arc)
 
+* 2017-11-20  [Using Redis Modules with NodeJS in a Docker Container](https://daten-und-bass.io/blog/using-redis-modules-with-nodejs-in-a-docker-container/)
+
