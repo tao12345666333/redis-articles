@@ -990,3 +990,5 @@
 
 * 2017-11-20  [Using Redis Modules with NodeJS in a Docker Container](https://daten-und-bass.io/blog/using-redis-modules-with-nodejs-in-a-docker-container/)
 
+* 2017-11-21  [如何基于Redis Replication设计并实现Redis-replicator？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487135&idx=1&sn=323b42c99aaafe7aad8e04494be5916e&chksm=96c9b8ffa1be31e9f7c4b2967f6399e0f60bb1e23551b17444454527660719e50086ca9270f1&mpshare=1&scene=1&srcid=11212Sp52K59yB1SDeX1foto&key=352aec6a62eb7f7cd26ad846f3457d9060e73f1099595684dbd4f89a36e988e0c8401f92cc7c7b3e15154e8cdc65885909e6d157555ddf7582c5f770c8685991a21f5f885c59568df31b4896bc9cf1f2&ascene=0&uin=MzM4Njg2NDU1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020710&nettype=WIFI&fontScale=100&pass_ticket=x9VG3yIN7cpziLEpwZ9b5LOMU%2BXzZU2p5dclID0MRkZug2I6t00j0wMeHIUZSUsH)
+
