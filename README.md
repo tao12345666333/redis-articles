@@ -994,5 +994,9 @@
 
 * 2017-11-22  [Redis模块学习笔记（一）RediSearch简单使用](http://www.cnblogs.com/tinywan/p/7839928.html)
 
+
+## 2018-01
+
+
 * 2018-01-08  [Creating Redis Cluster using Docker](https://medium.com/monitisemea/creating-redis-cluster-using-docker-67f65545796d)
 
