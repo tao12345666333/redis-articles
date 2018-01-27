@@ -1000,3 +1000,5 @@
 
 * 2018-01-08  [Creating Redis Cluster using Docker](https://medium.com/monitisemea/creating-redis-cluster-using-docker-67f65545796d)
 
+* 2018-01-27  [Cache设计和使用上的套路](https://ningyu1.github.io/site/post/05-cache-design/?from=groupmessage)
+
